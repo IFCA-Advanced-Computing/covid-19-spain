@@ -13,6 +13,14 @@ España, a nivel provincial.
 > :warning: **Galicia**: 60 muertes sin contabilizar, correspondientes a las
 > residencias con anterioridad al 18 de abril.
 
+> :warning: **Aragon**: El número de muertes y casos son inferiores a los
+> reales, puesto que hay algunos casos no asignados a ninguna provincia.
+
+> :warning: **Cataluña**: El número de casos son inferiores a los reales,
+> puesto que hay algunos casos no asignados a ninguna provincia.
+
+> :warning: **Cataluña**: No se dispone de muertes por provincia.
+
 > :warning: Pueden existir ligeras fluctuaciones en los datos de los primeros
 > días en cada provincia, cuando aún no se proporcionaban los datos de forma
 > sistematizada.
