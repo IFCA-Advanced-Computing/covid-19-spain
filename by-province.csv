@@ -1,0 +1,2364 @@
+date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
+2020-02-27,1,Andalucía,4,Almería,0,0,0,0
+2020-02-27,1,Andalucía,11,Cádiz,0,0,0,0
+2020-02-27,1,Andalucía,14,Córdoba,0,0,0,0
+2020-02-27,1,Andalucía,18,Granada,0,0,0,0
+2020-02-27,1,Andalucía,21,Huelva,0,0,0,0
+2020-02-27,1,Andalucía,23,Jaén,0,0,0,0
+2020-02-27,1,Andalucía,29,Málaga,0,0,0,0
+2020-02-27,1,Andalucía,41,Sevilla,1,1,0,0
+2020-02-27,2,Aragón,22,Huesca,0,0,0,0
+2020-02-27,2,Aragón,44,Teruel,0,0,0,0
+2020-02-27,2,Aragón,50,Zaragoza,0,0,0,0
+2020-02-27,3,"Asturias, Principado de",33,Asturias,0,0,0,0
+2020-02-27,4,"Balears, Illes",7,"Balears, Illes",1,0,0,0
+2020-02-27,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-02-27,5,Canarias,38,Santa Cruz de Tenerife,5,3,0,0
+2020-02-27,6,Cantabria,39,Cantabria,0,0,0,0
+2020-02-27,18,Ceuta,51,Ceuta,0,0,0,0
+2020-02-27,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-02-27,10,Comunitat Valenciana,12,Castellón,1,1,0,0
+2020-02-27,10,Comunitat Valenciana,46,Valencia,9,9,0,0
+2020-02-27,17,"Rioja, La",26,"Rioja, La",0,0,0,0
+2020-02-27,13,"Madrid, Comunidad de",28,Madrid,4,0,0,0
+2020-02-27,19,Melilla,52,Melilla,0,0,0,0
+2020-02-27,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-02-27,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0,0
+2020-02-27,16,País Vasco,1,Araba,0,0,0,0
+2020-02-27,16,País Vasco,48,Bizkaia,0,0,0,0
+2020-02-27,16,País Vasco,20,Gipuzkoa,0,0,0,0
+2020-02-28,1,Andalucía,4,Almería,0,0,0,0
+2020-02-28,1,Andalucía,11,Cádiz,0,0,0,0
+2020-02-28,1,Andalucía,14,Córdoba,0,0,0,0
+2020-02-28,1,Andalucía,18,Granada,0,0,0,0
+2020-02-28,1,Andalucía,21,Huelva,0,0,0,0
+2020-02-28,1,Andalucía,23,Jaén,1,1,0,0
+2020-02-28,1,Andalucía,29,Málaga,0,0,0,0
+2020-02-28,1,Andalucía,41,Sevilla,1,0,0,0
+2020-02-28,2,Aragón,22,Huesca,0,0,0,0
+2020-02-28,2,Aragón,44,Teruel,0,0,0,0
+2020-02-28,2,Aragón,50,Zaragoza,1,1,0,0
+2020-02-28,3,"Asturias, Principado de",33,Asturias,0,0,0,0
+2020-02-28,4,"Balears, Illes",7,"Balears, Illes",1,0,0,0
+2020-02-28,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-02-28,5,Canarias,38,Santa Cruz de Tenerife,5,0,0,0
+2020-02-28,6,Cantabria,39,Cantabria,0,0,0,0
+2020-02-28,18,Ceuta,51,Ceuta,0,0,0,0
+2020-02-28,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-02-28,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-02-28,10,Comunitat Valenciana,46,Valencia,10,1,0,0
+2020-02-28,17,"Rioja, La",26,"Rioja, La",0,0,0,0
+2020-02-28,13,"Madrid, Comunidad de",28,Madrid,5,1,0,0
+2020-02-28,19,Melilla,52,Melilla,0,0,0,0
+2020-02-28,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-02-28,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0,0
+2020-02-28,16,País Vasco,1,Araba,0,0,0,0
+2020-02-28,16,País Vasco,48,Bizkaia,0,0,0,0
+2020-02-28,16,País Vasco,20,Gipuzkoa,0,0,0,0
+2020-02-29,1,Andalucía,4,Almería,0,0,0,0
+2020-02-29,1,Andalucía,11,Cádiz,0,0,0,0
+2020-02-29,1,Andalucía,14,Córdoba,0,0,0,0
+2020-02-29,1,Andalucía,18,Granada,0,0,0,0
+2020-02-29,1,Andalucía,21,Huelva,0,0,0,0
+2020-02-29,1,Andalucía,23,Jaén,1,0,0,0
+2020-02-29,1,Andalucía,29,Málaga,2,2,0,0
+2020-02-29,1,Andalucía,41,Sevilla,1,0,0,0
+2020-02-29,2,Aragón,22,Huesca,0,0,0,0
+2020-02-29,2,Aragón,44,Teruel,0,0,0,0
+2020-02-29,2,Aragón,50,Zaragoza,1,0,0,0
+2020-02-29,3,"Asturias, Principado de",33,Asturias,0,0,0,0
+2020-02-29,4,"Balears, Illes",7,"Balears, Illes",2,1,0,0
+2020-02-29,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-02-29,5,Canarias,38,Santa Cruz de Tenerife,5,0,0,0
+2020-02-29,6,Cantabria,39,Cantabria,0,0,0,0
+2020-02-29,18,Ceuta,51,Ceuta,0,0,0,0
+2020-02-29,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-02-29,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-02-29,10,Comunitat Valenciana,46,Valencia,15,5,0,0
+2020-02-29,17,"Rioja, La",26,"Rioja, La",0,0,0,0
+2020-02-29,13,"Madrid, Comunidad de",28,Madrid,8,3,0,0
+2020-02-29,19,Melilla,52,Melilla,0,0,0,0
+2020-02-29,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-02-29,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0,0
+2020-02-29,16,País Vasco,1,Araba,0,0,0,0
+2020-02-29,16,País Vasco,48,Bizkaia,0,0,0,0
+2020-02-29,16,País Vasco,20,Gipuzkoa,0,0,0,0
+2020-03-01,1,Andalucía,4,Almería,0,0,0,0
+2020-03-01,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-01,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-01,1,Andalucía,18,Granada,0,0,0,0
+2020-03-01,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-01,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-01,1,Andalucía,29,Málaga,2,0,0,0
+2020-03-01,1,Andalucía,41,Sevilla,3,2,0,0
+2020-03-01,2,Aragón,22,Huesca,0,0,0,0
+2020-03-01,2,Aragón,44,Teruel,0,0,0,0
+2020-03-01,2,Aragón,50,Zaragoza,1,0,0,0
+2020-03-01,3,"Asturias, Principado de",33,Asturias,1,1,0,0
+2020-03-01,4,"Balears, Illes",7,"Balears, Illes",2,0,0,0
+2020-03-01,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-01,5,Canarias,38,Santa Cruz de Tenerife,5,0,0,0
+2020-03-01,6,Cantabria,39,Cantabria,1,1,0,0
+2020-03-01,8,Castila-La Mancha,2,Albacete,0,0,0,0
+2020-03-01,8,Castila-La Mancha,13,Ciudad Real,0,0,0,0
+2020-03-01,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-01,8,Castila-La Mancha,19,Guadalajara,1,0,0,0
+2020-03-01,8,Castila-La Mancha,45,Toledo,0,0,0,0
+2020-03-01,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-01,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-03-01,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-03-01,10,Comunitat Valenciana,46,Valencia,15,0,0,0
+2020-03-01,12,Galicia,15,"Coruña, A",0,0,0,0
+2020-03-01,12,Galicia,27,Lugo,0,0,0,0
+2020-03-01,12,Galicia,32,Ourense,0,0,0,0
+2020-03-01,12,Galicia,36,Pontevedra,0,0,0,0
+2020-03-01,17,"Rioja, La",26,"Rioja, La",0,0,0,0
+2020-03-01,13,"Madrid, Comunidad de",28,Madrid,10,2,0,0
+2020-03-01,19,Melilla,52,Melilla,0,0,0,0
+2020-03-01,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-01,15,"Navarra, Comunidad Foral de",31,Navarra,1,1,0,0
+2020-03-01,16,País Vasco,1,Araba,1,1,0,0
+2020-03-01,16,País Vasco,48,Bizkaia,0,0,0,0
+2020-03-01,16,País Vasco,20,Gipuzkoa,0,0,0,0
+2020-03-02,1,Andalucía,4,Almería,0,0,0,0
+2020-03-02,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-02,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-02,1,Andalucía,18,Granada,0,0,0,0
+2020-03-02,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-02,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-02,1,Andalucía,29,Málaga,2,0,0,0
+2020-03-02,1,Andalucía,41,Sevilla,3,0,0,0
+2020-03-02,2,Aragón,22,Huesca,0,0,0,0
+2020-03-02,2,Aragón,44,Teruel,0,0,0,0
+2020-03-02,2,Aragón,50,Zaragoza,1,0,0,0
+2020-03-02,3,"Asturias, Principado de",33,Asturias,1,0,0,0
+2020-03-02,4,"Balears, Illes",7,"Balears, Illes",2,0,0,0
+2020-03-02,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-02,5,Canarias,38,Santa Cruz de Tenerife,5,0,0,0
+2020-03-02,6,Cantabria,39,Cantabria,10,9,0,0
+2020-03-02,8,Castila-La Mancha,2,Albacete,1,1,0,0
+2020-03-02,8,Castila-La Mancha,13,Ciudad Real,0,0,0,0
+2020-03-02,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-02,8,Castila-La Mancha,19,Guadalajara,1,0,0,0
+2020-03-02,8,Castila-La Mancha,45,Toledo,0,0,0,0
+2020-03-02,9,Cataluña,8,Barcelona,2,2,0,0
+2020-03-02,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-02,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-03-02,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-03-02,10,Comunitat Valenciana,46,Valencia,17,2,0,0
+2020-03-02,12,Galicia,15,"Coruña, A",0,0,0,0
+2020-03-02,12,Galicia,27,Lugo,0,0,0,0
+2020-03-02,12,Galicia,32,Ourense,0,0,0,0
+2020-03-02,12,Galicia,36,Pontevedra,0,0,0,0
+2020-03-02,17,"Rioja, La",26,"Rioja, La",1,1,0,0
+2020-03-02,13,"Madrid, Comunidad de",28,Madrid,29,19,0,0
+2020-03-02,19,Melilla,52,Melilla,0,0,0,0
+2020-03-02,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-02,15,"Navarra, Comunidad Foral de",31,Navarra,1,0,0,0
+2020-03-02,16,País Vasco,1,Araba,1,0,0,0
+2020-03-02,16,País Vasco,48,Bizkaia,0,0,0,0
+2020-03-02,16,País Vasco,20,Gipuzkoa,0,0,0,0
+2020-03-03,1,Andalucía,4,Almería,0,0,0,0
+2020-03-03,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-03,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-03,1,Andalucía,18,Granada,0,0,0,0
+2020-03-03,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-03,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-03,1,Andalucía,29,Málaga,3,1,0,0
+2020-03-03,1,Andalucía,41,Sevilla,3,0,0,0
+2020-03-03,2,Aragón,22,Huesca,0,0,0,0
+2020-03-03,2,Aragón,44,Teruel,0,0,0,0
+2020-03-03,2,Aragón,50,Zaragoza,1,0,0,0
+2020-03-03,3,"Asturias, Principado de",33,Asturias,1,0,0,0
+2020-03-03,4,"Balears, Illes",7,"Balears, Illes",2,0,0,0
+2020-03-03,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-03,5,Canarias,38,Santa Cruz de Tenerife,6,1,0,0
+2020-03-03,6,Cantabria,39,Cantabria,10,0,0,0
+2020-03-03,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-03,8,Castila-La Mancha,13,Ciudad Real,0,0,0,0
+2020-03-03,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-03,8,Castila-La Mancha,19,Guadalajara,2,1,0,0
+2020-03-03,8,Castila-La Mancha,45,Toledo,2,2,0,0
+2020-03-03,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-03,10,Comunitat Valenciana,3,Alicante,0,0,0,0
+2020-03-03,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-03-03,10,Comunitat Valenciana,46,Valencia,18,1,0,0
+2020-03-03,12,Galicia,15,"Coruña, A",0,0,0,0
+2020-03-03,12,Galicia,27,Lugo,0,0,0,0
+2020-03-03,12,Galicia,32,Ourense,0,0,0,0
+2020-03-03,12,Galicia,36,Pontevedra,0,0,0,0
+2020-03-03,17,"Rioja, La",26,"Rioja, La",3,2,0,0
+2020-03-03,13,"Madrid, Comunidad de",28,Madrid,49,20,0,0
+2020-03-03,19,Melilla,52,Melilla,0,0,0,0
+2020-03-03,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-03,15,"Navarra, Comunidad Foral de",31,Navarra,1,0,0,0
+2020-03-03,16,País Vasco,1,Araba,3,2,0,0
+2020-03-03,16,País Vasco,48,Bizkaia,2,2,0,0
+2020-03-03,16,País Vasco,20,Gipuzkoa,2,2,0,0
+2020-03-04,1,Andalucía,4,Almería,0,0,0,0
+2020-03-04,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-04,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-04,1,Andalucía,18,Granada,0,0,0,0
+2020-03-04,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-04,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-04,1,Andalucía,29,Málaga,3,0,0,0
+2020-03-04,1,Andalucía,41,Sevilla,3,0,0,0
+2020-03-04,2,Aragón,22,Huesca,0,0,0,0
+2020-03-04,2,Aragón,44,Teruel,0,0,0,0
+2020-03-04,2,Aragón,50,Zaragoza,2,1,0,0
+2020-03-04,3,"Asturias, Principado de",33,Asturias,2,1,0,0
+2020-03-04,4,"Balears, Illes",7,"Balears, Illes",5,3,0,0
+2020-03-04,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-04,5,Canarias,38,Santa Cruz de Tenerife,7,1,0,0
+2020-03-04,6,Cantabria,39,Cantabria,10,0,0,0
+2020-03-04,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-04,8,Castila-La Mancha,13,Ciudad Real,1,1,0,0
+2020-03-04,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-04,8,Castila-La Mancha,19,Guadalajara,8,6,0,0
+2020-03-04,8,Castila-La Mancha,45,Toledo,2,0,0,0
+2020-03-04,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-04,10,Comunitat Valenciana,3,Alicante,3,3,0,0
+2020-03-04,10,Comunitat Valenciana,12,Castellón,1,0,0,0
+2020-03-04,10,Comunitat Valenciana,46,Valencia,20,2,0,0
+2020-03-04,12,Galicia,15,"Coruña, A",1,1,0,0
+2020-03-04,12,Galicia,27,Lugo,0,0,0,0
+2020-03-04,12,Galicia,32,Ourense,0,0,0,0
+2020-03-04,12,Galicia,36,Pontevedra,0,0,0,0
+2020-03-04,17,"Rioja, La",26,"Rioja, La",7,4,0,0
+2020-03-04,13,"Madrid, Comunidad de",28,Madrid,70,21,0,0
+2020-03-04,19,Melilla,52,Melilla,0,0,0,0
+2020-03-04,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-04,15,"Navarra, Comunidad Foral de",31,Navarra,3,2,0,0
+2020-03-04,16,País Vasco,1,Araba,6,3,0,0
+2020-03-04,16,País Vasco,48,Bizkaia,3,1,0,0
+2020-03-04,16,País Vasco,20,Gipuzkoa,2,0,0,0
+2020-03-05,1,Andalucía,4,Almería,0,0,0,0
+2020-03-05,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-05,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-05,1,Andalucía,18,Granada,0,0,0,0
+2020-03-05,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-05,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-05,1,Andalucía,29,Málaga,5,2,0,0
+2020-03-05,1,Andalucía,41,Sevilla,5,2,0,0
+2020-03-05,2,Aragón,22,Huesca,0,0,0,0
+2020-03-05,2,Aragón,44,Teruel,0,0,0,0
+2020-03-05,2,Aragón,50,Zaragoza,2,0,0,0
+2020-03-05,3,"Asturias, Principado de",33,Asturias,5,3,0,0
+2020-03-05,4,"Balears, Illes",7,"Balears, Illes",6,1,0,0
+2020-03-05,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-05,5,Canarias,38,Santa Cruz de Tenerife,8,1,0,0
+2020-03-05,6,Cantabria,39,Cantabria,10,0,0,0
+2020-03-05,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-05,8,Castila-La Mancha,13,Ciudad Real,1,0,0,0
+2020-03-05,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-05,8,Castila-La Mancha,19,Guadalajara,9,1,0,0
+2020-03-05,8,Castila-La Mancha,45,Toledo,2,0,0,0
+2020-03-05,9,Cataluña,8,Barcelona,8,6,0,0
+2020-03-05,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-05,10,Comunitat Valenciana,3,Alicante,5,2,0,0
+2020-03-05,10,Comunitat Valenciana,12,Castellón,3,2,0,0
+2020-03-05,10,Comunitat Valenciana,46,Valencia,22,2,0,0
+2020-03-05,12,Galicia,15,"Coruña, A",1,0,0,0
+2020-03-05,12,Galicia,27,Lugo,0,0,0,0
+2020-03-05,12,Galicia,32,Ourense,0,0,0,0
+2020-03-05,12,Galicia,36,Pontevedra,2,2,0,0
+2020-03-05,17,"Rioja, La",26,"Rioja, La",11,4,0,0
+2020-03-05,13,"Madrid, Comunidad de",28,Madrid,90,20,1,1
+2020-03-05,19,Melilla,52,Melilla,0,0,0,0
+2020-03-05,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-05,15,"Navarra, Comunidad Foral de",31,Navarra,3,0,0,0
+2020-03-05,16,País Vasco,1,Araba,22,16,0,0
+2020-03-05,16,País Vasco,48,Bizkaia,6,3,0,0
+2020-03-05,16,País Vasco,20,Gipuzkoa,2,0,0,0
+2020-03-06,1,Andalucía,4,Almería,0,0,0,0
+2020-03-06,1,Andalucía,11,Cádiz,0,0,0,0
+2020-03-06,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-06,1,Andalucía,18,Granada,0,0,0,0
+2020-03-06,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-06,1,Andalucía,23,Jaén,1,0,0,0
+2020-03-06,1,Andalucía,29,Málaga,9,4,0,0
+2020-03-06,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-06,2,Aragón,22,Huesca,0,0,0,0
+2020-03-06,2,Aragón,44,Teruel,0,0,0,0
+2020-03-06,2,Aragón,50,Zaragoza,7,5,1,0
+2020-03-06,3,"Asturias, Principado de",33,Asturias,5,0,0,0
+2020-03-06,4,"Balears, Illes",7,"Balears, Illes",6,0,0,0
+2020-03-06,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-06,5,Canarias,38,Santa Cruz de Tenerife,9,1,0,0
+2020-03-06,6,Cantabria,39,Cantabria,10,0,0,0
+2020-03-06,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-06,8,Castila-La Mancha,13,Ciudad Real,1,0,0,0
+2020-03-06,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-06,8,Castila-La Mancha,19,Guadalajara,11,2,0,0
+2020-03-06,8,Castila-La Mancha,45,Toledo,2,0,0,0
+2020-03-06,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-06,10,Comunitat Valenciana,3,Alicante,6,1,0,0
+2020-03-06,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-06,10,Comunitat Valenciana,46,Valencia,22,0,0,0
+2020-03-06,5,Extremadura,6,Badajoz,4,0,0,0
+2020-03-06,5,Extremadura,10,Cáceres,2,0,0,0
+2020-03-06,12,Galicia,15,"Coruña, A",1,0,0,0
+2020-03-06,12,Galicia,27,Lugo,0,0,0,0
+2020-03-06,12,Galicia,32,Ourense,0,0,0,0
+2020-03-06,12,Galicia,36,Pontevedra,3,1,0,0
+2020-03-06,17,"Rioja, La",26,"Rioja, La",29,18,0,0
+2020-03-06,13,"Madrid, Comunidad de",28,Madrid,137,47,2,1
+2020-03-06,19,Melilla,52,Melilla,0,0,0,0
+2020-03-06,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-06,15,"Navarra, Comunidad Foral de",31,Navarra,3,0,0,0
+2020-03-06,16,País Vasco,1,Araba,38,16,1,1
+2020-03-06,16,País Vasco,48,Bizkaia,10,4,1,1
+2020-03-06,16,País Vasco,20,Gipuzkoa,2,0,1,1
+2020-03-07,1,Andalucía,4,Almería,0,0,0,0
+2020-03-07,1,Andalucía,11,Cádiz,1,1,0,0
+2020-03-07,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-07,1,Andalucía,18,Granada,0,0,0,0
+2020-03-07,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-07,1,Andalucía,23,Jaén,3,2,0,0
+2020-03-07,1,Andalucía,29,Málaga,11,2,0,0
+2020-03-07,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-07,2,Aragón,22,Huesca,0,0,0,0
+2020-03-07,2,Aragón,44,Teruel,0,0,0,0
+2020-03-07,2,Aragón,50,Zaragoza,14,7,1,0
+2020-03-07,3,"Asturias, Principado de",33,Asturias,5,0,0,0
+2020-03-07,4,"Balears, Illes",7,"Balears, Illes",6,0,0,0
+2020-03-07,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-07,5,Canarias,38,Santa Cruz de Tenerife,9,0,0,0
+2020-03-07,6,Cantabria,39,Cantabria,10,0,0,0
+2020-03-07,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-07,8,Castila-La Mancha,13,Ciudad Real,1,0,0,0
+2020-03-07,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-07,8,Castila-La Mancha,19,Guadalajara,12,1,0,0
+2020-03-07,8,Castila-La Mancha,45,Toledo,2,0,0,0
+2020-03-07,9,Cataluña,8,Barcelona,11,3,0,0
+2020-03-07,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-07,10,Comunitat Valenciana,3,Alicante,9,3,0,0
+2020-03-07,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-07,10,Comunitat Valenciana,46,Valencia,25,3,0,0
+2020-03-07,5,Extremadura,6,Badajoz,4,0,0,0
+2020-03-07,5,Extremadura,10,Cáceres,2,0,0,0
+2020-03-07,12,Galicia,15,"Coruña, A",1,0,0,0
+2020-03-07,12,Galicia,27,Lugo,0,0,0,0
+2020-03-07,12,Galicia,32,Ourense,0,0,0,0
+2020-03-07,12,Galicia,36,Pontevedra,3,0,0,0
+2020-03-07,17,"Rioja, La",26,"Rioja, La",39,10,0,0
+2020-03-07,13,"Madrid, Comunidad de",28,Madrid,174,37,4,2
+2020-03-07,19,Melilla,52,Melilla,0,0,0,0
+2020-03-07,14,"Murcia, Región de",30,Murcia,0,0,0,0
+2020-03-07,15,"Navarra, Comunidad Foral de",31,Navarra,3,0,0,0
+2020-03-07,16,País Vasco,1,Araba,66,28,3,2
+2020-03-07,16,País Vasco,48,Bizkaia,13,3,3,2
+2020-03-07,16,País Vasco,20,Gipuzkoa,4,2,3,2
+2020-03-08,1,Andalucía,4,Almería,0,0,0,0
+2020-03-08,1,Andalucía,11,Cádiz,2,1,0,0
+2020-03-08,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-08,1,Andalucía,18,Granada,0,0,0,0
+2020-03-08,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-08,1,Andalucía,23,Jaén,4,1,0,0
+2020-03-08,1,Andalucía,29,Málaga,16,5,0,0
+2020-03-08,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-08,2,Aragón,22,Huesca,0,0,0,0
+2020-03-08,2,Aragón,44,Teruel,0,0,0,0
+2020-03-08,2,Aragón,50,Zaragoza,21,7,2,1
+2020-03-08,3,"Asturias, Principado de",33,Asturias,7,2,0,0
+2020-03-08,4,"Balears, Illes",7,"Balears, Illes",8,2,0,0
+2020-03-08,5,Canarias,35,"Palmas, Las",0,0,0,0
+2020-03-08,5,Canarias,38,Santa Cruz de Tenerife,9,0,0,0
+2020-03-08,6,Cantabria,39,Cantabria,12,2,0,0
+2020-03-08,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-08,8,Castila-La Mancha,13,Ciudad Real,2,1,0,0
+2020-03-08,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-08,8,Castila-La Mancha,19,Guadalajara,15,3,0,0
+2020-03-08,8,Castila-La Mancha,45,Toledo,3,1,0,0
+2020-03-08,9,Cataluña,8,Barcelona,15,4,0,0
+2020-03-08,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-08,10,Comunitat Valenciana,3,Alicante,14,5,0,0
+2020-03-08,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-08,10,Comunitat Valenciana,46,Valencia,25,0,0,0
+2020-03-08,5,Extremadura,6,Badajoz,5,1,0,0
+2020-03-08,5,Extremadura,10,Cáceres,3,1,0,0
+2020-03-08,12,Galicia,15,"Coruña, A",2,1,0,0
+2020-03-08,12,Galicia,27,Lugo,0,0,0,0
+2020-03-08,12,Galicia,32,Ourense,0,0,0,0
+2020-03-08,12,Galicia,36,Pontevedra,4,1,0,0
+2020-03-08,17,"Rioja, La",26,"Rioja, La",55,16,0,0
+2020-03-08,13,"Madrid, Comunidad de",28,Madrid,202,28,8,4
+2020-03-08,19,Melilla,52,Melilla,0,0,0,0
+2020-03-08,14,"Murcia, Región de",30,Murcia,1,1,0,0
+2020-03-08,15,"Navarra, Comunidad Foral de",31,Navarra,3,0,0,0
+2020-03-08,16,País Vasco,1,Araba,95,29,3,0
+2020-03-08,16,País Vasco,48,Bizkaia,21,8,3,0
+2020-03-08,16,País Vasco,20,Gipuzkoa,7,3,3,0
+2020-03-09,1,Andalucía,4,Almería,1,1,0,0
+2020-03-09,1,Andalucía,11,Cádiz,2,0,0,0
+2020-03-09,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-09,1,Andalucía,18,Granada,0,0,0,0
+2020-03-09,1,Andalucía,21,Huelva,0,0,0,0
+2020-03-09,1,Andalucía,23,Jaén,5,1,0,0
+2020-03-09,1,Andalucía,29,Málaga,26,10,0,0
+2020-03-09,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-09,2,Aragón,22,Huesca,0,0,0,0
+2020-03-09,2,Aragón,44,Teruel,0,0,0,0
+2020-03-09,2,Aragón,50,Zaragoza,32,11,2,0
+2020-03-09,3,"Asturias, Principado de",33,Asturias,7,0,0,0
+2020-03-09,4,"Balears, Illes",7,"Balears, Illes",11,3,0,0
+2020-03-09,5,Canarias,35,"Palmas, Las",1,1,0,0
+2020-03-09,5,Canarias,38,Santa Cruz de Tenerife,13,4,0,0
+2020-03-09,6,Cantabria,39,Cantabria,12,0,0,0
+2020-03-09,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-09,8,Castila-La Mancha,13,Ciudad Real,3,1,0,0
+2020-03-09,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-09,8,Castila-La Mancha,19,Guadalajara,15,0,0,0
+2020-03-09,8,Castila-La Mancha,45,Toledo,5,2,0,0
+2020-03-09,9,Cataluña,8,Barcelona,28,13,0,0
+2020-03-09,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-09,10,Comunitat Valenciana,3,Alicante,15,1,0,0
+2020-03-09,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-09,10,Comunitat Valenciana,46,Valencia,26,1,0,0
+2020-03-09,5,Extremadura,6,Badajoz,5,0,0,0
+2020-03-09,5,Extremadura,10,Cáceres,3,0,0,0
+2020-03-09,12,Galicia,15,"Coruña, A",13,11,0,0
+2020-03-09,12,Galicia,27,Lugo,0,0,0,0
+2020-03-09,12,Galicia,32,Ourense,1,1,0,0
+2020-03-09,12,Galicia,36,Pontevedra,4,0,0,0
+2020-03-09,17,"Rioja, La",26,"Rioja, La",81,26,0,0
+2020-03-09,13,"Madrid, Comunidad de",28,Madrid,469,267,8,0
+2020-03-09,19,Melilla,52,Melilla,0,0,0,0
+2020-03-09,14,"Murcia, Región de",30,Murcia,4,3,0,0
+2020-03-09,15,"Navarra, Comunidad Foral de",31,Navarra,3,0,0,0
+2020-03-09,16,País Vasco,1,Araba,125,30,3,0
+2020-03-09,16,País Vasco,48,Bizkaia,33,12,3,0
+2020-03-09,16,País Vasco,20,Gipuzkoa,9,2,3,0
+2020-03-10,1,Andalucía,4,Almería,1,0,0,0
+2020-03-10,1,Andalucía,11,Cádiz,2,0,0,0
+2020-03-10,1,Andalucía,14,Córdoba,0,0,0,0
+2020-03-10,1,Andalucía,18,Granada,0,0,0,0
+2020-03-10,1,Andalucía,21,Huelva,1,1,0,0
+2020-03-10,1,Andalucía,23,Jaén,5,0,0,0
+2020-03-10,1,Andalucía,29,Málaga,31,5,0,0
+2020-03-10,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-10,2,Aragón,22,Huesca,0,0,0,0
+2020-03-10,2,Aragón,44,Teruel,3,3,0,0
+2020-03-10,2,Aragón,50,Zaragoza,36,4,3,1
+2020-03-10,3,"Asturias, Principado de",33,Asturias,22,15,0,0
+2020-03-10,4,"Balears, Illes",7,"Balears, Illes",13,2,0,0
+2020-03-10,5,Canarias,35,"Palmas, Las",5,4,0,0
+2020-03-10,5,Canarias,38,Santa Cruz de Tenerife,16,3,0,0
+2020-03-10,6,Cantabria,39,Cantabria,12,0,0,0
+2020-03-10,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-10,8,Castila-La Mancha,13,Ciudad Real,8,5,0,0
+2020-03-10,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-10,8,Castila-La Mancha,19,Guadalajara,22,7,0,0
+2020-03-10,8,Castila-La Mancha,45,Toledo,6,1,0,0
+2020-03-10,9,Cataluña,8,Barcelona,79,51,0,0
+2020-03-10,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-10,10,Comunitat Valenciana,3,Alicante,18,3,0,0
+2020-03-10,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-10,10,Comunitat Valenciana,46,Valencia,42,16,0,0
+2020-03-10,5,Extremadura,6,Badajoz,5,0,0,0
+2020-03-10,5,Extremadura,10,Cáceres,3,0,0,0
+2020-03-10,12,Galicia,15,"Coruña, A",13,0,0,0
+2020-03-10,12,Galicia,27,Lugo,0,0,0,0
+2020-03-10,12,Galicia,32,Ourense,1,0,0,0
+2020-03-10,12,Galicia,36,Pontevedra,4,0,0,0
+2020-03-10,17,"Rioja, La",26,"Rioja, La",144,63,1,1
+2020-03-10,13,"Madrid, Comunidad de",28,Madrid,782,313,21,13
+2020-03-10,19,Melilla,52,Melilla,0,0,0,0
+2020-03-10,14,"Murcia, Región de",30,Murcia,9,5,0,0
+2020-03-10,15,"Navarra, Comunidad Foral de",31,Navarra,12,9,0,0
+2020-03-10,16,País Vasco,1,Araba,167,42,3,0
+2020-03-10,16,País Vasco,48,Bizkaia,46,13,3,0
+2020-03-10,16,País Vasco,20,Gipuzkoa,9,0,3,0
+2020-03-11,1,Andalucía,4,Almería,2,1,0,0
+2020-03-11,1,Andalucía,11,Cádiz,2,0,0,0
+2020-03-11,1,Andalucía,14,Córdoba,1,1,0,0
+2020-03-11,1,Andalucía,18,Granada,0,0,0,0
+2020-03-11,1,Andalucía,21,Huelva,1,0,0,0
+2020-03-11,1,Andalucía,23,Jaén,7,2,0,0
+2020-03-11,1,Andalucía,29,Málaga,38,7,0,0
+2020-03-11,1,Andalucía,41,Sevilla,5,0,0,0
+2020-03-11,2,Aragón,22,Huesca,0,0,0,0
+2020-03-11,2,Aragón,44,Teruel,3,0,0,0
+2020-03-11,2,Aragón,50,Zaragoza,46,10,6,3
+2020-03-11,3,"Asturias, Principado de",33,Asturias,32,10,0,0
+2020-03-11,4,"Balears, Illes",7,"Balears, Illes",16,3,0,0
+2020-03-11,5,Canarias,35,"Palmas, Las",8,3,0,0
+2020-03-11,5,Canarias,38,Santa Cruz de Tenerife,29,13,0,0
+2020-03-11,6,Cantabria,39,Cantabria,12,0,0,0
+2020-03-11,8,Castila-La Mancha,2,Albacete,1,0,0,0
+2020-03-11,8,Castila-La Mancha,13,Ciudad Real,8,0,0,0
+2020-03-11,8,Castila-La Mancha,16,Cuenca,0,0,0,0
+2020-03-11,8,Castila-La Mancha,19,Guadalajara,24,2,0,0
+2020-03-11,8,Castila-La Mancha,45,Toledo,6,0,0,0
+2020-03-11,9,Cataluña,8,Barcelona,153,74,0,0
+2020-03-11,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-11,10,Comunitat Valenciana,3,Alicante,20,2,0,0
+2020-03-11,10,Comunitat Valenciana,12,Castellón,3,0,0,0
+2020-03-11,10,Comunitat Valenciana,46,Valencia,51,9,0,0
+2020-03-11,5,Extremadura,6,Badajoz,5,0,0,0
+2020-03-11,5,Extremadura,10,Cáceres,3,0,1,1
+2020-03-11,12,Galicia,15,"Coruña, A",22,9,0,0
+2020-03-11,12,Galicia,27,Lugo,1,1,0,0
+2020-03-11,12,Galicia,32,Ourense,1,0,0,0
+2020-03-11,12,Galicia,36,Pontevedra,5,1,0,0
+2020-03-11,17,"Rioja, La",26,"Rioja, La",179,35,2,1
+2020-03-11,13,"Madrid, Comunidad de",28,Madrid,1024,242,31,10
+2020-03-11,19,Melilla,52,Melilla,0,0,0,0
+2020-03-11,14,"Murcia, Región de",30,Murcia,11,2,0,0
+2020-03-11,15,"Navarra, Comunidad Foral de",31,Navarra,46,34,0,0
+2020-03-11,16,País Vasco,1,Araba,244,77,6,3
+2020-03-11,16,País Vasco,48,Bizkaia,62,16,6,3
+2020-03-11,16,País Vasco,20,Gipuzkoa,14,5,6,3
+2020-03-12,1,Andalucía,4,Almería,6,4,0,0
+2020-03-12,1,Andalucía,11,Cádiz,13,11,0,0
+2020-03-12,1,Andalucía,14,Córdoba,3,2,0,0
+2020-03-12,1,Andalucía,18,Granada,13,13,0,0
+2020-03-12,1,Andalucía,21,Huelva,3,2,0,0
+2020-03-12,1,Andalucía,23,Jaén,24,17,0,0
+2020-03-12,1,Andalucía,29,Málaga,127,89,0,0
+2020-03-12,1,Andalucía,41,Sevilla,16,11,0,0
+2020-03-12,2,Aragón,22,Huesca,1,1,0,0
+2020-03-12,2,Aragón,44,Teruel,3,0,0,0
+2020-03-12,2,Aragón,50,Zaragoza,60,14,6,0
+2020-03-12,3,"Asturias, Principado de",33,Asturias,47,15,1,1
+2020-03-12,4,"Balears, Illes",7,"Balears, Illes",22,6,1,1
+2020-03-12,5,Canarias,35,"Palmas, Las",13,5,0,0
+2020-03-12,5,Canarias,38,Santa Cruz de Tenerife,40,11,0,0
+2020-03-12,6,Cantabria,39,Cantabria,16,4,0,0
+2020-03-12,8,Castila-La Mancha,2,Albacete,18,17,0,0
+2020-03-12,8,Castila-La Mancha,13,Ciudad Real,26,18,1,1
+2020-03-12,8,Castila-La Mancha,16,Cuenca,5,5,0,0
+2020-03-12,8,Castila-La Mancha,19,Guadalajara,42,18,0,0
+2020-03-12,8,Castila-La Mancha,45,Toledo,18,12,0,0
+2020-03-12,9,Cataluña,8,Barcelona,329,176,0,0
+2020-03-12,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-12,10,Comunitat Valenciana,3,Alicante,26,6,0,0
+2020-03-12,10,Comunitat Valenciana,12,Castellón,4,1,0,0
+2020-03-12,10,Comunitat Valenciana,46,Valencia,68,17,0,0
+2020-03-12,5,Extremadura,6,Badajoz,6,1,0,0
+2020-03-12,5,Extremadura,10,Cáceres,13,10,1,0
+2020-03-12,12,Galicia,15,"Coruña, A",52,30,0,0
+2020-03-12,12,Galicia,27,Lugo,4,3,0,0
+2020-03-12,12,Galicia,32,Ourense,10,9,0,0
+2020-03-12,12,Galicia,36,Pontevedra,24,19,0,0
+2020-03-12,17,"Rioja, La",26,"Rioja, La",205,26,2,0
+2020-03-12,13,"Madrid, Comunidad de",28,Madrid,1388,364,56,25
+2020-03-12,19,Melilla,52,Melilla,0,0,0,0
+2020-03-12,14,"Murcia, Región de",30,Murcia,26,15,0,0
+2020-03-12,15,"Navarra, Comunidad Foral de",31,Navarra,73,27,0,0
+2020-03-12,16,País Vasco,1,Araba,292,48,9,3
+2020-03-12,16,País Vasco,48,Bizkaia,76,14,9,3
+2020-03-12,16,País Vasco,20,Gipuzkoa,24,10,9,3
+2020-03-13,1,Andalucía,4,Almería,15,9,0,0
+2020-03-13,1,Andalucía,11,Cádiz,23,10,0,0
+2020-03-13,1,Andalucía,14,Córdoba,18,15,0,0
+2020-03-13,1,Andalucía,18,Granada,22,9,0,0
+2020-03-13,1,Andalucía,21,Huelva,5,2,0,0
+2020-03-13,1,Andalucía,23,Jaén,41,17,0,0
+2020-03-13,1,Andalucía,29,Málaga,158,31,0,0
+2020-03-13,1,Andalucía,41,Sevilla,34,18,0,0
+2020-03-13,2,Aragón,22,Huesca,1,0,0,0
+2020-03-13,2,Aragón,44,Teruel,3,0,0,0
+2020-03-13,2,Aragón,50,Zaragoza,76,16,6,0
+2020-03-13,3,"Asturias, Principado de",33,Asturias,67,20,1,0
+2020-03-13,4,"Balears, Illes",7,"Balears, Illes",30,8,1,0
+2020-03-13,5,Canarias,35,"Palmas, Las",24,11,1,1
+2020-03-13,5,Canarias,38,Santa Cruz de Tenerife,62,22,0,0
+2020-03-13,6,Cantabria,39,Cantabria,29,13,0,0
+2020-03-13,8,Castila-La Mancha,2,Albacete,38,20,0,0
+2020-03-13,8,Castila-La Mancha,13,Ciudad Real,44,18,1,0
+2020-03-13,8,Castila-La Mancha,16,Cuenca,11,6,0,0
+2020-03-13,8,Castila-La Mancha,19,Guadalajara,70,28,0,0
+2020-03-13,8,Castila-La Mancha,45,Toledo,31,13,0,0
+2020-03-13,7,Castilla y León,9,Burgos,90,29,1,0
+2020-03-13,7,Castilla y León,24,León,32,22,0,0
+2020-03-13,7,Castilla y León,34,Palencia,1,1,0,0
+2020-03-13,7,Castilla y León,37,Salamanca,11,5,1,0
+2020-03-13,7,Castilla y León,40,Segovia,15,6,1,0
+2020-03-13,7,Castilla y León,42,Soria,1,1,0,0
+2020-03-13,7,Castilla y León,47,Valladolid,11,7,0,0
+2020-03-13,7,Castilla y León,49,Zamora,5,3,0,0
+2020-03-13,7,Castilla y León,5,Ávila,3,3,0,0
+2020-03-13,9,Cataluña,8,Barcelona,585,256,0,0
+2020-03-13,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-13,10,Comunitat Valenciana,3,Alicante,39,13,1,0
+2020-03-13,10,Comunitat Valenciana,12,Castellón,5,1,0,0
+2020-03-13,10,Comunitat Valenciana,46,Valencia,104,36,1,0
+2020-03-13,5,Extremadura,6,Badajoz,8,2,0,0
+2020-03-13,5,Extremadura,10,Cáceres,18,5,1,0
+2020-03-13,12,Galicia,15,"Coruña, A",61,9,0,0
+2020-03-13,12,Galicia,27,Lugo,6,2,0,0
+2020-03-13,12,Galicia,32,Ourense,14,4,0,0
+2020-03-13,12,Galicia,36,Pontevedra,31,7,0,0
+2020-03-13,17,"Rioja, La",26,"Rioja, La",243,38,2,0
+2020-03-13,13,"Madrid, Comunidad de",28,Madrid,1990,602,81,25
+2020-03-13,19,Melilla,52,Melilla,2,2,0,0
+2020-03-13,14,"Murcia, Región de",30,Murcia,35,9,0,0
+2020-03-13,15,"Navarra, Comunidad Foral de",31,Navarra,130,57,0,0
+2020-03-13,16,País Vasco,1,Araba,333,41,13,4
+2020-03-13,16,País Vasco,48,Bizkaia,109,33,13,4
+2020-03-13,16,País Vasco,20,Gipuzkoa,41,17,13,4
+2020-03-14,1,Andalucía,4,Almería,16,1,0,0
+2020-03-14,1,Andalucía,11,Cádiz,24,1,0,0
+2020-03-14,1,Andalucía,14,Córdoba,23,5,0,0
+2020-03-14,1,Andalucía,18,Granada,27,5,0,0
+2020-03-14,1,Andalucía,21,Huelva,5,0,0,0
+2020-03-14,1,Andalucía,23,Jaén,41,0,1,1
+2020-03-14,1,Andalucía,29,Málaga,176,18,2,2
+2020-03-14,1,Andalucía,41,Sevilla,39,5,0,0
+2020-03-14,2,Aragón,22,Huesca,10,9,0,0
+2020-03-14,2,Aragón,44,Teruel,11,8,0,0
+2020-03-14,2,Aragón,50,Zaragoza,100,24,7,1
+2020-03-14,3,"Asturias, Principado de",33,Asturias,92,25,1,0
+2020-03-14,4,"Balears, Illes",7,"Balears, Illes",28,0,1,0
+2020-03-14,5,Canarias,35,"Palmas, Las",25,1,1,0
+2020-03-14,5,Canarias,38,Santa Cruz de Tenerife,67,5,0,0
+2020-03-14,6,Cantabria,39,Cantabria,31,2,0,0
+2020-03-14,8,Castila-La Mancha,2,Albacete,70,32,0,0
+2020-03-14,8,Castila-La Mancha,13,Ciudad Real,49,5,2,1
+2020-03-14,8,Castila-La Mancha,16,Cuenca,24,13,2,2
+2020-03-14,8,Castila-La Mancha,19,Guadalajara,88,18,0,0
+2020-03-14,8,Castila-La Mancha,45,Toledo,58,27,1,1
+2020-03-14,7,Castilla y León,9,Burgos,113,23,2,1
+2020-03-14,7,Castilla y León,24,León,33,1,0,0
+2020-03-14,7,Castilla y León,34,Palencia,3,2,0,0
+2020-03-14,7,Castilla y León,37,Salamanca,12,1,2,1
+2020-03-14,7,Castilla y León,40,Segovia,22,7,1,0
+2020-03-14,7,Castilla y León,42,Soria,4,3,0,0
+2020-03-14,7,Castilla y León,47,Valladolid,21,10,0,0
+2020-03-14,7,Castilla y León,49,Zamora,5,0,0,0
+2020-03-14,7,Castilla y León,5,Ávila,10,7,0,0
+2020-03-14,9,Cataluña,8,Barcelona,933,348,0,0
+2020-03-14,18,Ceuta,51,Ceuta,0,0,0,0
+2020-03-14,10,Comunitat Valenciana,3,Alicante,57,18,1,0
+2020-03-14,10,Comunitat Valenciana,12,Castellón,7,2,0,0
+2020-03-14,10,Comunitat Valenciana,46,Valencia,124,20,1,0
+2020-03-14,5,Extremadura,6,Badajoz,25,17,0,0
+2020-03-14,5,Extremadura,10,Cáceres,41,23,2,1
+2020-03-14,12,Galicia,15,"Coruña, A",77,16,1,1
+2020-03-14,12,Galicia,27,Lugo,7,1,0,0
+2020-03-14,12,Galicia,32,Ourense,15,1,0,0
+2020-03-14,12,Galicia,36,Pontevedra,36,5,1,1
+2020-03-14,17,"Rioja, La",26,"Rioja, La",278,35,3,1
+2020-03-14,13,"Madrid, Comunidad de",28,Madrid,2940,950,86,5
+2020-03-14,19,Melilla,52,Melilla,3,1,0,0
+2020-03-14,14,"Murcia, Región de",30,Murcia,47,12,0,0
+2020-03-14,15,"Navarra, Comunidad Foral de",31,Navarra,146,16,0,0
+2020-03-14,16,País Vasco,1,Araba,397,64,16,3
+2020-03-14,16,País Vasco,48,Bizkaia,135,26,16,3
+2020-03-14,16,País Vasco,20,Gipuzkoa,58,17,16,3
+2020-03-15,1,Andalucía,4,Almería,16,0,0,0
+2020-03-15,1,Andalucía,11,Cádiz,36,12,0,0
+2020-03-15,1,Andalucía,14,Córdoba,37,14,0,0
+2020-03-15,1,Andalucía,18,Granada,57,30,0,0
+2020-03-15,1,Andalucía,21,Huelva,7,2,0,0
+2020-03-15,1,Andalucía,23,Jaén,54,13,2,1
+2020-03-15,1,Andalucía,29,Málaga,210,34,4,2
+2020-03-15,1,Andalucía,41,Sevilla,67,28,0,0
+2020-03-15,2,Aragón,22,Huesca,12,2,0,0
+2020-03-15,2,Aragón,44,Teruel,14,3,0,0
+2020-03-15,2,Aragón,50,Zaragoza,121,21,7,0
+2020-03-15,3,"Asturias, Principado de",33,Asturias,137,45,1,0
+2020-03-15,4,"Balears, Illes",7,"Balears, Illes",28,0,1,0
+2020-03-15,5,Canarias,35,"Palmas, Las",33,8,1,0
+2020-03-15,5,Canarias,38,Santa Cruz de Tenerife,87,20,0,0
+2020-03-15,6,Cantabria,39,Cantabria,51,20,0,0
+2020-03-15,8,Castila-La Mancha,2,Albacete,79,9,1,1
+2020-03-15,8,Castila-La Mancha,13,Ciudad Real,85,36,5,3
+2020-03-15,8,Castila-La Mancha,16,Cuenca,30,6,2,0
+2020-03-15,8,Castila-La Mancha,19,Guadalajara,109,21,0,0
+2020-03-15,8,Castila-La Mancha,45,Toledo,98,40,2,1
+2020-03-15,7,Castilla y León,9,Burgos,119,8,4,2
+2020-03-15,7,Castilla y León,24,León,47,14,1,1
+2020-03-15,7,Castilla y León,34,Palencia,5,2,0,0
+2020-03-15,7,Castilla y León,37,Salamanca,31,19,3,1
+2020-03-15,7,Castilla y León,40,Segovia,27,5,1,0
+2020-03-15,7,Castilla y León,42,Soria,5,1,0,0
+2020-03-15,7,Castilla y León,47,Valladolid,40,19,0,0
+2020-03-15,7,Castilla y León,49,Zamora,8,3,0,0
+2020-03-15,7,Castilla y León,5,Ávila,10,0,0,0
+2020-03-15,9,Cataluña,8,Barcelona,1366,433,0,0
+2020-03-15,18,Ceuta,51,Ceuta,1,1,0,0
+2020-03-15,10,Comunitat Valenciana,3,Alicante,151,94,1,0
+2020-03-15,10,Comunitat Valenciana,12,Castellón,25,18,1,1
+2020-03-15,10,Comunitat Valenciana,46,Valencia,228,104,2,1
+2020-03-15,5,Extremadura,6,Badajoz,32,7,0,0
+2020-03-15,5,Extremadura,10,Cáceres,64,23,2,0
+2020-03-15,12,Galicia,15,"Coruña, A",104,27,1,0
+2020-03-15,12,Galicia,27,Lugo,9,2,0,0
+2020-03-15,12,Galicia,32,Ourense,22,7,0,0
+2020-03-15,12,Galicia,36,Pontevedra,54,18,1,0
+2020-03-15,17,"Rioja, La",26,"Rioja, La",300,22,3,0
+2020-03-15,13,"Madrid, Comunidad de",28,Madrid,3544,604,213,127
+2020-03-15,19,Melilla,52,Melilla,8,5,0,0
+2020-03-15,14,"Murcia, Región de",30,Murcia,71,24,0,0
+2020-03-15,15,"Navarra, Comunidad Foral de",31,Navarra,183,37,0,0
+2020-03-15,16,País Vasco,1,Araba,433,36,25,9
+2020-03-15,16,País Vasco,48,Bizkaia,164,29,25,9
+2020-03-15,16,País Vasco,20,Gipuzkoa,77,19,25,9
+2020-03-16,1,Andalucía,4,Almería,25,9,0,0
+2020-03-16,1,Andalucía,11,Cádiz,50,14,0,0
+2020-03-16,1,Andalucía,14,Córdoba,41,4,0,0
+2020-03-16,1,Andalucía,18,Granada,67,10,0,0
+2020-03-16,1,Andalucía,21,Huelva,7,0,0,0
+2020-03-16,1,Andalucía,23,Jaén,57,3,2,0
+2020-03-16,1,Andalucía,29,Málaga,265,55,5,1
+2020-03-16,1,Andalucía,41,Sevilla,89,22,0,0
+2020-03-16,2,Aragón,22,Huesca,14,2,0,0
+2020-03-16,2,Aragón,44,Teruel,15,1,0,0
+2020-03-16,2,Aragón,50,Zaragoza,145,24,11,4
+2020-03-16,3,"Asturias, Principado de",33,Asturias,177,40,1,0
+2020-03-16,4,"Balears, Illes",7,"Balears, Illes",73,45,1,0
+2020-03-16,5,Canarias,35,"Palmas, Las",46,13,1,0
+2020-03-16,5,Canarias,38,Santa Cruz de Tenerife,121,34,1,1
+2020-03-16,6,Cantabria,39,Cantabria,58,7,0,0
+2020-03-16,8,Castila-La Mancha,2,Albacete,126,47,5,4
+2020-03-16,8,Castila-La Mancha,13,Ciudad Real,127,42,7,2
+2020-03-16,8,Castila-La Mancha,16,Cuenca,44,14,2,0
+2020-03-16,8,Castila-La Mancha,19,Guadalajara,137,28,0,0
+2020-03-16,8,Castila-La Mancha,45,Toledo,133,35,3,1
+2020-03-16,7,Castilla y León,9,Burgos,121,2,4,0
+2020-03-16,7,Castilla y León,24,León,47,0,1,0
+2020-03-16,7,Castilla y León,34,Palencia,6,1,0,0
+2020-03-16,7,Castilla y León,37,Salamanca,32,1,4,1
+2020-03-16,7,Castilla y León,40,Segovia,33,6,3,2
+2020-03-16,7,Castilla y León,42,Soria,10,5,0,0
+2020-03-16,7,Castilla y León,47,Valladolid,56,16,0,0
+2020-03-16,7,Castilla y León,49,Zamora,12,4,0,0
+2020-03-16,7,Castilla y León,5,Ávila,17,7,0,0
+2020-03-16,9,Cataluña,8,Barcelona,1955,589,0,0
+2020-03-16,18,Ceuta,51,Ceuta,1,0,0,0
+2020-03-16,10,Comunitat Valenciana,3,Alicante,193,42,5,4
+2020-03-16,10,Comunitat Valenciana,12,Castellón,38,13,1,0
+2020-03-16,10,Comunitat Valenciana,46,Valencia,280,52,7,5
+2020-03-16,5,Extremadura,6,Badajoz,39,7,0,0
+2020-03-16,5,Extremadura,10,Cáceres,79,15,2,0
+2020-03-16,12,Galicia,15,"Coruña, A",123,19,2,1
+2020-03-16,12,Galicia,27,Lugo,16,7,0,0
+2020-03-16,12,Galicia,32,Ourense,28,6,0,0
+2020-03-16,12,Galicia,36,Pontevedra,72,18,1,0
+2020-03-16,17,"Rioja, La",26,"Rioja, La",312,12,4,1
+2020-03-16,13,"Madrid, Comunidad de",28,Madrid,4165,621,213,0
+2020-03-16,19,Melilla,52,Melilla,8,0,0,0
+2020-03-16,14,"Murcia, Región de",30,Murcia,77,6,0,0
+2020-03-16,15,"Navarra, Comunidad Foral de",31,Navarra,274,91,1,1
+2020-03-16,16,País Vasco,1,Araba,478,45,25,0
+2020-03-16,16,País Vasco,48,Bizkaia,208,44,25,0
+2020-03-16,16,País Vasco,20,Gipuzkoa,101,24,25,0
+2020-03-17,1,Andalucía,4,Almería,28,3,0,0
+2020-03-17,1,Andalucía,11,Cádiz,58,8,0,0
+2020-03-17,1,Andalucía,14,Córdoba,68,27,0,0
+2020-03-17,1,Andalucía,18,Granada,95,28,2,2
+2020-03-17,1,Andalucía,21,Huelva,9,2,0,0
+2020-03-17,1,Andalucía,23,Jaén,59,2,2,0
+2020-03-17,1,Andalucía,29,Málaga,308,43,6,1
+2020-03-17,1,Andalucía,41,Sevilla,105,16,1,1
+2020-03-17,2,Aragón,22,Huesca,17,3,1,1
+2020-03-17,2,Aragón,44,Teruel,24,9,0,0
+2020-03-17,2,Aragón,50,Zaragoza,163,18,11,0
+2020-03-17,3,"Asturias, Principado de",33,Asturias,193,16,1,0
+2020-03-17,4,"Balears, Illes",7,"Balears, Illes",92,19,1,0
+2020-03-17,5,Canarias,35,"Palmas, Las",61,15,1,0
+2020-03-17,5,Canarias,38,Santa Cruz de Tenerife,151,30,2,1
+2020-03-17,6,Cantabria,39,Cantabria,58,0,0,0
+2020-03-17,8,Castila-La Mancha,2,Albacete,148,22,5,0
+2020-03-17,8,Castila-La Mancha,13,Ciudad Real,139,12,9,2
+2020-03-17,8,Castila-La Mancha,16,Cuenca,51,7,2,0
+2020-03-17,8,Castila-La Mancha,19,Guadalajara,145,8,0,0
+2020-03-17,8,Castila-La Mancha,45,Toledo,179,46,7,4
+2020-03-17,7,Castilla y León,9,Burgos,126,5,5,1
+2020-03-17,7,Castilla y León,24,León,75,28,3,2
+2020-03-17,7,Castilla y León,34,Palencia,7,1,0,0
+2020-03-17,7,Castilla y León,37,Salamanca,65,33,6,2
+2020-03-17,7,Castilla y León,40,Segovia,33,0,5,2
+2020-03-17,7,Castilla y León,42,Soria,17,7,2,2
+2020-03-17,7,Castilla y León,47,Valladolid,74,18,0,0
+2020-03-17,7,Castilla y León,49,Zamora,16,4,0,0
+2020-03-17,7,Castilla y León,5,Ávila,18,1,0,0
+2020-03-17,9,Cataluña,8,Barcelona,2611,656,0,0
+2020-03-17,18,Ceuta,51,Ceuta,1,0,0,0
+2020-03-17,10,Comunitat Valenciana,3,Alicante,193,0,5,0
+2020-03-17,10,Comunitat Valenciana,12,Castellón,45,7,1,0
+2020-03-17,10,Comunitat Valenciana,46,Valencia,297,17,7,0
+2020-03-17,5,Extremadura,6,Badajoz,51,12,0,0
+2020-03-17,5,Extremadura,10,Cáceres,102,23,5,3
+2020-03-17,12,Galicia,15,"Coruña, A",139,16,2,0
+2020-03-17,12,Galicia,27,Lugo,23,7,0,0
+2020-03-17,12,Galicia,32,Ourense,30,2,0,0
+2020-03-17,12,Galicia,36,Pontevedra,79,7,1,0
+2020-03-17,17,"Rioja, La",26,"Rioja, La",355,43,5,1
+2020-03-17,13,"Madrid, Comunidad de",28,Madrid,4871,706,355,142
+2020-03-17,19,Melilla,52,Melilla,17,9,0,0
+2020-03-17,14,"Murcia, Región de",30,Murcia,97,20,0,0
+2020-03-17,15,"Navarra, Comunidad Foral de",31,Navarra,313,39,2,1
+2020-03-17,16,País Vasco,1,Araba,544,66,27,2
+2020-03-17,16,País Vasco,48,Bizkaia,294,86,27,2
+2020-03-17,16,País Vasco,20,Gipuzkoa,123,22,27,2
+2020-03-18,1,Andalucía,4,Almería,32,4,0,0
+2020-03-18,1,Andalucía,11,Cádiz,76,18,0,0
+2020-03-18,1,Andalucía,14,Córdoba,78,10,0,0
+2020-03-18,1,Andalucía,18,Granada,130,35,6,4
+2020-03-18,1,Andalucía,21,Huelva,15,6,0,0
+2020-03-18,1,Andalucía,23,Jaén,84,25,2,0
+2020-03-18,1,Andalucía,29,Málaga,363,55,10,4
+2020-03-18,1,Andalucía,41,Sevilla,128,23,1,0
+2020-03-18,2,Aragón,22,Huesca,19,2,1,0
+2020-03-18,2,Aragón,44,Teruel,24,0,0,0
+2020-03-18,2,Aragón,50,Zaragoza,180,17,12,1
+2020-03-18,3,"Asturias, Principado de",33,Asturias,242,49,1,0
+2020-03-18,4,"Balears, Illes",7,"Balears, Illes",112,20,1,0
+2020-03-18,5,Canarias,35,"Palmas, Las",74,13,1,0
+2020-03-18,5,Canarias,38,Santa Cruz de Tenerife,191,40,2,0
+2020-03-18,6,Cantabria,39,Cantabria,68,10,1,1
+2020-03-18,8,Castila-La Mancha,2,Albacete,216,68,14,9
+2020-03-18,8,Castila-La Mancha,13,Ciudad Real,164,25,13,4
+2020-03-18,8,Castila-La Mancha,16,Cuenca,62,11,3,1
+2020-03-18,8,Castila-La Mancha,19,Guadalajara,151,6,0,0
+2020-03-18,8,Castila-La Mancha,45,Toledo,208,29,11,4
+2020-03-18,7,Castilla y León,9,Burgos,165,39,5,0
+2020-03-18,7,Castilla y León,24,León,106,31,4,1
+2020-03-18,7,Castilla y León,34,Palencia,6,0,0,0
+2020-03-18,7,Castilla y León,37,Salamanca,125,60,8,2
+2020-03-18,7,Castilla y León,40,Segovia,76,43,6,1
+2020-03-18,7,Castilla y León,42,Soria,40,23,4,2
+2020-03-18,7,Castilla y León,47,Valladolid,82,8,0,0
+2020-03-18,7,Castilla y León,49,Zamora,26,10,1,1
+2020-03-18,7,Castilla y León,5,Ávila,42,24,1,1
+2020-03-18,9,Cataluña,8,Barcelona,3407,796,0,0
+2020-03-18,18,Ceuta,51,Ceuta,1,0,0,0
+2020-03-18,10,Comunitat Valenciana,3,Alicante,296,103,10,5
+2020-03-18,10,Comunitat Valenciana,12,Castellón,49,4,1,0
+2020-03-18,10,Comunitat Valenciana,46,Valencia,365,68,11,4
+2020-03-18,5,Extremadura,6,Badajoz,66,15,0,0
+2020-03-18,5,Extremadura,10,Cáceres,128,26,8,3
+2020-03-18,12,Galicia,15,"Coruña, A",172,33,3,1
+2020-03-18,12,Galicia,27,Lugo,31,8,0,0
+2020-03-18,12,Galicia,32,Ourense,34,4,0,0
+2020-03-18,12,Galicia,36,Pontevedra,96,17,1,0
+2020-03-18,17,"Rioja, La",26,"Rioja, La",419,64,5,0
+2020-03-18,13,"Madrid, Comunidad de",28,Madrid,5637,766,390,35
+2020-03-18,19,Melilla,52,Melilla,20,3,0,0
+2020-03-18,14,"Murcia, Región de",30,Murcia,122,25,0,0
+2020-03-18,15,"Navarra, Comunidad Foral de",31,Navarra,386,73,3,1
+2020-03-18,16,País Vasco,1,Araba,620,76,35,8
+2020-03-18,16,País Vasco,48,Bizkaia,383,89,35,8
+2020-03-18,16,País Vasco,20,Gipuzkoa,168,45,35,8
+2020-03-19,1,Andalucía,4,Almería,39,7,0,0
+2020-03-19,1,Andalucía,11,Cádiz,86,10,0,0
+2020-03-19,1,Andalucía,14,Córdoba,101,23,0,0
+2020-03-19,1,Andalucía,18,Granada,176,46,7,1
+2020-03-19,1,Andalucía,21,Huelva,24,9,0,0
+2020-03-19,1,Andalucía,23,Jaén,95,11,2,0
+2020-03-19,1,Andalucía,29,Málaga,391,28,13,3
+2020-03-19,1,Andalucía,41,Sevilla,143,15,1,0
+2020-03-19,2,Aragón,22,Huesca,24,5,1,0
+2020-03-19,2,Aragón,44,Teruel,27,3,0,0
+2020-03-19,2,Aragón,50,Zaragoza,224,44,14,2
+2020-03-19,3,"Asturias, Principado de",33,Asturias,292,50,1,0
+2020-03-19,4,"Balears, Illes",7,"Balears, Illes",169,57,2,1
+2020-03-19,5,Canarias,35,"Palmas, Las",98,24,1,0
+2020-03-19,5,Canarias,38,Santa Cruz de Tenerife,245,54,3,1
+2020-03-19,6,Cantabria,39,Cantabria,83,15,1,0
+2020-03-19,8,Castila-La Mancha,2,Albacete,258,42,20,6
+2020-03-19,8,Castila-La Mancha,13,Ciudad Real,216,52,21,8
+2020-03-19,8,Castila-La Mancha,16,Cuenca,72,10,4,1
+2020-03-19,8,Castila-La Mancha,19,Guadalajara,205,54,3,3
+2020-03-19,8,Castila-La Mancha,45,Toledo,293,85,14,3
+2020-03-19,7,Castilla y León,9,Burgos,187,22,8,3
+2020-03-19,7,Castilla y León,24,León,134,28,5,1
+2020-03-19,7,Castilla y León,34,Palencia,14,8,0,0
+2020-03-19,7,Castilla y León,37,Salamanca,149,24,12,4
+2020-03-19,7,Castilla y León,40,Segovia,121,45,7,1
+2020-03-19,7,Castilla y León,42,Soria,58,18,5,1
+2020-03-19,7,Castilla y León,47,Valladolid,115,33,3,3
+2020-03-19,7,Castilla y León,49,Zamora,31,5,1,0
+2020-03-19,7,Castilla y León,5,Ávila,59,17,2,1
+2020-03-19,9,Cataluña,8,Barcelona,4429,1022,0,0
+2020-03-19,18,Ceuta,51,Ceuta,1,0,0,0
+2020-03-19,10,Comunitat Valenciana,3,Alicante,341,45,12,2
+2020-03-19,10,Comunitat Valenciana,12,Castellón,54,5,1,0
+2020-03-19,10,Comunitat Valenciana,46,Valencia,510,145,11,0
+2020-03-19,5,Extremadura,6,Badajoz,78,12,0,0
+2020-03-19,5,Extremadura,10,Cáceres,165,37,8,0
+2020-03-19,12,Galicia,15,"Coruña, A",219,47,4,1
+2020-03-19,12,Galicia,27,Lugo,36,5,1,1
+2020-03-19,12,Galicia,32,Ourense,46,12,0,0
+2020-03-19,12,Galicia,36,Pontevedra,143,47,1,0
+2020-03-19,17,"Rioja, La",26,"Rioja, La",468,49,5,0
+2020-03-19,13,"Madrid, Comunidad de",28,Madrid,6777,1140,498,108
+2020-03-19,19,Melilla,52,Melilla,23,3,0,0
+2020-03-19,14,"Murcia, Región de",30,Murcia,167,45,0,0
+2020-03-19,15,"Navarra, Comunidad Foral de",31,Navarra,482,96,4,1
+2020-03-19,16,País Vasco,1,Araba,702,82,48,13
+2020-03-19,16,País Vasco,48,Bizkaia,517,134,48,13
+2020-03-19,16,País Vasco,20,Gipuzkoa,209,41,48,13
+2020-03-20,1,Andalucía,4,Almería,48,9,0,0
+2020-03-20,1,Andalucía,11,Cádiz,105,19,0,0
+2020-03-20,1,Andalucía,14,Córdoba,125,24,0,0
+2020-03-20,1,Andalucía,18,Granada,244,68,10,3
+2020-03-20,1,Andalucía,21,Huelva,37,13,0,0
+2020-03-20,1,Andalucía,23,Jaén,126,31,2,0
+2020-03-20,1,Andalucía,29,Málaga,454,63,17,4
+2020-03-20,1,Andalucía,41,Sevilla,195,52,1,0
+2020-03-20,2,Aragón,22,Huesca,34,10,1,0
+2020-03-20,2,Aragón,44,Teruel,40,13,0,0
+2020-03-20,2,Aragón,50,Zaragoza,278,54,16,2
+2020-03-20,3,"Asturias, Principado de",33,Asturias,344,52,2,1
+2020-03-20,4,"Balears, Illes",7,"Balears, Illes",203,34,2,0
+2020-03-20,5,Canarias,35,"Palmas, Las",139,41,3,2
+2020-03-20,5,Canarias,38,Santa Cruz de Tenerife,285,40,4,1
+2020-03-20,6,Cantabria,39,Cantabria,144,61,1,0
+2020-03-20,8,Castila-La Mancha,2,Albacete,322,64,28,8
+2020-03-20,8,Castila-La Mancha,13,Ciudad Real,400,184,28,7
+2020-03-20,8,Castila-La Mancha,16,Cuenca,94,22,5,1
+2020-03-20,8,Castila-La Mancha,19,Guadalajara,237,32,4,1
+2020-03-20,8,Castila-La Mancha,45,Toledo,370,77,19,5
+2020-03-20,7,Castilla y León,9,Burgos,208,21,12,4
+2020-03-20,7,Castilla y León,24,León,164,30,5,0
+2020-03-20,7,Castilla y León,34,Palencia,26,12,0,0
+2020-03-20,7,Castilla y León,37,Salamanca,203,54,13,1
+2020-03-20,7,Castilla y León,40,Segovia,156,35,10,3
+2020-03-20,7,Castilla y León,42,Soria,80,22,5,0
+2020-03-20,7,Castilla y León,47,Valladolid,201,86,5,2
+2020-03-20,7,Castilla y León,49,Zamora,46,15,1,0
+2020-03-20,7,Castilla y León,5,Ávila,63,4,4,2
+2020-03-20,9,Cataluña,8,Barcelona,5580,1151,0,0
+2020-03-20,18,Ceuta,51,Ceuta,5,4,0,0
+2020-03-20,10,Comunitat Valenciana,3,Alicante,375,34,15,3
+2020-03-20,10,Comunitat Valenciana,12,Castellón,99,45,1,0
+2020-03-20,10,Comunitat Valenciana,46,Valencia,615,105,17,6
+2020-03-20,5,Extremadura,6,Badajoz,88,10,0,0
+2020-03-20,5,Extremadura,10,Cáceres,203,38,8,0
+2020-03-20,12,Galicia,15,"Coruña, A",267,48,6,2
+2020-03-20,12,Galicia,27,Lugo,46,10,1,0
+2020-03-20,12,Galicia,32,Ourense,63,17,1,1
+2020-03-20,12,Galicia,36,Pontevedra,191,48,1,0
+2020-03-20,17,"Rioja, La",26,"Rioja, La",497,29,7,2
+2020-03-20,13,"Madrid, Comunidad de",28,Madrid,7165,388,628,130
+2020-03-20,19,Melilla,52,Melilla,24,1,0,0
+2020-03-20,14,"Murcia, Región de",30,Murcia,204,37,0,0
+2020-03-20,15,"Navarra, Comunidad Foral de",31,Navarra,554,72,5,1
+2020-03-20,16,País Vasco,1,Araba,797,95,55,7
+2020-03-20,16,País Vasco,48,Bizkaia,648,131,55,7
+2020-03-20,16,País Vasco,20,Gipuzkoa,265,56,55,7
+2020-03-21,1,Andalucía,4,Almería,55,7,0,0
+2020-03-21,1,Andalucía,11,Cádiz,128,23,0,0
+2020-03-21,1,Andalucía,14,Córdoba,143,18,3,3
+2020-03-21,1,Andalucía,18,Granada,289,45,13,3
+2020-03-21,1,Andalucía,21,Huelva,38,1,0,0
+2020-03-21,1,Andalucía,23,Jaén,145,19,2,0
+2020-03-21,1,Andalucía,29,Málaga,514,60,20,3
+2020-03-21,1,Andalucía,41,Sevilla,250,55,2,1
+2020-03-21,2,Aragón,22,Huesca,37,3,1,0
+2020-03-21,2,Aragón,44,Teruel,47,7,0,0
+2020-03-21,2,Aragón,50,Zaragoza,329,51,21,5
+2020-03-21,3,"Asturias, Principado de",33,Asturias,486,142,5,3
+2020-03-21,4,"Balears, Illes",7,"Balears, Illes",246,43,4,2
+2020-03-21,5,Canarias,35,"Palmas, Las",160,21,6,3
+2020-03-21,5,Canarias,38,Santa Cruz de Tenerife,320,35,6,2
+2020-03-21,6,Cantabria,39,Cantabria,215,71,2,1
+2020-03-21,8,Castila-La Mancha,2,Albacete,430,108,32,4
+2020-03-21,8,Castila-La Mancha,13,Ciudad Real,505,105,40,12
+2020-03-21,8,Castila-La Mancha,16,Cuenca,120,26,8,3
+2020-03-21,8,Castila-La Mancha,19,Guadalajara,263,26,4,0
+2020-03-21,8,Castila-La Mancha,45,Toledo,501,131,28,9
+2020-03-21,7,Castilla y León,9,Burgos,269,61,14,2
+2020-03-21,7,Castilla y León,24,León,201,37,7,2
+2020-03-21,7,Castilla y León,34,Palencia,41,15,0,0
+2020-03-21,7,Castilla y León,37,Salamanca,265,62,15,2
+2020-03-21,7,Castilla y León,40,Segovia,157,1,13,3
+2020-03-21,7,Castilla y León,42,Soria,119,39,6,1
+2020-03-21,7,Castilla y León,47,Valladolid,241,40,10,5
+2020-03-21,7,Castilla y León,49,Zamora,59,13,2,1
+2020-03-21,7,Castilla y León,5,Ávila,114,51,7,3
+2020-03-21,9,Cataluña,8,Barcelona,6601,1021,0,0
+2020-03-21,18,Ceuta,51,Ceuta,5,0,0,0
+2020-03-21,10,Comunitat Valenciana,3,Alicante,482,107,18,3
+2020-03-21,10,Comunitat Valenciana,12,Castellón,119,20,2,1
+2020-03-21,10,Comunitat Valenciana,46,Valencia,746,131,30,13
+2020-03-21,5,Extremadura,6,Badajoz,113,25,0,0
+2020-03-21,5,Extremadura,10,Cáceres,243,40,9,1
+2020-03-21,12,Galicia,15,"Coruña, A",329,62,10,4
+2020-03-21,12,Galicia,27,Lugo,54,8,1,0
+2020-03-21,12,Galicia,32,Ourense,74,11,1,0
+2020-03-21,12,Galicia,36,Pontevedra,264,73,1,0
+2020-03-21,17,"Rioja, La",26,"Rioja, La",564,67,15,8
+2020-03-21,13,"Madrid, Comunidad de",28,Madrid,8921,1756,804,176
+2020-03-21,19,Melilla,52,Melilla,25,1,0,0
+2020-03-21,14,"Murcia, Región de",30,Murcia,240,36,1,1
+2020-03-21,15,"Navarra, Comunidad Foral de",31,Navarra,664,110,9,4
+2020-03-21,16,País Vasco,1,Araba,910,113,60,5
+2020-03-21,16,País Vasco,48,Bizkaia,864,216,60,5
+2020-03-21,16,País Vasco,20,Gipuzkoa,319,54,60,5
+2020-03-22,1,Andalucía,4,Almería,60,5,1,1
+2020-03-22,1,Andalucía,11,Cádiz,136,8,2,2
+2020-03-22,1,Andalucía,14,Córdoba,180,37,3,0
+2020-03-22,1,Andalucía,18,Granada,335,46,13,0
+2020-03-22,1,Andalucía,21,Huelva,48,10,0,0
+2020-03-22,1,Andalucía,23,Jaén,178,33,3,1
+2020-03-22,1,Andalucía,29,Málaga,535,21,21,1
+2020-03-22,1,Andalucía,41,Sevilla,300,50,4,2
+2020-03-22,2,Aragón,22,Huesca,45,8,1,0
+2020-03-22,2,Aragón,44,Teruel,52,5,0,0
+2020-03-22,2,Aragón,50,Zaragoza,435,106,23,2
+2020-03-22,3,"Asturias, Principado de",33,Asturias,545,59,8,3
+2020-03-22,4,"Balears, Illes",7,"Balears, Illes",331,85,4,0
+2020-03-22,5,Canarias,35,"Palmas, Las",185,25,6,0
+2020-03-22,5,Canarias,38,Santa Cruz de Tenerife,354,34,6,0
+2020-03-22,6,Cantabria,39,Cantabria,282,67,5,3
+2020-03-22,8,Castila-La Mancha,2,Albacete,450,20,35,3
+2020-03-22,8,Castila-La Mancha,13,Ciudad Real,570,65,45,5
+2020-03-22,8,Castila-La Mancha,16,Cuenca,129,9,10,2
+2020-03-22,8,Castila-La Mancha,19,Guadalajara,300,37,5,1
+2020-03-22,8,Castila-La Mancha,45,Toledo,550,49,33,5
+2020-03-22,7,Castilla y León,9,Burgos,302,33,16,2
+2020-03-22,7,Castilla y León,24,León,233,32,14,7
+2020-03-22,7,Castilla y León,34,Palencia,50,9,0,0
+2020-03-22,7,Castilla y León,37,Salamanca,315,50,21,6
+2020-03-22,7,Castilla y León,40,Segovia,194,37,20,7
+2020-03-22,7,Castilla y León,42,Soria,135,16,8,2
+2020-03-22,7,Castilla y León,47,Valladolid,302,61,11,1
+2020-03-22,7,Castilla y León,49,Zamora,70,11,3,1
+2020-03-22,7,Castilla y León,5,Ávila,143,29,9,2
+2020-03-22,9,Cataluña,8,Barcelona,7435,834,0,0
+2020-03-22,18,Ceuta,51,Ceuta,5,0,0,0
+2020-03-22,10,Comunitat Valenciana,3,Alicante,540,58,25,7
+2020-03-22,10,Comunitat Valenciana,12,Castellón,149,30,4,2
+2020-03-22,10,Comunitat Valenciana,46,Valencia,898,152,40,10
+2020-03-22,5,Extremadura,6,Badajoz,140,27,1,1
+2020-03-22,5,Extremadura,10,Cáceres,259,16,13,4
+2020-03-22,12,Galicia,15,"Coruña, A",384,55,13,3
+2020-03-22,12,Galicia,27,Lugo,58,4,1,0
+2020-03-22,12,Galicia,32,Ourense,95,21,2,1
+2020-03-22,12,Galicia,36,Pontevedra,348,84,2,1
+2020-03-22,17,"Rioja, La",26,"Rioja, La",654,90,18,3
+2020-03-22,13,"Madrid, Comunidad de",28,Madrid,9702,781,1021,217
+2020-03-22,19,Melilla,52,Melilla,25,0,0,0
+2020-03-22,14,"Murcia, Región de",30,Murcia,296,56,1,0
+2020-03-22,15,"Navarra, Comunidad Foral de",31,Navarra,794,130,14,5
+2020-03-22,16,País Vasco,1,Araba,1003,93,70,10
+2020-03-22,16,País Vasco,48,Bizkaia,1029,165,70,10
+2020-03-22,16,País Vasco,20,Gipuzkoa,382,63,70,10
+2020-03-23,1,Andalucía,4,Almería,76,16,2,1
+2020-03-23,1,Andalucía,11,Cádiz,180,44,3,1
+2020-03-23,1,Andalucía,14,Córdoba,191,11,4,1
+2020-03-23,1,Andalucía,18,Granada,374,39,17,4
+2020-03-23,1,Andalucía,21,Huelva,59,11,1,1
+2020-03-23,1,Andalucía,23,Jaén,222,44,5,2
+2020-03-23,1,Andalucía,29,Málaga,550,15,21,0
+2020-03-23,1,Andalucía,41,Sevilla,356,56,5,1
+2020-03-23,2,Aragón,22,Huesca,57,12,1,0
+2020-03-23,2,Aragón,44,Teruel,66,14,1,1
+2020-03-23,2,Aragón,50,Zaragoza,505,70,30,7
+2020-03-23,3,"Asturias, Principado de",33,Asturias,594,49,12,4
+2020-03-23,4,"Balears, Illes",7,"Balears, Illes",400,69,10,6
+2020-03-23,5,Canarias,35,"Palmas, Las",214,29,6,0
+2020-03-23,5,Canarias,38,Santa Cruz de Tenerife,431,77,6,0
+2020-03-23,6,Cantabria,39,Cantabria,347,65,6,1
+2020-03-23,8,Castila-La Mancha,2,Albacete,470,20,37,2
+2020-03-23,8,Castila-La Mancha,13,Ciudad Real,630,60,51,6
+2020-03-23,8,Castila-La Mancha,16,Cuenca,140,11,13,3
+2020-03-23,8,Castila-La Mancha,19,Guadalajara,330,30,6,1
+2020-03-23,8,Castila-La Mancha,45,Toledo,600,50,38,5
+2020-03-23,7,Castilla y León,9,Burgos,336,34,18,2
+2020-03-23,7,Castilla y León,24,León,290,57,20,6
+2020-03-23,7,Castilla y León,34,Palencia,64,14,0,0
+2020-03-23,7,Castilla y León,37,Salamanca,404,89,24,3
+2020-03-23,7,Castilla y León,40,Segovia,223,29,23,3
+2020-03-23,7,Castilla y León,42,Soria,140,5,11,3
+2020-03-23,7,Castilla y León,47,Valladolid,349,47,14,3
+2020-03-23,7,Castilla y León,49,Zamora,90,20,4,1
+2020-03-23,7,Castilla y León,5,Ávila,159,16,10,1
+2020-03-23,9,Cataluña,8,Barcelona,8742,1307,0,0
+2020-03-23,18,Ceuta,51,Ceuta,6,1,0,0
+2020-03-23,10,Comunitat Valenciana,3,Alicante,606,66,37,12
+2020-03-23,10,Comunitat Valenciana,12,Castellón,206,57,7,3
+2020-03-23,10,Comunitat Valenciana,46,Valencia,1072,174,50,10
+2020-03-23,5,Extremadura,6,Badajoz,168,28,1,0
+2020-03-23,5,Extremadura,10,Cáceres,325,66,17,4
+2020-03-23,12,Galicia,15,"Coruña, A",524,140,14,1
+2020-03-23,12,Galicia,27,Lugo,62,4,2,1
+2020-03-23,12,Galicia,32,Ourense,142,47,2,0
+2020-03-23,12,Galicia,36,Pontevedra,442,94,2,0
+2020-03-23,17,"Rioja, La",26,"Rioja, La",747,93,22,4
+2020-03-23,13,"Madrid, Comunidad de",28,Madrid,10575,873,1263,242
+2020-03-23,19,Melilla,52,Melilla,28,3,0,0
+2020-03-23,14,"Murcia, Región de",30,Murcia,345,49,2,1
+2020-03-23,15,"Navarra, Comunidad Foral de",31,Navarra,886,92,24,10
+2020-03-23,16,País Vasco,1,Araba,1084,81,73,3
+2020-03-23,16,País Vasco,48,Bizkaia,1186,157,73,3
+2020-03-23,16,País Vasco,20,Gipuzkoa,450,68,73,3
+2020-03-24,1,Andalucía,4,Almería,93,17,5,3
+2020-03-24,1,Andalucía,11,Cádiz,247,67,3,0
+2020-03-24,1,Andalucía,14,Córdoba,234,43,6,2
+2020-03-24,1,Andalucía,18,Granada,480,106,21,4
+2020-03-24,1,Andalucía,21,Huelva,71,12,1,0
+2020-03-24,1,Andalucía,23,Jaén,266,44,12,7
+2020-03-24,1,Andalucía,29,Málaga,695,145,26,5
+2020-03-24,1,Andalucía,41,Sevilla,432,76,13,8
+2020-03-24,2,Aragón,22,Huesca,72,15,1,0
+2020-03-24,2,Aragón,44,Teruel,75,9,5,4
+2020-03-24,2,Aragón,50,Zaragoza,586,81,31,1
+2020-03-24,3,"Asturias, Principado de",33,Asturias,662,68,22,10
+2020-03-24,4,"Balears, Illes",7,"Balears, Illes",478,78,10,0
+2020-03-24,5,Canarias,35,"Palmas, Las",240,26,7,1
+2020-03-24,5,Canarias,38,Santa Cruz de Tenerife,522,91,6,0
+2020-03-24,6,Cantabria,39,Cantabria,425,78,9,3
+2020-03-24,8,Castila-La Mancha,2,Albacete,499,29,50,13
+2020-03-24,8,Castila-La Mancha,13,Ciudad Real,704,74,59,8
+2020-03-24,8,Castila-La Mancha,16,Cuenca,149,9,18,5
+2020-03-24,8,Castila-La Mancha,19,Guadalajara,371,41,36,30
+2020-03-24,8,Castila-La Mancha,45,Toledo,670,70,50,12
+2020-03-24,7,Castilla y León,9,Burgos,392,56,24,6
+2020-03-24,7,Castilla y León,24,León,362,72,24,4
+2020-03-24,7,Castilla y León,34,Palencia,72,8,1,1
+2020-03-24,7,Castilla y León,37,Salamanca,483,79,38,14
+2020-03-24,7,Castilla y León,40,Segovia,261,38,27,4
+2020-03-24,7,Castilla y León,42,Soria,179,39,13,2
+2020-03-24,7,Castilla y León,47,Valladolid,410,61,17,3
+2020-03-24,7,Castilla y León,49,Zamora,100,10,7,3
+2020-03-24,7,Castilla y León,5,Ávila,201,42,15,5
+2020-03-24,9,Cataluña,8,Barcelona,10314,1572,0,0
+2020-03-24,18,Ceuta,51,Ceuta,6,0,0,0
+2020-03-24,10,Comunitat Valenciana,3,Alicante,631,25,46,9
+2020-03-24,10,Comunitat Valenciana,12,Castellón,224,18,8,1
+2020-03-24,10,Comunitat Valenciana,46,Valencia,1295,223,61,11
+2020-03-24,5,Extremadura,6,Badajoz,217,49,3,2
+2020-03-24,5,Extremadura,10,Cáceres,419,94,24,7
+2020-03-24,12,Galicia,15,"Coruña, A",635,111,18,4
+2020-03-24,12,Galicia,27,Lugo,97,35,4,2
+2020-03-24,12,Galicia,32,Ourense,152,10,3,1
+2020-03-24,12,Galicia,36,Pontevedra,491,49,2,0
+2020-03-24,17,"Rioja, La",26,"Rioja, La",802,55,30,8
+2020-03-24,13,"Madrid, Comunidad de",28,Madrid,12352,1777,1535,272
+2020-03-24,19,Melilla,52,Melilla,28,0,0,0
+2020-03-24,14,"Murcia, Región de",30,Murcia,385,40,3,1
+2020-03-24,15,"Navarra, Comunidad Foral de",31,Navarra,1014,128,31,7
+2020-03-24,16,País Vasco,1,Araba,1212,128,81,8
+2020-03-24,16,País Vasco,48,Bizkaia,1478,292,81,8
+2020-03-24,16,País Vasco,20,Gipuzkoa,560,110,81,8
+2020-03-25,1,Andalucía,4,Almería,117,24,5,0
+2020-03-25,1,Andalucía,11,Cádiz,280,33,4,1
+2020-03-25,1,Andalucía,14,Córdoba,291,57,6,0
+2020-03-25,1,Andalucía,18,Granada,579,99,25,4
+2020-03-25,1,Andalucía,21,Huelva,78,7,1,0
+2020-03-25,1,Andalucía,23,Jaén,323,57,14,2
+2020-03-25,1,Andalucía,29,Málaga,849,154,40,14
+2020-03-25,1,Andalucía,41,Sevilla,540,108,18,5
+2020-03-25,2,Aragón,22,Huesca,95,23,4,3
+2020-03-25,2,Aragón,44,Teruel,90,15,5,0
+2020-03-25,2,Aragón,50,Zaragoza,772,186,31,0
+2020-03-25,3,"Asturias, Principado de",33,Asturias,779,117,25,3
+2020-03-25,4,"Balears, Illes",7,"Balears, Illes",562,84,13,3
+2020-03-25,5,Canarias,35,"Palmas, Las",277,37,7,0
+2020-03-25,5,Canarias,38,Santa Cruz de Tenerife,610,88,6,0
+2020-03-25,6,Cantabria,39,Cantabria,510,85,14,5
+2020-03-25,8,Castila-La Mancha,2,Albacete,567,68,49,0
+2020-03-25,8,Castila-La Mancha,13,Ciudad Real,885,181,67,8
+2020-03-25,8,Castila-La Mancha,16,Cuenca,172,23,22,4
+2020-03-25,8,Castila-La Mancha,19,Guadalajara,404,33,49,13
+2020-03-25,8,Castila-La Mancha,45,Toledo,752,82,65,15
+2020-03-25,7,Castilla y León,9,Burgos,485,93,28,4
+2020-03-25,7,Castilla y León,24,León,438,76,31,7
+2020-03-25,7,Castilla y León,34,Palencia,91,19,3,2
+2020-03-25,7,Castilla y León,37,Salamanca,533,50,46,8
+2020-03-25,7,Castilla y León,40,Segovia,300,39,34,7
+2020-03-25,7,Castilla y León,42,Soria,263,84,14,1
+2020-03-25,7,Castilla y León,47,Valladolid,501,91,21,4
+2020-03-25,7,Castilla y León,49,Zamora,103,3,8,1
+2020-03-25,7,Castilla y León,5,Ávila,226,25,21,6
+2020-03-25,9,Cataluña,8,Barcelona,11870,1556,0,0
+2020-03-25,18,Ceuta,51,Ceuta,9,3,0,0
+2020-03-25,10,Comunitat Valenciana,3,Alicante,860,229,61,15
+2020-03-25,10,Comunitat Valenciana,12,Castellón,264,40,11,3
+2020-03-25,10,Comunitat Valenciana,46,Valencia,1475,180,71,10
+2020-03-25,5,Extremadura,6,Badajoz,257,40,4,1
+2020-03-25,5,Extremadura,10,Cáceres,479,60,35,11
+2020-03-25,12,Galicia,15,"Coruña, A",715,80,22,4
+2020-03-25,12,Galicia,27,Lugo,99,2,4,0
+2020-03-25,12,Galicia,32,Ourense,186,34,4,1
+2020-03-25,12,Galicia,36,Pontevedra,598,107,3,1
+2020-03-25,17,"Rioja, La",26,"Rioja, La",928,126,37,7
+2020-03-25,13,"Madrid, Comunidad de",28,Madrid,14597,2245,1825,290
+2020-03-25,19,Melilla,52,Melilla,38,10,0,0
+2020-03-25,14,"Murcia, Región de",30,Murcia,477,92,5,2
+2020-03-25,15,"Navarra, Comunidad Foral de",31,Navarra,1197,183,33,2
+2020-03-25,16,País Vasco,1,Araba,1440,228,94,13
+2020-03-25,16,País Vasco,48,Bizkaia,1825,347,94,13
+2020-03-25,16,País Vasco,20,Gipuzkoa,662,102,94,13
+2020-03-26,1,Andalucía,4,Almería,136,19,7,2
+2020-03-26,1,Andalucía,11,Cádiz,301,21,5,1
+2020-03-26,1,Andalucía,14,Córdoba,349,58,7,1
+2020-03-26,1,Andalucía,18,Granada,648,69,32,7
+2020-03-26,1,Andalucía,21,Huelva,96,18,2,1
+2020-03-26,1,Andalucía,23,Jaén,356,33,15,1
+2020-03-26,1,Andalucía,29,Málaga,935,86,42,2
+2020-03-26,1,Andalucía,41,Sevilla,632,92,24,6
+2020-03-26,2,Aragón,22,Huesca,119,24,4,0
+2020-03-26,2,Aragón,44,Teruel,115,25,5,0
+2020-03-26,2,Aragón,50,Zaragoza,882,110,39,8
+2020-03-26,3,"Asturias, Principado de",33,Asturias,841,62,27,2
+2020-03-26,4,"Balears, Illes",7,"Balears, Illes",660,98,17,4
+2020-03-26,5,Canarias,35,"Palmas, Las",318,41,8,1
+2020-03-26,5,Canarias,38,Santa Cruz de Tenerife,676,66,6,0
+2020-03-26,6,Cantabria,39,Cantabria,671,161,17,3
+2020-03-26,8,Castila-La Mancha,2,Albacete,666,99,62,13
+2020-03-26,8,Castila-La Mancha,13,Ciudad Real,1147,262,74,7
+2020-03-26,8,Castila-La Mancha,16,Cuenca,177,5,30,8
+2020-03-26,8,Castila-La Mancha,19,Guadalajara,428,24,56,7
+2020-03-26,8,Castila-La Mancha,45,Toledo,965,213,72,7
+2020-03-26,7,Castilla y León,9,Burgos,530,45,32,4
+2020-03-26,7,Castilla y León,24,León,516,78,46,15
+2020-03-26,7,Castilla y León,34,Palencia,139,48,5,2
+2020-03-26,7,Castilla y León,37,Salamanca,629,96,54,8
+2020-03-26,7,Castilla y León,40,Segovia,361,61,37,3
+2020-03-26,7,Castilla y León,42,Soria,339,76,16,2
+2020-03-26,7,Castilla y León,47,Valladolid,598,97,27,6
+2020-03-26,7,Castilla y León,49,Zamora,106,3,9,1
+2020-03-26,7,Castilla y León,5,Ávila,270,44,27,6
+2020-03-26,9,Cataluña,8,Barcelona,13749,1879,0,0
+2020-03-26,18,Ceuta,51,Ceuta,10,1,0,0
+2020-03-26,10,Comunitat Valenciana,3,Alicante,1041,181,72,11
+2020-03-26,10,Comunitat Valenciana,12,Castellón,366,102,14,3
+2020-03-26,10,Comunitat Valenciana,46,Valencia,1776,301,81,10
+2020-03-26,5,Extremadura,6,Badajoz,329,72,8,4
+2020-03-26,5,Extremadura,10,Cáceres,640,161,50,15
+2020-03-26,12,Galicia,15,"Coruña, A",789,74,28,6
+2020-03-26,12,Galicia,27,Lugo,128,29,4,0
+2020-03-26,12,Galicia,32,Ourense,231,45,5,1
+2020-03-26,12,Galicia,36,Pontevedra,684,86,6,3
+2020-03-26,17,"Rioja, La",26,"Rioja, La",995,67,43,6
+2020-03-26,13,"Madrid, Comunidad de",28,Madrid,17166,2569,2090,265
+2020-03-26,19,Melilla,52,Melilla,39,1,1,1
+2020-03-26,14,"Murcia, Región de",30,Murcia,596,119,8,3
+2020-03-26,15,"Navarra, Comunidad Foral de",31,Navarra,1411,214,49,16
+2020-03-26,16,País Vasco,1,Araba,1607,167,103,9
+2020-03-26,16,País Vasco,48,Bizkaia,2174,349,103,9
+2020-03-26,16,País Vasco,20,Gipuzkoa,805,143,103,9
+2020-03-27,1,Andalucía,4,Almería,144,8,8,1
+2020-03-27,1,Andalucía,11,Cádiz,350,49,6,1
+2020-03-27,1,Andalucía,14,Córdoba,359,10,8,1
+2020-03-27,1,Andalucía,18,Granada,711,63,34,2
+2020-03-27,1,Andalucía,21,Huelva,106,10,2,0
+2020-03-27,1,Andalucía,23,Jaén,421,65,15,0
+2020-03-27,1,Andalucía,29,Málaga,1036,101,46,4
+2020-03-27,1,Andalucía,41,Sevilla,713,81,25,1
+2020-03-27,2,Aragón,22,Huesca,150,31,4,0
+2020-03-27,2,Aragón,44,Teruel,143,28,5,0
+2020-03-27,2,Aragón,50,Zaragoza,1045,163,49,10
+2020-03-27,3,"Asturias, Principado de",33,Asturias,900,59,29,2
+2020-03-27,4,"Balears, Illes",7,"Balears, Illes",755,95,22,5
+2020-03-27,5,Canarias,35,"Palmas, Las",359,41,12,4
+2020-03-27,5,Canarias,38,Santa Cruz de Tenerife,766,90,24,18
+2020-03-27,6,Cantabria,39,Cantabria,810,139,21,4
+2020-03-27,8,Castila-La Mancha,2,Albacete,780,114,83,21
+2020-03-27,8,Castila-La Mancha,13,Ciudad Real,1422,275,89,15
+2020-03-27,8,Castila-La Mancha,16,Cuenca,180,3,40,10
+2020-03-27,8,Castila-La Mancha,19,Guadalajara,440,12,75,19
+2020-03-27,8,Castila-La Mancha,45,Toledo,1112,147,80,8
+2020-03-27,7,Castilla y León,9,Burgos,604,74,39,7
+2020-03-27,7,Castilla y León,24,León,628,112,55,9
+2020-03-27,7,Castilla y León,34,Palencia,170,31,9,4
+2020-03-27,7,Castilla y León,37,Salamanca,776,147,70,16
+2020-03-27,7,Castilla y León,40,Segovia,424,63,44,7
+2020-03-27,7,Castilla y León,42,Soria,372,33,20,4
+2020-03-27,7,Castilla y León,47,Valladolid,692,94,39,12
+2020-03-27,7,Castilla y León,49,Zamora,124,18,12,3
+2020-03-27,7,Castilla y León,5,Ávila,342,72,33,6
+2020-03-27,9,Cataluña,8,Barcelona,15127,1378,0,0
+2020-03-27,18,Ceuta,51,Ceuta,17,7,0,0
+2020-03-27,10,Comunitat Valenciana,3,Alicante,1095,54,88,16
+2020-03-27,10,Comunitat Valenciana,12,Castellón,405,39,19,5
+2020-03-27,10,Comunitat Valenciana,46,Valencia,2015,239,91,10
+2020-03-27,5,Extremadura,6,Badajoz,390,61,9,1
+2020-03-27,5,Extremadura,10,Cáceres,841,201,59,9
+2020-03-27,12,Galicia,15,"Coruña, A",1000,211,32,4
+2020-03-27,12,Galicia,27,Lugo,140,12,4,0
+2020-03-27,12,Galicia,32,Ourense,302,71,6,1
+2020-03-27,12,Galicia,36,Pontevedra,769,85,8,2
+2020-03-27,17,"Rioja, La",26,"Rioja, La",1236,241,55,12
+2020-03-27,13,"Madrid, Comunidad de",28,Madrid,19243,2077,2412,322
+2020-03-27,19,Melilla,52,Melilla,42,3,1,0
+2020-03-27,14,"Murcia, Región de",30,Murcia,714,118,15,7
+2020-03-27,15,"Navarra, Comunidad Foral de",31,Navarra,1641,230,58,9
+2020-03-27,16,País Vasco,1,Araba,1779,172,109,6
+2020-03-27,16,País Vasco,48,Bizkaia,2437,263,109,6
+2020-03-27,16,País Vasco,20,Gipuzkoa,897,92,109,6
+2020-03-28,1,Andalucía,4,Almería,175,31,10,2
+2020-03-28,1,Andalucía,11,Cádiz,408,58,7,1
+2020-03-28,1,Andalucía,14,Córdoba,424,65,9,1
+2020-03-28,1,Andalucía,18,Granada,806,95,49,15
+2020-03-28,1,Andalucía,21,Huelva,121,15,2,0
+2020-03-28,1,Andalucía,23,Jaén,472,51,16,1
+2020-03-28,1,Andalucía,29,Málaga,1083,47,56,10
+2020-03-28,1,Andalucía,41,Sevilla,835,122,26,1
+2020-03-28,2,Aragón,22,Huesca,174,24,9,5
+2020-03-28,2,Aragón,44,Teruel,179,36,10,5
+2020-03-28,2,Aragón,50,Zaragoza,1239,194,72,23
+2020-03-28,3,"Asturias, Principado de",33,Asturias,1004,104,33,4
+2020-03-28,4,"Balears, Illes",7,"Balears, Illes",862,107,26,4
+2020-03-28,5,Canarias,35,"Palmas, Las",384,25,14,2
+2020-03-28,5,Canarias,38,Santa Cruz de Tenerife,795,29,25,1
+2020-03-28,6,Cantabria,39,Cantabria,937,127,22,1
+2020-03-28,8,Castila-La Mancha,2,Albacete,1114,334,101,18
+2020-03-28,8,Castila-La Mancha,13,Ciudad Real,1543,121,117,28
+2020-03-28,8,Castila-La Mancha,16,Cuenca,222,42,53,13
+2020-03-28,8,Castila-La Mancha,19,Guadalajara,441,1,79,4
+2020-03-28,8,Castila-La Mancha,45,Toledo,1192,80,98,18
+2020-03-28,7,Castilla y León,9,Burgos,673,69,42,3
+2020-03-28,7,Castilla y León,24,León,726,98,67,12
+2020-03-28,7,Castilla y León,34,Palencia,220,50,11,2
+2020-03-28,7,Castilla y León,37,Salamanca,882,106,84,14
+2020-03-28,7,Castilla y León,40,Segovia,503,79,51,7
+2020-03-28,7,Castilla y León,42,Soria,431,59,26,6
+2020-03-28,7,Castilla y León,47,Valladolid,807,115,45,6
+2020-03-28,7,Castilla y León,49,Zamora,168,44,16,4
+2020-03-28,7,Castilla y León,5,Ávila,381,39,38,5
+2020-03-28,9,Cataluña,8,Barcelona,16239,1112,0,0
+2020-03-28,18,Ceuta,51,Ceuta,17,0,1,1
+2020-03-28,10,Comunitat Valenciana,3,Alicante,1324,229,104,16
+2020-03-28,10,Comunitat Valenciana,12,Castellón,442,37,21,2
+2020-03-28,10,Comunitat Valenciana,46,Valencia,2251,236,109,18
+2020-03-28,5,Extremadura,6,Badajoz,437,47,11,2
+2020-03-28,5,Extremadura,10,Cáceres,957,116,77,18
+2020-03-28,12,Galicia,15,"Coruña, A",1114,114,40,8
+2020-03-28,12,Galicia,27,Lugo,219,79,4,0
+2020-03-28,12,Galicia,32,Ourense,371,69,8,2
+2020-03-28,12,Galicia,36,Pontevedra,923,154,8,0
+2020-03-28,17,"Rioja, La",26,"Rioja, La",1436,200,65,10
+2020-03-28,13,"Madrid, Comunidad de",28,Madrid,21520,2277,2757,345
+2020-03-28,19,Melilla,52,Melilla,45,3,1,0
+2020-03-28,14,"Murcia, Región de",30,Murcia,802,88,17,2
+2020-03-28,15,"Navarra, Comunidad Foral de",31,Navarra,1829,188,70,12
+2020-03-28,16,País Vasco,1,Araba,1951,172,117,8
+2020-03-28,16,País Vasco,48,Bizkaia,2752,315,117,8
+2020-03-28,16,País Vasco,20,Gipuzkoa,1018,121,117,8
+2020-03-29,1,Andalucía,4,Almería,202,27,12,2
+2020-03-29,1,Andalucía,11,Cádiz,449,41,9,2
+2020-03-29,1,Andalucía,14,Córdoba,473,49,11,2
+2020-03-29,1,Andalucía,18,Granada,860,54,57,8
+2020-03-29,1,Andalucía,21,Huelva,132,11,4,2
+2020-03-29,1,Andalucía,23,Jaén,508,36,20,4
+2020-03-29,1,Andalucía,29,Málaga,1188,105,64,8
+2020-03-29,1,Andalucía,41,Sevilla,917,82,30,4
+2020-03-29,2,Aragón,22,Huesca,201,27,11,2
+2020-03-29,2,Aragón,44,Teruel,208,29,12,2
+2020-03-29,2,Aragón,50,Zaragoza,1449,210,79,7
+2020-03-29,3,"Asturias, Principado de",33,Asturias,1088,84,41,8
+2020-03-29,4,"Balears, Illes",7,"Balears, Illes",958,96,29,3
+2020-03-29,5,Canarias,35,"Palmas, Las",400,16,15,1
+2020-03-29,5,Canarias,38,Santa Cruz de Tenerife,854,59,26,1
+2020-03-29,6,Cantabria,39,Cantabria,1023,86,26,4
+2020-03-29,8,Castila-La Mancha,2,Albacete,1317,203,122,21
+2020-03-29,8,Castila-La Mancha,13,Ciudad Real,1755,212,145,28
+2020-03-29,8,Castila-La Mancha,16,Cuenca,253,31,55,2
+2020-03-29,8,Castila-La Mancha,19,Guadalajara,535,94,86,7
+2020-03-29,8,Castila-La Mancha,45,Toledo,1386,194,131,33
+2020-03-29,7,Castilla y León,9,Burgos,719,46,49,7
+2020-03-29,7,Castilla y León,24,León,821,95,77,10
+2020-03-29,7,Castilla y León,34,Palencia,262,42,13,2
+2020-03-29,7,Castilla y León,37,Salamanca,1030,148,99,15
+2020-03-29,7,Castilla y León,40,Segovia,567,64,58,7
+2020-03-29,7,Castilla y León,42,Soria,523,92,30,4
+2020-03-29,7,Castilla y León,47,Valladolid,886,79,57,12
+2020-03-29,7,Castilla y León,49,Zamora,192,24,18,2
+2020-03-29,7,Castilla y León,5,Ávila,414,33,41,3
+2020-03-29,9,Cataluña,8,Barcelona,17069,830,0,0
+2020-03-29,18,Ceuta,51,Ceuta,21,4,1,0
+2020-03-29,10,Comunitat Valenciana,3,Alicante,1736,412,115,11
+2020-03-29,10,Comunitat Valenciana,12,Castellón,535,93,25,4
+2020-03-29,10,Comunitat Valenciana,46,Valencia,2496,245,127,18
+2020-03-29,5,Extremadura,6,Badajoz,465,28,15,4
+2020-03-29,5,Extremadura,10,Cáceres,991,34,83,6
+2020-03-29,12,Galicia,15,"Coruña, A",1261,147,46,6
+2020-03-29,12,Galicia,27,Lugo,244,25,7,3
+2020-03-29,12,Galicia,32,Ourense,415,44,8,0
+2020-03-29,12,Galicia,36,Pontevedra,1005,82,8,0
+2020-03-29,17,"Rioja, La",26,"Rioja, La",1629,193,68,3
+2020-03-29,13,"Madrid, Comunidad de",28,Madrid,22677,1157,3082,325
+2020-03-29,19,Melilla,52,Melilla,48,3,1,0
+2020-03-29,14,"Murcia, Región de",30,Murcia,872,70,20,3
+2020-03-29,15,"Navarra, Comunidad Foral de",31,Navarra,2011,182,84,14
+2020-03-29,16,País Vasco,1,Araba,2046,95,127,10
+2020-03-29,16,País Vasco,48,Bizkaia,2911,159,127,10
+2020-03-29,16,País Vasco,20,Gipuzkoa,1072,54,127,10
+2020-03-30,1,Andalucía,4,Almería,225,23,14,2
+2020-03-30,1,Andalucía,11,Cádiz,509,60,13,4
+2020-03-30,1,Andalucía,14,Córdoba,572,99,13,2
+2020-03-30,1,Andalucía,18,Granada,963,103,66,9
+2020-03-30,1,Andalucía,21,Huelva,169,37,4,0
+2020-03-30,1,Andalucía,23,Jaén,606,98,23,3
+2020-03-30,1,Andalucía,29,Málaga,1351,163,69,5
+2020-03-30,1,Andalucía,41,Sevilla,1057,140,34,4
+2020-03-30,2,Aragón,22,Huesca,215,14,11,0
+2020-03-30,2,Aragón,44,Teruel,222,14,12,0
+2020-03-30,2,Aragón,50,Zaragoza,1641,192,81,2
+2020-03-30,3,"Asturias, Principado de",33,Asturias,1158,70,49,8
+2020-03-30,4,"Balears, Illes",7,"Balears, Illes",1000,42,37,8
+2020-03-30,5,Canarias,35,"Palmas, Las",426,26,17,2
+2020-03-30,5,Canarias,38,Santa Cruz de Tenerife,911,57,34,8
+2020-03-30,6,Cantabria,39,Cantabria,1100,77,27,1
+2020-03-30,8,Castila-La Mancha,2,Albacete,1537,220,133,11
+2020-03-30,8,Castila-La Mancha,13,Ciudad Real,2041,286,179,34
+2020-03-30,8,Castila-La Mancha,16,Cuenca,268,15,62,7
+2020-03-30,8,Castila-La Mancha,19,Guadalajara,586,51,93,7
+2020-03-30,8,Castila-La Mancha,45,Toledo,1426,40,155,24
+2020-03-30,7,Castilla y León,9,Burgos,749,30,61,12
+2020-03-30,7,Castilla y León,24,León,918,97,89,12
+2020-03-30,7,Castilla y León,34,Palencia,293,31,18,5
+2020-03-30,7,Castilla y León,37,Salamanca,1078,48,110,11
+2020-03-30,7,Castilla y León,40,Segovia,629,62,69,11
+2020-03-30,7,Castilla y León,42,Soria,550,27,37,7
+2020-03-30,7,Castilla y León,47,Valladolid,929,43,66,9
+2020-03-30,7,Castilla y León,49,Zamora,209,17,20,2
+2020-03-30,7,Castilla y León,5,Ávila,446,32,46,5
+2020-03-30,9,Cataluña,8,Barcelona,18587,1518,0,0
+2020-03-30,18,Ceuta,51,Ceuta,25,4,1,0
+2020-03-30,10,Comunitat Valenciana,3,Alicante,1841,105,135,20
+2020-03-30,10,Comunitat Valenciana,12,Castellón,579,44,32,7
+2020-03-30,10,Comunitat Valenciana,46,Valencia,2673,177,143,16
+2020-03-30,5,Extremadura,6,Badajoz,515,50,18,3
+2020-03-30,5,Extremadura,10,Cáceres,1045,54,88,5
+2020-03-30,12,Galicia,15,"Coruña, A",1494,233,51,5
+2020-03-30,12,Galicia,27,Lugo,289,45,7,0
+2020-03-30,12,Galicia,32,Ourense,479,64,11,3
+2020-03-30,12,Galicia,36,Pontevedra,1214,209,13,5
+2020-03-30,17,"Rioja, La",26,"Rioja, La",1733,104,71,3
+2020-03-30,13,"Madrid, Comunidad de",28,Madrid,24090,1413,3392,310
+2020-03-30,19,Melilla,52,Melilla,51,3,1,0
+2020-03-30,14,"Murcia, Región de",30,Murcia,939,67,25,5
+2020-03-30,15,"Navarra, Comunidad Foral de",31,Navarra,2146,135,102,18
+2020-03-30,16,País Vasco,1,Araba,2102,56,143,16
+2020-03-30,16,País Vasco,48,Bizkaia,3081,170,143,16
+2020-03-30,16,País Vasco,20,Gipuzkoa,1113,41,143,16
+2020-03-31,1,Andalucía,4,Almería,253,28,16,2
+2020-03-31,1,Andalucía,11,Cádiz,541,32,14,1
+2020-03-31,1,Andalucía,14,Córdoba,661,89,15,2
+2020-03-31,1,Andalucía,18,Granada,1061,98,67,1
+2020-03-31,1,Andalucía,21,Huelva,178,9,4,0
+2020-03-31,1,Andalucía,23,Jaén,668,62,26,3
+2020-03-31,1,Andalucía,29,Málaga,1379,28,70,1
+2020-03-31,1,Andalucía,41,Sevilla,1124,67,36,2
+2020-03-31,2,Aragón,22,Huesca,244,29,14,3
+2020-03-31,2,Aragón,44,Teruel,236,14,15,3
+2020-03-31,2,Aragón,50,Zaragoza,1792,151,107,26
+2020-03-31,3,"Asturias, Principado de",33,Asturias,1236,78,55,6
+2020-03-31,4,"Balears, Illes",7,"Balears, Illes",1069,69,42,5
+2020-03-31,5,Canarias,35,"Palmas, Las",458,32,19,2
+2020-03-31,5,Canarias,38,Santa Cruz de Tenerife,959,48,39,5
+2020-03-31,6,Cantabria,39,Cantabria,1171,71,37,10
+2020-03-31,8,Castila-La Mancha,2,Albacete,1725,188,148,15
+2020-03-31,8,Castila-La Mancha,13,Ciudad Real,2250,209,218,39
+2020-03-31,8,Castila-La Mancha,16,Cuenca,282,14,64,2
+2020-03-31,8,Castila-La Mancha,19,Guadalajara,670,84,97,4
+2020-03-31,8,Castila-La Mancha,45,Toledo,1500,74,181,26
+2020-03-31,7,Castilla y León,9,Burgos,790,41,69,8
+2020-03-31,7,Castilla y León,24,León,964,46,100,11
+2020-03-31,7,Castilla y León,34,Palencia,325,32,18,0
+2020-03-31,7,Castilla y León,37,Salamanca,1185,107,123,13
+2020-03-31,7,Castilla y León,40,Segovia,720,91,77,8
+2020-03-31,7,Castilla y León,42,Soria,555,5,44,7
+2020-03-31,7,Castilla y León,47,Valladolid,988,59,77,11
+2020-03-31,7,Castilla y León,49,Zamora,217,8,23,3
+2020-03-31,7,Castilla y León,5,Ávila,467,21,54,8
+2020-03-31,9,Cataluña,8,Barcelona,20184,1597,0,0
+2020-03-31,18,Ceuta,51,Ceuta,34,9,1,0
+2020-03-31,10,Comunitat Valenciana,3,Alicante,2023,182,147,12
+2020-03-31,10,Comunitat Valenciana,12,Castellón,606,27,34,2
+2020-03-31,10,Comunitat Valenciana,46,Valencia,2862,189,158,15
+2020-03-31,5,Extremadura,6,Badajoz,561,46,20,2
+2020-03-31,5,Extremadura,10,Cáceres,1067,22,113,25
+2020-03-31,12,Galicia,15,"Coruña, A",1573,79,55,4
+2020-03-31,12,Galicia,27,Lugo,371,82,7,0
+2020-03-31,12,Galicia,32,Ourense,520,41,15,4
+2020-03-31,12,Galicia,36,Pontevedra,1294,80,23,10
+2020-03-31,17,"Rioja, La",26,"Rioja, La",1810,77,85,14
+2020-03-31,13,"Madrid, Comunidad de",28,Madrid,27509,3419,3603,211
+2020-03-31,19,Melilla,52,Melilla,54,3,1,0
+2020-03-31,14,"Murcia, Región de",30,Murcia,974,35,34,9
+2020-03-31,15,"Navarra, Comunidad Foral de",31,Navarra,2305,159,113,11
+2020-03-31,16,País Vasco,1,Araba,2247,145,161,18
+2020-03-31,16,País Vasco,48,Bizkaia,3357,276,161,18
+2020-03-31,16,País Vasco,20,Gipuzkoa,1206,93,161,18
+2020-04-01,1,Andalucía,4,Almería,264,11,17,1
+2020-04-01,1,Andalucía,11,Cádiz,647,106,17,3
+2020-04-01,1,Andalucía,14,Córdoba,687,26,21,6
+2020-04-01,1,Andalucía,18,Granada,1182,121,80,13
+2020-04-01,1,Andalucía,21,Huelva,196,18,4,0
+2020-04-01,1,Andalucía,23,Jaén,749,81,37,11
+2020-04-01,1,Andalucía,29,Málaga,1494,115,77,7
+2020-04-01,1,Andalucía,41,Sevilla,1220,96,55,19
+2020-04-01,2,Aragón,22,Huesca,317,73,16,2
+2020-04-01,2,Aragón,44,Teruel,272,36,21,6
+2020-04-01,2,Aragón,50,Zaragoza,1902,110,130,23
+2020-04-01,3,"Asturias, Principado de",33,Asturias,1322,86,63,8
+2020-04-01,4,"Balears, Illes",7,"Balears, Illes",1131,62,46,4
+2020-04-01,5,Canarias,35,"Palmas, Las",475,17,23,4
+2020-04-01,5,Canarias,38,Santa Cruz de Tenerife,1022,63,40,1
+2020-04-01,6,Cantabria,39,Cantabria,1213,42,54,17
+2020-04-01,8,Castila-La Mancha,2,Albacete,1933,208,156,8
+2020-04-01,8,Castila-La Mancha,13,Ciudad Real,2471,221,245,27
+2020-04-01,8,Castila-La Mancha,16,Cuenca,297,15,68,4
+2020-04-01,8,Castila-La Mancha,19,Guadalajara,753,83,100,3
+2020-04-01,8,Castila-La Mancha,45,Toledo,1593,93,205,24
+2020-04-01,7,Castilla y León,9,Burgos,848,58,77,8
+2020-04-01,7,Castilla y León,24,León,1007,43,108,8
+2020-04-01,7,Castilla y León,34,Palencia,359,34,23,5
+2020-04-01,7,Castilla y León,37,Salamanca,1316,131,135,12
+2020-04-01,7,Castilla y León,40,Segovia,811,91,81,4
+2020-04-01,7,Castilla y León,42,Soria,659,104,44,0
+2020-04-01,7,Castilla y León,47,Valladolid,1109,121,89,12
+2020-04-01,7,Castilla y León,49,Zamora,226,9,25,2
+2020-04-01,7,Castilla y León,5,Ávila,512,45,59,5
+2020-04-01,9,Cataluña,8,Barcelona,21711,1527,0,0
+2020-04-01,18,Ceuta,51,Ceuta,51,17,1,0
+2020-04-01,10,Comunitat Valenciana,3,Alicante,2175,152,167,20
+2020-04-01,10,Comunitat Valenciana,12,Castellón,653,47,42,8
+2020-04-01,10,Comunitat Valenciana,46,Valencia,3077,215,186,28
+2020-04-01,5,Extremadura,6,Badajoz,586,25,23,3
+2020-04-01,5,Extremadura,10,Cáceres,1093,26,129,16
+2020-04-01,12,Galicia,15,"Coruña, A",1706,133,61,6
+2020-04-01,12,Galicia,27,Lugo,456,85,10,3
+2020-04-01,12,Galicia,32,Ourense,559,39,18,3
+2020-04-01,12,Galicia,36,Pontevedra,1337,43,27,4
+2020-04-01,17,"Rioja, La",26,"Rioja, La",1960,150,90,5
+2020-04-01,13,"Madrid, Comunidad de",28,Madrid,29840,2331,3865,262
+2020-04-01,19,Melilla,52,Melilla,62,8,1,0
+2020-04-01,14,"Murcia, Región de",30,Murcia,1041,67,37,3
+2020-04-01,15,"Navarra, Comunidad Foral de",31,Navarra,2497,192,130,17
+2020-04-01,16,País Vasco,1,Araba,2356,109,170,9
+2020-04-01,16,País Vasco,48,Bizkaia,3641,284,170,9
+2020-04-01,16,País Vasco,20,Gipuzkoa,1287,81,170,9
+2020-04-02,1,Andalucía,4,Almería,292,28,18,1
+2020-04-02,1,Andalucía,11,Cádiz,699,52,19,2
+2020-04-02,1,Andalucía,14,Córdoba,728,41,25,4
+2020-04-02,1,Andalucía,18,Granada,1230,48,86,6
+2020-04-02,1,Andalucía,21,Huelva,225,29,6,2
+2020-04-02,1,Andalucía,23,Jaén,795,46,39,2
+2020-04-02,1,Andalucía,29,Málaga,1674,180,93,16
+2020-04-02,1,Andalucía,41,Sevilla,1376,156,57,2
+2020-04-02,2,Aragón,22,Huesca,349,32,18,2
+2020-04-02,2,Aragón,44,Teruel,283,11,25,4
+2020-04-02,2,Aragón,50,Zaragoza,2068,166,155,25
+2020-04-02,3,"Asturias, Principado de",33,Asturias,1384,62,69,6
+2020-04-02,4,"Balears, Illes",7,"Balears, Illes",1204,73,58,12
+2020-04-02,5,Canarias,35,"Palmas, Las",503,28,23,0
+2020-04-02,5,Canarias,38,Santa Cruz de Tenerife,1054,32,45,5
+2020-04-02,6,Cantabria,39,Cantabria,1268,55,60,6
+2020-04-02,8,Castila-La Mancha,2,Albacete,2098,165,170,14
+2020-04-02,8,Castila-La Mancha,13,Ciudad Real,2807,336,272,27
+2020-04-02,8,Castila-La Mancha,16,Cuenca,308,11,73,5
+2020-04-02,8,Castila-La Mancha,19,Guadalajara,796,43,105,5
+2020-04-02,8,Castila-La Mancha,45,Toledo,1673,80,234,29
+2020-04-02,7,Castilla y León,9,Burgos,895,47,86,9
+2020-04-02,7,Castilla y León,24,León,1066,59,127,19
+2020-04-02,7,Castilla y León,34,Palencia,383,24,24,1
+2020-04-02,7,Castilla y León,37,Salamanca,1413,97,155,20
+2020-04-02,7,Castilla y León,40,Segovia,886,75,88,7
+2020-04-02,7,Castilla y León,42,Soria,686,27,46,2
+2020-04-02,7,Castilla y León,47,Valladolid,1188,79,105,16
+2020-04-02,7,Castilla y León,49,Zamora,278,52,28,3
+2020-04-02,7,Castilla y León,5,Ávila,560,48,64,5
+2020-04-02,9,Cataluña,8,Barcelona,22811,1100,0,0
+2020-04-02,18,Ceuta,51,Ceuta,55,4,1,0
+2020-04-02,10,Comunitat Valenciana,3,Alicante,2322,147,188,21
+2020-04-02,10,Comunitat Valenciana,12,Castellón,690,37,45,3
+2020-04-02,10,Comunitat Valenciana,46,Valencia,3279,202,210,24
+2020-04-02,5,Extremadura,6,Badajoz,625,39,27,4
+2020-04-02,5,Extremadura,10,Cáceres,1212,119,154,25
+2020-04-02,12,Galicia,15,"Coruña, A",1788,82,68,7
+2020-04-02,12,Galicia,27,Lugo,520,64,12,2
+2020-04-02,12,Galicia,32,Ourense,660,101,18,0
+2020-04-02,12,Galicia,36,Pontevedra,1411,74,35,8
+2020-04-02,17,"Rioja, La",26,"Rioja, La",2083,123,101,11
+2020-04-02,13,"Madrid, Comunidad de",28,Madrid,32155,2315,4175,310
+2020-04-02,19,Melilla,52,Melilla,62,0,1,0
+2020-04-02,14,"Murcia, Región de",30,Murcia,1084,43,42,5
+2020-04-02,15,"Navarra, Comunidad Foral de",31,Navarra,2682,185,141,11
+2020-04-02,16,País Vasco,1,Araba,2446,90,178,8
+2020-04-02,16,País Vasco,48,Bizkaia,3992,351,178,8
+2020-04-02,16,País Vasco,20,Gipuzkoa,1355,68,178,8
+2020-04-03,1,Andalucía,4,Almería,303,11,20,2
+2020-04-03,1,Andalucía,11,Cádiz,756,57,22,3
+2020-04-03,1,Andalucía,14,Córdoba,782,54,25,0
+2020-04-03,1,Andalucía,18,Granada,1292,62,93,7
+2020-04-03,1,Andalucía,21,Huelva,238,13,10,4
+2020-04-03,1,Andalucía,23,Jaén,828,33,43,4
+2020-04-03,1,Andalucía,29,Málaga,1755,81,98,5
+2020-04-03,1,Andalucía,41,Sevilla,1467,91,65,8
+2020-04-03,2,Aragón,22,Huesca,368,19,24,6
+2020-04-03,2,Aragón,44,Teruel,319,36,25,0
+2020-04-03,2,Aragón,50,Zaragoza,2212,144,173,18
+2020-04-03,3,"Asturias, Principado de",33,Asturias,1433,49,70,1
+2020-04-03,4,"Balears, Illes",7,"Balears, Illes",1257,53,69,11
+2020-04-03,5,Canarias,35,"Palmas, Las",525,22,26,3
+2020-04-03,5,Canarias,38,Santa Cruz de Tenerife,1089,35,48,3
+2020-04-03,6,Cantabria,39,Cantabria,1321,53,64,4
+2020-04-03,8,Castila-La Mancha,2,Albacete,2386,288,183,13
+2020-04-03,8,Castila-La Mancha,13,Ciudad Real,3098,291,291,19
+2020-04-03,8,Castila-La Mancha,16,Cuenca,367,59,79,6
+2020-04-03,8,Castila-La Mancha,19,Guadalajara,824,28,109,4
+2020-04-03,8,Castila-La Mancha,45,Toledo,1848,175,254,20
+2020-04-03,7,Castilla y León,9,Burgos,940,45,92,6
+2020-04-03,7,Castilla y León,24,León,1125,59,144,17
+2020-04-03,7,Castilla y León,34,Palencia,427,44,29,5
+2020-04-03,7,Castilla y León,37,Salamanca,1489,76,167,12
+2020-04-03,7,Castilla y León,40,Segovia,966,80,95,7
+2020-04-03,7,Castilla y León,42,Soria,752,66,49,3
+2020-04-03,7,Castilla y León,47,Valladolid,1290,102,114,9
+2020-04-03,7,Castilla y León,49,Zamora,296,18,30,2
+2020-04-03,7,Castilla y León,5,Ávila,590,30,66,2
+2020-04-03,9,Cataluña,8,Barcelona,23930,1119,0,0
+2020-04-03,18,Ceuta,51,Ceuta,62,7,1,0
+2020-04-03,10,Comunitat Valenciana,3,Alicante,2447,125,219,31
+2020-04-03,10,Comunitat Valenciana,12,Castellón,733,43,50,5
+2020-04-03,10,Comunitat Valenciana,46,Valencia,3427,148,242,32
+2020-04-03,5,Extremadura,6,Badajoz,645,20,28,1
+2020-04-03,5,Extremadura,10,Cáceres,1248,36,172,18
+2020-04-03,12,Galicia,15,"Coruña, A",1934,146,77,9
+2020-04-03,12,Galicia,27,Lugo,533,13,12,0
+2020-04-03,12,Galicia,32,Ourense,694,34,25,7
+2020-04-03,12,Galicia,36,Pontevedra,1474,63,41,6
+2020-04-03,17,"Rioja, La",26,"Rioja, La",2224,141,109,8
+2020-04-03,13,"Madrid, Comunidad de",28,Madrid,34188,2033,4483,308
+2020-04-03,19,Melilla,52,Melilla,70,8,2,1
+2020-04-03,14,"Murcia, Región de",30,Murcia,1145,61,46,4
+2020-04-03,15,"Navarra, Comunidad Foral de",31,Navarra,2836,154,151,10
+2020-04-03,16,País Vasco,1,Araba,2537,91,188,10
+2020-04-03,16,País Vasco,48,Bizkaia,4197,205,188,10
+2020-04-03,16,País Vasco,20,Gipuzkoa,1427,72,188,10
+2020-04-04,1,Andalucía,4,Almería,321,18,22,2
+2020-04-04,1,Andalucía,11,Cádiz,798,42,27,5
+2020-04-04,1,Andalucía,14,Córdoba,892,110,30,5
+2020-04-04,1,Andalucía,18,Granada,1379,87,105,12
+2020-04-04,1,Andalucía,21,Huelva,275,37,11,1
+2020-04-04,1,Andalucía,23,Jaén,881,53,46,3
+2020-04-04,1,Andalucía,29,Málaga,1830,75,110,12
+2020-04-04,1,Andalucía,41,Sevilla,1540,73,75,10
+2020-04-04,2,Aragón,22,Huesca,393,25,30,6
+2020-04-04,2,Aragón,44,Teruel,343,24,27,2
+2020-04-04,2,Aragón,50,Zaragoza,2342,130,192,19
+2020-04-04,3,"Asturias, Principado de",33,Asturias,1522,89,76,6
+2020-04-04,4,"Balears, Illes",7,"Balears, Illes",1271,14,71,2
+2020-04-04,5,Canarias,35,"Palmas, Las",539,14,27,1
+2020-04-04,5,Canarias,38,Santa Cruz de Tenerife,1115,26,48,0
+2020-04-04,6,Cantabria,39,Cantabria,1384,63,68,4
+2020-04-04,8,Castila-La Mancha,2,Albacete,2548,162,194,11
+2020-04-04,8,Castila-La Mancha,13,Ciudad Real,3496,398,312,21
+2020-04-04,8,Castila-La Mancha,16,Cuenca,449,82,89,10
+2020-04-04,8,Castila-La Mancha,19,Guadalajara,837,13,118,9
+2020-04-04,8,Castila-La Mancha,45,Toledo,1994,146,276,22
+2020-04-04,7,Castilla y León,9,Burgos,964,24,96,4
+2020-04-04,7,Castilla y León,24,León,1204,79,159,15
+2020-04-04,7,Castilla y León,34,Palencia,452,25,31,2
+2020-04-04,7,Castilla y León,37,Salamanca,1579,90,178,11
+2020-04-04,7,Castilla y León,40,Segovia,1051,85,102,7
+2020-04-04,7,Castilla y León,42,Soria,769,17,52,3
+2020-04-04,7,Castilla y León,47,Valladolid,1352,62,125,11
+2020-04-04,7,Castilla y León,49,Zamora,323,27,35,5
+2020-04-04,7,Castilla y León,5,Ávila,638,48,69,3
+2020-04-04,9,Cataluña,8,Barcelona,24743,813,0,0
+2020-04-04,18,Ceuta,51,Ceuta,73,11,1,0
+2020-04-04,10,Comunitat Valenciana,3,Alicante,2561,114,245,26
+2020-04-04,10,Comunitat Valenciana,12,Castellón,780,47,56,6
+2020-04-04,10,Comunitat Valenciana,46,Valencia,3543,116,270,28
+2020-04-04,5,Extremadura,6,Badajoz,662,17,30,2
+2020-04-04,5,Extremadura,10,Cáceres,1317,69,178,6
+2020-04-04,12,Galicia,15,"Coruña, A",2006,72,85,8
+2020-04-04,12,Galicia,27,Lugo,555,22,12,0
+2020-04-04,12,Galicia,32,Ourense,875,181,29,4
+2020-04-04,12,Galicia,36,Pontevedra,1487,13,44,3
+2020-04-04,17,"Rioja, La",26,"Rioja, La",2405,181,128,19
+2020-04-04,13,"Madrid, Comunidad de",28,Madrid,36249,2061,4723,240
+2020-04-04,19,Melilla,52,Melilla,79,9,2,0
+2020-04-04,14,"Murcia, Región de",30,Murcia,1188,43,51,5
+2020-04-04,15,"Navarra, Comunidad Foral de",31,Navarra,2972,136,171,20
+2020-04-04,16,País Vasco,1,Araba,2637,100,195,7
+2020-04-04,16,País Vasco,48,Bizkaia,4454,257,195,7
+2020-04-04,16,País Vasco,20,Gipuzkoa,1499,72,195,7
+2020-04-05,1,Andalucía,4,Almería,348,27,22,0
+2020-04-05,1,Andalucía,11,Cádiz,848,50,31,4
+2020-04-05,1,Andalucía,14,Córdoba,974,82,32,2
+2020-04-05,1,Andalucía,18,Granada,1477,98,114,9
+2020-04-05,1,Andalucía,21,Huelva,280,5,11,0
+2020-04-05,1,Andalucía,23,Jaén,921,40,49,3
+2020-04-05,1,Andalucía,29,Málaga,1893,63,118,8
+2020-04-05,1,Andalucía,41,Sevilla,1607,67,93,18
+2020-04-05,2,Aragón,22,Huesca,396,3,33,3
+2020-04-05,2,Aragón,44,Teruel,371,28,29,2
+2020-04-05,2,Aragón,50,Zaragoza,2409,67,206,14
+2020-04-05,3,"Asturias, Principado de",33,Asturias,1605,83,80,4
+2020-04-05,4,"Balears, Illes",7,"Balears, Illes",1293,22,75,4
+2020-04-05,5,Canarias,35,"Palmas, Las",546,7,29,2
+2020-04-05,5,Canarias,38,Santa Cruz de Tenerife,1134,19,53,5
+2020-04-05,6,Cantabria,39,Cantabria,1441,57,68,0
+2020-04-05,8,Castila-La Mancha,2,Albacete,2653,105,208,14
+2020-04-05,8,Castila-La Mancha,13,Ciudad Real,3854,358,346,34
+2020-04-05,8,Castila-La Mancha,16,Cuenca,497,48,93,4
+2020-04-05,8,Castila-La Mancha,19,Guadalajara,858,21,121,3
+2020-04-05,8,Castila-La Mancha,45,Toledo,2169,175,287,11
+2020-04-05,7,Castilla y León,9,Burgos,985,21,103,7
+2020-04-05,7,Castilla y León,24,León,1261,57,175,16
+2020-04-05,7,Castilla y León,34,Palencia,472,20,36,5
+2020-04-05,7,Castilla y León,37,Salamanca,1659,80,194,16
+2020-04-05,7,Castilla y León,40,Segovia,1148,97,107,5
+2020-04-05,7,Castilla y León,42,Soria,803,34,61,9
+2020-04-05,7,Castilla y León,47,Valladolid,1403,51,133,8
+2020-04-05,7,Castilla y León,49,Zamora,339,16,37,2
+2020-04-05,7,Castilla y León,5,Ávila,679,41,73,4
+2020-04-05,9,Cataluña,8,Barcelona,25302,559,0,0
+2020-04-05,18,Ceuta,51,Ceuta,83,10,2,1
+2020-04-05,10,Comunitat Valenciana,3,Alicante,2629,68,263,18
+2020-04-05,10,Comunitat Valenciana,12,Castellón,845,65,64,8
+2020-04-05,10,Comunitat Valenciana,46,Valencia,3689,146,286,16
+2020-04-05,5,Extremadura,6,Badajoz,672,10,32,2
+2020-04-05,5,Extremadura,10,Cáceres,1375,58,186,8
+2020-04-05,12,Galicia,15,"Coruña, A",2180,174,93,8
+2020-04-05,12,Galicia,27,Lugo,555,0,14,2
+2020-04-05,12,Galicia,32,Ourense,921,46,32,3
+2020-04-05,12,Galicia,36,Pontevedra,1499,12,47,3
+2020-04-05,17,"Rioja, La",26,"Rioja, La",2592,187,134,6
+2020-04-05,13,"Madrid, Comunidad de",28,Madrid,37584,1335,4941,218
+2020-04-05,19,Melilla,52,Melilla,83,4,2,0
+2020-04-05,14,"Murcia, Región de",30,Murcia,1235,47,59,8
+2020-04-05,15,"Navarra, Comunidad Foral de",31,Navarra,3073,101,178,7
+2020-04-05,16,País Vasco,1,Araba,2677,40,202,7
+2020-04-05,16,País Vasco,48,Bizkaia,4570,116,202,7
+2020-04-05,16,País Vasco,20,Gipuzkoa,1528,29,202,7
+2020-04-06,1,Andalucía,4,Almería,373,25,23,1
+2020-04-06,1,Andalucía,11,Cádiz,864,16,31,0
+2020-04-06,1,Andalucía,14,Córdoba,1046,72,37,5
+2020-04-06,1,Andalucía,18,Granada,1501,24,114,0
+2020-04-06,1,Andalucía,21,Huelva,289,9,16,5
+2020-04-06,1,Andalucía,23,Jaén,941,20,52,3
+2020-04-06,1,Andalucía,29,Málaga,1946,53,121,3
+2020-04-06,1,Andalucía,41,Sevilla,1668,61,97,4
+2020-04-06,2,Aragón,22,Huesca,417,21,37,4
+2020-04-06,2,Aragón,44,Teruel,380,9,29,0
+2020-04-06,2,Aragón,50,Zaragoza,2520,111,217,11
+2020-04-06,3,"Asturias, Principado de",33,Asturias,1646,41,86,6
+2020-04-06,4,"Balears, Illes",7,"Balears, Illes",1320,27,81,6
+2020-04-06,5,Canarias,35,"Palmas, Las",560,14,30,1
+2020-04-06,5,Canarias,38,Santa Cruz de Tenerife,1174,40,56,3
+2020-04-06,6,Cantabria,39,Cantabria,1483,42,77,9
+2020-04-06,8,Castila-La Mancha,2,Albacete,2751,98,225,17
+2020-04-06,8,Castila-La Mancha,13,Ciudad Real,4125,271,358,12
+2020-04-06,8,Castila-La Mancha,16,Cuenca,570,73,94,1
+2020-04-06,8,Castila-La Mancha,19,Guadalajara,873,15,125,4
+2020-04-06,8,Castila-La Mancha,45,Toledo,2283,114,300,13
+2020-04-06,7,Castilla y León,9,Burgos,1003,18,113,10
+2020-04-06,7,Castilla y León,24,León,1315,54,186,11
+2020-04-06,7,Castilla y León,34,Palencia,486,14,39,3
+2020-04-06,7,Castilla y León,37,Salamanca,1719,60,209,15
+2020-04-06,7,Castilla y León,40,Segovia,1252,104,109,2
+2020-04-06,7,Castilla y León,42,Soria,824,21,64,3
+2020-04-06,7,Castilla y León,47,Valladolid,1445,42,145,12
+2020-04-06,7,Castilla y León,49,Zamora,340,1,38,1
+2020-04-06,7,Castilla y León,5,Ávila,732,53,79,6
+2020-04-06,9,Cataluña,8,Barcelona,26266,964,0,0
+2020-04-06,18,Ceuta,51,Ceuta,83,0,3,1
+2020-04-06,10,Comunitat Valenciana,3,Alicante,2675,46,269,6
+2020-04-06,10,Comunitat Valenciana,12,Castellón,862,17,70,6
+2020-04-06,10,Comunitat Valenciana,46,Valencia,3776,87,298,12
+2020-04-06,5,Extremadura,6,Badajoz,689,17,33,1
+2020-04-06,5,Extremadura,10,Cáceres,1379,4,195,9
+2020-04-06,12,Galicia,15,"Coruña, A",2249,69,99,6
+2020-04-06,12,Galicia,27,Lugo,563,8,15,1
+2020-04-06,12,Galicia,32,Ourense,992,71,35,3
+2020-04-06,12,Galicia,36,Pontevedra,1512,13,51,4
+2020-04-06,17,"Rioja, La",26,"Rioja, La",2719,127,141,7
+2020-04-06,13,"Madrid, Comunidad de",28,Madrid,38723,1139,5136,195
+2020-04-06,19,Melilla,52,Melilla,86,3,2,0
+2020-04-06,14,"Murcia, Región de",30,Murcia,1259,24,68,9
+2020-04-06,15,"Navarra, Comunidad Foral de",31,Navarra,3231,158,187,9
+2020-04-06,16,País Vasco,1,Araba,2746,69,213,11
+2020-04-06,16,País Vasco,48,Bizkaia,4683,113,213,11
+2020-04-06,16,País Vasco,20,Gipuzkoa,1558,30,213,11
+2020-04-07,1,Andalucía,4,Almería,373,0,23,0
+2020-04-07,1,Andalucía,11,Cádiz,883,19,32,1
+2020-04-07,1,Andalucía,14,Córdoba,1055,9,39,2
+2020-04-07,1,Andalucía,18,Granada,1550,49,128,14
+2020-04-07,1,Andalucía,21,Huelva,293,4,16,0
+2020-04-07,1,Andalucía,23,Jaén,980,39,53,1
+2020-04-07,1,Andalucía,29,Málaga,1962,16,125,4
+2020-04-07,1,Andalucía,41,Sevilla,1718,50,112,15
+2020-04-07,2,Aragón,22,Huesca,419,2,42,5
+2020-04-07,2,Aragón,44,Teruel,396,16,32,3
+2020-04-07,2,Aragón,50,Zaragoza,2599,79,237,20
+2020-04-07,3,"Asturias, Principado de",33,Asturias,1679,33,96,10
+2020-04-07,4,"Balears, Illes",7,"Balears, Illes",1369,49,84,3
+2020-04-07,5,Canarias,35,"Palmas, Las",569,9,30,0
+2020-04-07,5,Canarias,38,Santa Cruz de Tenerife,1206,32,58,2
+2020-04-07,6,Cantabria,39,Cantabria,1501,18,85,8
+2020-04-07,8,Castila-La Mancha,2,Albacete,2832,81,252,27
+2020-04-07,8,Castila-La Mancha,13,Ciudad Real,4298,173,370,12
+2020-04-07,8,Castila-La Mancha,16,Cuenca,616,46,96,2
+2020-04-07,8,Castila-La Mancha,19,Guadalajara,897,24,128,3
+2020-04-07,8,Castila-La Mancha,45,Toledo,2434,151,331,31
+2020-04-07,7,Castilla y León,9,Burgos,1024,21,120,7
+2020-04-07,7,Castilla y León,24,León,1344,29,196,10
+2020-04-07,7,Castilla y León,34,Palencia,510,24,41,2
+2020-04-07,7,Castilla y León,37,Salamanca,1807,88,217,8
+2020-04-07,7,Castilla y León,40,Segovia,1349,97,115,6
+2020-04-07,7,Castilla y León,42,Soria,837,13,64,0
+2020-04-07,7,Castilla y León,47,Valladolid,1602,157,153,8
+2020-04-07,7,Castilla y León,49,Zamora,342,2,39,1
+2020-04-07,7,Castilla y León,5,Ávila,766,34,83,4
+2020-04-07,9,Cataluña,8,Barcelona,27228,962,0,0
+2020-04-07,18,Ceuta,51,Ceuta,83,0,4,1
+2020-04-07,10,Comunitat Valenciana,3,Alicante,2716,41,283,14
+2020-04-07,10,Comunitat Valenciana,12,Castellón,869,7,78,8
+2020-04-07,10,Comunitat Valenciana,46,Valencia,3837,61,311,13
+2020-04-07,5,Extremadura,6,Badajoz,714,25,39,6
+2020-04-07,5,Extremadura,10,Cáceres,1408,29,220,25
+2020-04-07,12,Galicia,15,"Coruña, A",2313,64,107,8
+2020-04-07,12,Galicia,27,Lugo,563,0,15,0
+2020-04-07,12,Galicia,32,Ourense,999,7,37,2
+2020-04-07,12,Galicia,36,Pontevedra,1521,9,54,3
+2020-04-07,17,"Rioja, La",26,"Rioja, La",2846,127,160,19
+2020-04-07,13,"Madrid, Comunidad de",28,Madrid,40469,1746,5371,235
+2020-04-07,19,Melilla,52,Melilla,92,6,2,0
+2020-04-07,14,"Murcia, Región de",30,Murcia,1283,24,78,10
+2020-04-07,15,"Navarra, Comunidad Foral de",31,Navarra,3355,124,202,15
+2020-04-07,16,País Vasco,1,Araba,2809,63,230,17
+2020-04-07,16,País Vasco,48,Bizkaia,4945,262,230,17
+2020-04-07,16,País Vasco,20,Gipuzkoa,1674,116,230,17
+2020-04-08,1,Andalucía,4,Almería,380,7,26,3
+2020-04-08,1,Andalucía,11,Cádiz,903,20,36,4
+2020-04-08,1,Andalucía,14,Córdoba,1069,14,42,3
+2020-04-08,1,Andalucía,18,Granada,1600,50,138,10
+2020-04-08,1,Andalucía,21,Huelva,297,4,20,4
+2020-04-08,1,Andalucía,23,Jaén,997,17,72,19
+2020-04-08,1,Andalucía,29,Málaga,2036,74,140,15
+2020-04-08,1,Andalucía,41,Sevilla,1762,44,131,19
+2020-04-08,2,Aragón,22,Huesca,428,9,51,9
+2020-04-08,2,Aragón,44,Teruel,406,10,34,2
+2020-04-08,2,Aragón,50,Zaragoza,2679,80,263,26
+2020-04-08,3,"Asturias, Principado de",33,Asturias,1705,26,102,6
+2020-04-08,4,"Balears, Illes",7,"Balears, Illes",1412,43,89,5
+2020-04-08,5,Canarias,35,"Palmas, Las",577,8,30,0
+2020-04-08,5,Canarias,38,Santa Cruz de Tenerife,1259,53,58,0
+2020-04-08,6,Cantabria,39,Cantabria,1572,71,92,7
+2020-04-08,8,Castila-La Mancha,2,Albacete,3087,255,263,11
+2020-04-08,8,Castila-La Mancha,13,Ciudad Real,4449,151,400,30
+2020-04-08,8,Castila-La Mancha,16,Cuenca,682,66,107,11
+2020-04-08,8,Castila-La Mancha,19,Guadalajara,973,76,133,5
+2020-04-08,8,Castila-La Mancha,45,Toledo,2597,163,352,21
+2020-04-08,7,Castilla y León,9,Burgos,1053,29,124,4
+2020-04-08,7,Castilla y León,24,León,1398,54,210,14
+2020-04-08,7,Castilla y León,34,Palencia,524,14,41,0
+2020-04-08,7,Castilla y León,37,Salamanca,1915,108,225,8
+2020-04-08,7,Castilla y León,40,Segovia,1480,131,122,7
+2020-04-08,7,Castilla y León,42,Soria,849,12,66,2
+2020-04-08,7,Castilla y León,47,Valladolid,1686,84,162,9
+2020-04-08,7,Castilla y León,49,Zamora,360,18,43,4
+2020-04-08,7,Castilla y León,5,Ávila,793,27,85,2
+2020-04-08,9,Cataluña,8,Barcelona,28161,933,0,0
+2020-04-08,18,Ceuta,51,Ceuta,84,1,4,0
+2020-04-08,10,Comunitat Valenciana,3,Alicante,2805,89,292,9
+2020-04-08,10,Comunitat Valenciana,12,Castellón,892,23,89,11
+2020-04-08,10,Comunitat Valenciana,46,Valencia,3936,99,343,32
+2020-04-08,5,Extremadura,6,Badajoz,721,7,46,7
+2020-04-08,5,Extremadura,10,Cáceres,1493,85,228,8
+2020-04-08,12,Galicia,15,"Coruña, A",2367,54,118,11
+2020-04-08,12,Galicia,27,Lugo,566,3,16,1
+2020-04-08,12,Galicia,32,Ourense,1001,2,43,6
+2020-04-08,12,Galicia,36,Pontevedra,1526,5,55,1
+2020-04-08,17,"Rioja, La",26,"Rioja, La",2951,105,177,17
+2020-04-08,13,"Madrid, Comunidad de",28,Madrid,42450,1981,5586,215
+2020-04-08,19,Melilla,52,Melilla,93,1,2,0
+2020-04-08,14,"Murcia, Región de",30,Murcia,1326,43,85,7
+2020-04-08,15,"Navarra, Comunidad Foral de",31,Navarra,3467,112,206,4
+2020-04-08,16,País Vasco,1,Araba,2886,77,238,8
+2020-04-08,16,País Vasco,48,Bizkaia,5178,233,238,8
+2020-04-08,16,País Vasco,20,Gipuzkoa,1760,86,238,8
+2020-04-09,1,Andalucía,4,Almería,397,17,27,1
+2020-04-09,1,Andalucía,11,Cádiz,917,14,45,9
+2020-04-09,1,Andalucía,14,Córdoba,1084,15,45,3
+2020-04-09,1,Andalucía,18,Granada,1639,39,142,4
+2020-04-09,1,Andalucía,21,Huelva,309,12,21,1
+2020-04-09,1,Andalucía,23,Jaén,1028,31,84,12
+2020-04-09,1,Andalucía,29,Málaga,2104,68,147,7
+2020-04-09,1,Andalucía,41,Sevilla,1830,68,141,10
+2020-04-09,2,Aragón,22,Huesca,444,16,58,7
+2020-04-09,2,Aragón,44,Teruel,416,10,39,5
+2020-04-09,2,Aragón,50,Zaragoza,2788,109,287,24
+2020-04-09,3,"Asturias, Principado de",33,Asturias,1737,32,110,8
+2020-04-09,4,"Balears, Illes",7,"Balears, Illes",1448,36,89,0
+2020-04-09,5,Canarias,35,"Palmas, Las",583,6,31,1
+2020-04-09,5,Canarias,38,Santa Cruz de Tenerife,1271,12,59,1
+2020-04-09,6,Cantabria,39,Cantabria,1619,47,98,6
+2020-04-09,8,Castila-La Mancha,2,Albacete,3212,125,280,17
+2020-04-09,8,Castila-La Mancha,13,Ciudad Real,4720,271,428,28
+2020-04-09,8,Castila-La Mancha,16,Cuenca,800,118,110,3
+2020-04-09,8,Castila-La Mancha,19,Guadalajara,994,21,134,1
+2020-04-09,8,Castila-La Mancha,45,Toledo,2763,166,370,18
+2020-04-09,7,Castilla y León,9,Burgos,1080,27,129,5
+2020-04-09,7,Castilla y León,24,León,1455,57,218,8
+2020-04-09,7,Castilla y León,34,Palencia,545,21,42,1
+2020-04-09,7,Castilla y León,37,Salamanca,1956,41,231,6
+2020-04-09,7,Castilla y León,40,Segovia,1571,91,125,3
+2020-04-09,7,Castilla y León,42,Soria,872,23,73,7
+2020-04-09,7,Castilla y León,47,Valladolid,1846,160,173,11
+2020-04-09,7,Castilla y León,49,Zamora,368,8,48,5
+2020-04-09,7,Castilla y León,5,Ávila,825,32,90,5
+2020-04-09,9,Cataluña,8,Barcelona,29126,965,0,0
+2020-04-09,18,Ceuta,51,Ceuta,84,0,4,0
+2020-04-09,10,Comunitat Valenciana,3,Alicante,2852,47,310,18
+2020-04-09,10,Comunitat Valenciana,12,Castellón,914,22,96,7
+2020-04-09,10,Comunitat Valenciana,46,Valencia,4174,238,361,18
+2020-04-09,5,Extremadura,6,Badajoz,760,39,48,2
+2020-04-09,5,Extremadura,10,Cáceres,1513,20,235,7
+2020-04-09,12,Galicia,15,"Coruña, A",2408,41,124,6
+2020-04-09,12,Galicia,27,Lugo,571,5,16,0
+2020-04-09,12,Galicia,32,Ourense,1041,40,48,5
+2020-04-09,12,Galicia,36,Pontevedra,1539,13,61,6
+2020-04-09,17,"Rioja, La",26,"Rioja, La",3026,75,182,5
+2020-04-09,13,"Madrid, Comunidad de",28,Madrid,43877,1427,5800,214
+2020-04-09,19,Melilla,52,Melilla,93,0,2,0
+2020-04-09,14,"Murcia, Región de",30,Murcia,1356,30,88,3
+2020-04-09,15,"Navarra, Comunidad Foral de",31,Navarra,3575,108,214,8
+2020-04-09,16,País Vasco,1,Araba,2932,46,246,8
+2020-04-09,16,País Vasco,48,Bizkaia,5395,217,246,8
+2020-04-09,16,País Vasco,20,Gipuzkoa,1818,58,246,8
+2020-04-10,1,Andalucía,4,Almería,402,5,29,2
+2020-04-10,1,Andalucía,11,Cádiz,931,14,49,4
+2020-04-10,1,Andalucía,14,Córdoba,1116,32,48,3
+2020-04-10,1,Andalucía,18,Granada,1686,47,148,6
+2020-04-10,1,Andalucía,21,Huelva,311,2,21,0
+2020-04-10,1,Andalucía,23,Jaén,1062,34,92,8
+2020-04-10,1,Andalucía,29,Málaga,2157,53,154,7
+2020-04-10,1,Andalucía,41,Sevilla,1892,62,150,9
+2020-04-10,2,Aragón,22,Huesca,478,34,64,6
+2020-04-10,2,Aragón,44,Teruel,423,7,41,2
+2020-04-10,2,Aragón,50,Zaragoza,2889,101,303,16
+2020-04-10,3,"Asturias, Principado de",33,Asturias,1799,62,121,11
+2020-04-10,4,"Balears, Illes",7,"Balears, Illes",1488,40,97,8
+2020-04-10,5,Canarias,35,"Palmas, Las",596,13,31,0
+2020-04-10,5,Canarias,38,Santa Cruz de Tenerife,1279,8,60,1
+2020-04-10,6,Cantabria,39,Cantabria,1659,40,102,4
+2020-04-10,8,Castila-La Mancha,2,Albacete,3343,131,299,19
+2020-04-10,8,Castila-La Mancha,13,Ciudad Real,4917,197,479,51
+2020-04-10,8,Castila-La Mancha,16,Cuenca,845,45,123,13
+2020-04-10,8,Castila-La Mancha,19,Guadalajara,1036,42,137,3
+2020-04-10,8,Castila-La Mancha,45,Toledo,2922,159,393,23
+2020-04-10,7,Castilla y León,9,Burgos,1126,46,132,3
+2020-04-10,7,Castilla y León,24,León,1513,58,230,12
+2020-04-10,7,Castilla y León,34,Palencia,592,47,44,2
+2020-04-10,7,Castilla y León,37,Salamanca,2051,95,236,5
+2020-04-10,7,Castilla y León,40,Segovia,1672,101,132,7
+2020-04-10,7,Castilla y León,42,Soria,898,26,80,7
+2020-04-10,7,Castilla y León,47,Valladolid,1985,139,184,11
+2020-04-10,7,Castilla y León,49,Zamora,406,38,49,1
+2020-04-10,7,Castilla y León,5,Ávila,859,34,93,3
+2020-04-10,9,Cataluña,8,Barcelona,29954,828,0,0
+2020-04-10,18,Ceuta,51,Ceuta,91,7,4,0
+2020-04-10,10,Comunitat Valenciana,3,Alicante,2964,112,318,8
+2020-04-10,10,Comunitat Valenciana,12,Castellón,990,76,99,3
+2020-04-10,10,Comunitat Valenciana,46,Valencia,4353,179,379,18
+2020-04-10,5,Extremadura,6,Badajoz,768,8,49,1
+2020-04-10,5,Extremadura,10,Cáceres,1564,51,239,4
+2020-04-10,12,Galicia,15,"Coruña, A",2435,27,134,10
+2020-04-10,12,Galicia,27,Lugo,590,19,17,1
+2020-04-10,12,Galicia,32,Ourense,1082,41,52,4
+2020-04-10,12,Galicia,36,Pontevedra,1544,5,65,4
+2020-04-10,17,"Rioja, La",26,"Rioja, La",3076,50,196,14
+2020-04-10,13,"Madrid, Comunidad de",28,Madrid,44783,906,5972,172
+2020-04-10,19,Melilla,52,Melilla,95,2,2,0
+2020-04-10,14,"Murcia, Región de",30,Murcia,1383,27,90,2
+2020-04-10,15,"Navarra, Comunidad Foral de",31,Navarra,3748,173,218,4
+2020-04-10,16,País Vasco,1,Araba,2990,58,255,9
+2020-04-10,16,País Vasco,48,Bizkaia,5640,245,255,9
+2020-04-10,16,País Vasco,20,Gipuzkoa,1881,63,255,9
+2020-04-11,1,Andalucía,4,Almería,405,3,32,3
+2020-04-11,1,Andalucía,11,Cádiz,945,14,52,3
+2020-04-11,1,Andalucía,14,Córdoba,1136,20,49,1
+2020-04-11,1,Andalucía,18,Granada,1725,39,157,9
+2020-04-11,1,Andalucía,21,Huelva,319,8,22,1
+2020-04-11,1,Andalucía,23,Jaén,1104,42,96,4
+2020-04-11,1,Andalucía,29,Málaga,2173,16,170,16
+2020-04-11,1,Andalucía,41,Sevilla,1952,60,159,9
+2020-04-11,2,Aragón,22,Huesca,491,13,66,2
+2020-04-11,2,Aragón,44,Teruel,459,36,43,2
+2020-04-11,2,Aragón,50,Zaragoza,2976,87,315,12
+2020-04-11,3,"Asturias, Principado de",33,Asturias,1827,28,128,7
+2020-04-11,4,"Balears, Illes",7,"Balears, Illes",1507,19,102,5
+2020-04-11,5,Canarias,35,"Palmas, Las",598,2,31,0
+2020-04-11,5,Canarias,38,Santa Cruz de Tenerife,1306,27,60,0
+2020-04-11,6,Cantabria,39,Cantabria,1719,60,107,5
+2020-04-11,8,Castila-La Mancha,2,Albacete,3404,61,309,10
+2020-04-11,8,Castila-La Mancha,13,Ciudad Real,5138,221,503,24
+2020-04-11,8,Castila-La Mancha,16,Cuenca,874,29,129,6
+2020-04-11,8,Castila-La Mancha,19,Guadalajara,1056,20,139,2
+2020-04-11,8,Castila-La Mancha,45,Toledo,2984,62,403,10
+2020-04-11,7,Castilla y León,9,Burgos,1170,44,136,4
+2020-04-11,7,Castilla y León,24,León,1538,25,236,6
+2020-04-11,7,Castilla y León,34,Palencia,605,13,46,2
+2020-04-11,7,Castilla y León,37,Salamanca,2115,64,244,8
+2020-04-11,7,Castilla y León,40,Segovia,1760,88,139,7
+2020-04-11,7,Castilla y León,42,Soria,927,29,80,0
+2020-04-11,7,Castilla y León,47,Valladolid,2123,138,195,11
+2020-04-11,7,Castilla y León,49,Zamora,408,2,51,2
+2020-04-11,7,Castilla y León,5,Ávila,897,38,94,1
+2020-04-11,9,Cataluña,8,Barcelona,30590,636,0,0
+2020-04-11,18,Ceuta,51,Ceuta,93,2,4,0
+2020-04-11,10,Comunitat Valenciana,3,Alicante,2995,31,327,9
+2020-04-11,10,Comunitat Valenciana,12,Castellón,1047,57,99,0
+2020-04-11,10,Comunitat Valenciana,46,Valencia,4512,159,392,13
+2020-04-11,5,Extremadura,6,Badajoz,821,53,54,5
+2020-04-11,5,Extremadura,10,Cáceres,1665,101,249,10
+2020-04-11,12,Galicia,15,"Coruña, A",2458,23,144,10
+2020-04-11,12,Galicia,27,Lugo,590,0,17,0
+2020-04-11,12,Galicia,32,Ourense,1129,47,57,5
+2020-04-11,12,Galicia,36,Pontevedra,1561,17,73,8
+2020-04-11,17,"Rioja, La",26,"Rioja, La",3223,147,207,11
+2020-04-11,13,"Madrid, Comunidad de",28,Madrid,45849,1066,6084,112
+2020-04-11,19,Melilla,52,Melilla,98,3,2,0
+2020-04-11,14,"Murcia, Región de",30,Murcia,1413,30,94,4
+2020-04-11,15,"Navarra, Comunidad Foral de",31,Navarra,3817,69,227,9
+2020-04-11,16,País Vasco,1,Araba,3017,27,261,6
+2020-04-11,16,País Vasco,48,Bizkaia,5790,150,261,6
+2020-04-11,16,País Vasco,20,Gipuzkoa,1949,68,261,6
+2020-04-12,1,Andalucía,4,Almería,411,6,36,4
+2020-04-12,1,Andalucía,11,Cádiz,973,28,59,7
+2020-04-12,1,Andalucía,14,Córdoba,1153,17,56,7
+2020-04-12,1,Andalucía,18,Granada,1772,47,165,8
+2020-04-12,1,Andalucía,21,Huelva,329,10,26,4
+2020-04-12,1,Andalucía,23,Jaén,1143,39,105,9
+2020-04-12,1,Andalucía,29,Málaga,2233,60,183,13
+2020-04-12,1,Andalucía,41,Sevilla,2039,87,169,10
+2020-04-12,2,Aragón,22,Huesca,502,11,67,1
+2020-04-12,2,Aragón,44,Teruel,464,5,48,5
+2020-04-12,2,Aragón,50,Zaragoza,3057,81,334,19
+2020-04-12,3,"Asturias, Principado de",33,Asturias,1892,65,140,12
+2020-04-12,4,"Balears, Illes",7,"Balears, Illes",1534,27,112,10
+2020-04-12,5,Canarias,35,"Palmas, Las",601,3,31,0
+2020-04-12,5,Canarias,38,Santa Cruz de Tenerife,1320,14,61,1
+2020-04-12,6,Cantabria,39,Cantabria,1752,33,110,3
+2020-04-12,8,Castila-La Mancha,2,Albacete,3450,46,315,6
+2020-04-12,8,Castila-La Mancha,13,Ciudad Real,5267,129,533,30
+2020-04-12,8,Castila-La Mancha,16,Cuenca,884,10,133,4
+2020-04-12,8,Castila-La Mancha,19,Guadalajara,1077,21,148,9
+2020-04-12,8,Castila-La Mancha,45,Toledo,3020,36,414,11
+2020-04-12,7,Castilla y León,9,Burgos,1207,37,140,4
+2020-04-12,7,Castilla y León,24,León,1575,37,245,9
+2020-04-12,7,Castilla y León,34,Palencia,620,15,48,2
+2020-04-12,7,Castilla y León,37,Salamanca,2193,78,252,8
+2020-04-12,7,Castilla y León,40,Segovia,1845,85,146,7
+2020-04-12,7,Castilla y León,42,Soria,990,63,83,3
+2020-04-12,7,Castilla y León,47,Valladolid,2357,234,204,9
+2020-04-12,7,Castilla y León,49,Zamora,414,6,51,0
+2020-04-12,7,Castilla y León,5,Ávila,917,20,94,0
+2020-04-12,9,Cataluña,8,Barcelona,31163,573,0,0
+2020-04-12,18,Ceuta,51,Ceuta,93,0,4,0
+2020-04-12,10,Comunitat Valenciana,3,Alicante,3135,140,331,4
+2020-04-12,10,Comunitat Valenciana,12,Castellón,1082,35,103,4
+2020-04-12,10,Comunitat Valenciana,46,Valencia,4600,88,404,12
+2020-04-12,5,Extremadura,6,Badajoz,859,38,54,0
+2020-04-12,5,Extremadura,10,Cáceres,1721,56,257,8
+2020-04-12,12,Galicia,15,"Coruña, A",2528,70,152,8
+2020-04-12,12,Galicia,27,Lugo,590,0,19,2
+2020-04-12,12,Galicia,32,Ourense,1154,25,61,4
+2020-04-12,12,Galicia,36,Pontevedra,1561,0,75,2
+2020-04-12,17,"Rioja, La",26,"Rioja, La",3279,56,219,12
+2020-04-12,13,"Madrid, Comunidad de",28,Madrid,46587,738,6278,194
+2020-04-12,19,Melilla,52,Melilla,98,0,2,0
+2020-04-12,14,"Murcia, Región de",30,Murcia,1449,36,97,3
+2020-04-12,15,"Navarra, Comunidad Foral de",31,Navarra,3969,152,232,5
+2020-04-12,16,País Vasco,1,Araba,3033,16,267,6
+2020-04-12,16,País Vasco,48,Bizkaia,5957,167,267,6
+2020-04-12,16,País Vasco,20,Gipuzkoa,2016,67,267,6
+2020-04-13,1,Andalucía,4,Almería,415,4,36,0
+2020-04-13,1,Andalucía,11,Cádiz,992,19,60,1
+2020-04-13,1,Andalucía,14,Córdoba,1169,16,56,0
+2020-04-13,1,Andalucía,18,Granada,1832,60,170,5
+2020-04-13,1,Andalucía,21,Huelva,332,3,27,1
+2020-04-13,1,Andalucía,23,Jaén,1176,33,107,2
+2020-04-13,1,Andalucía,29,Málaga,2247,14,183,0
+2020-04-13,1,Andalucía,41,Sevilla,2071,32,177,8
+2020-04-13,2,Aragón,22,Huesca,505,3,68,1
+2020-04-13,2,Aragón,44,Teruel,496,32,50,2
+2020-04-13,2,Aragón,50,Zaragoza,3137,80,345,11
+2020-04-13,3,"Asturias, Principado de",33,Asturias,1958,66,149,9
+2020-04-13,4,"Balears, Illes",7,"Balears, Illes",1550,16,117,5
+2020-04-13,5,Canarias,35,"Palmas, Las",605,4,32,1
+2020-04-13,5,Canarias,38,Santa Cruz de Tenerife,1331,11,65,4
+2020-04-13,6,Cantabria,39,Cantabria,1777,25,117,7
+2020-04-13,8,Castila-La Mancha,2,Albacete,3506,56,322,7
+2020-04-13,8,Castila-La Mancha,13,Ciudad Real,5442,175,558,25
+2020-04-13,8,Castila-La Mancha,16,Cuenca,920,36,135,2
+2020-04-13,8,Castila-La Mancha,19,Guadalajara,1134,57,153,5
+2020-04-13,8,Castila-La Mancha,45,Toledo,3052,32,431,17
+2020-04-13,7,Castilla y León,9,Burgos,1232,25,141,1
+2020-04-13,7,Castilla y León,24,León,1679,104,255,10
+2020-04-13,7,Castilla y León,34,Palencia,636,16,50,2
+2020-04-13,7,Castilla y León,37,Salamanca,2257,64,258,6
+2020-04-13,7,Castilla y León,40,Segovia,1913,68,151,5
+2020-04-13,7,Castilla y León,42,Soria,1013,23,85,2
+2020-04-13,7,Castilla y León,47,Valladolid,2492,135,210,6
+2020-04-13,7,Castilla y León,49,Zamora,454,40,53,2
+2020-04-13,7,Castilla y León,5,Ávila,952,35,96,2
+2020-04-13,9,Cataluña,8,Barcelona,31742,579,0,0
+2020-04-13,18,Ceuta,51,Ceuta,95,2,4,0
+2020-04-13,10,Comunitat Valenciana,3,Alicante,3214,79,342,11
+2020-04-13,10,Comunitat Valenciana,12,Castellón,1109,27,109,6
+2020-04-13,10,Comunitat Valenciana,46,Valencia,4713,113,447,43
+2020-04-13,5,Extremadura,6,Badajoz,882,23,58,4
+2020-04-13,5,Extremadura,10,Cáceres,1776,55,263,6
+2020-04-13,12,Galicia,15,"Coruña, A",2591,63,157,5
+2020-04-13,12,Galicia,27,Lugo,590,0,19,0
+2020-04-13,12,Galicia,32,Ourense,1166,12,63,2
+2020-04-13,12,Galicia,36,Pontevedra,1579,18,77,2
+2020-04-13,17,"Rioja, La",26,"Rioja, La",3358,79,223,4
+2020-04-13,13,"Madrid, Comunidad de",28,Madrid,47146,559,6423,145
+2020-04-13,19,Melilla,52,Melilla,101,3,2,0
+2020-04-13,14,"Murcia, Región de",30,Murcia,1463,14,101,4
+2020-04-13,15,"Navarra, Comunidad Foral de",31,Navarra,4092,123,239,7
+2020-04-13,16,País Vasco,1,Araba,3055,22,274,7
+2020-04-13,16,País Vasco,48,Bizkaia,6073,116,274,7
+2020-04-13,16,País Vasco,20,Gipuzkoa,2086,70,274,7
+2020-04-14,1,Andalucía,4,Almería,416,1,39,3
+2020-04-14,1,Andalucía,11,Cádiz,1003,11,60,0
+2020-04-14,1,Andalucía,14,Córdoba,1190,21,58,2
+2020-04-14,1,Andalucía,18,Granada,1864,32,180,10
+2020-04-14,1,Andalucía,21,Huelva,338,6,27,0
+2020-04-14,1,Andalucía,23,Jaén,1184,8,111,4
+2020-04-14,1,Andalucía,29,Málaga,2270,23,184,1
+2020-04-14,1,Andalucía,41,Sevilla,2088,17,178,1
+2020-04-14,2,Aragón,22,Huesca,508,3,69,1
+2020-04-14,2,Aragón,44,Teruel,502,6,52,2
+2020-04-14,2,Aragón,50,Zaragoza,3186,49,370,25
+2020-04-14,3,"Asturias, Principado de",33,Asturias,2051,93,156,7
+2020-04-14,4,"Balears, Illes",7,"Balears, Illes",1571,21,118,1
+2020-04-14,5,Canarias,35,"Palmas, Las",607,2,32,0
+2020-04-14,5,Canarias,38,Santa Cruz de Tenerife,1348,17,69,4
+2020-04-14,6,Cantabria,39,Cantabria,1796,19,120,3
+2020-04-14,8,Castila-La Mancha,2,Albacete,3543,37,331,9
+2020-04-14,8,Castila-La Mancha,13,Ciudad Real,5563,121,647,89
+2020-04-14,8,Castila-La Mancha,16,Cuenca,930,10,140,5
+2020-04-14,8,Castila-La Mancha,19,Guadalajara,1195,61,140,0
+2020-04-14,8,Castila-La Mancha,45,Toledo,3098,46,442,11
+2020-04-14,7,Castilla y León,9,Burgos,1257,25,148,7
+2020-04-14,7,Castilla y León,24,León,1865,186,264,9
+2020-04-14,7,Castilla y León,34,Palencia,645,9,52,2
+2020-04-14,7,Castilla y León,37,Salamanca,2269,12,261,3
+2020-04-14,7,Castilla y León,40,Segovia,1994,81,155,4
+2020-04-14,7,Castilla y León,42,Soria,1053,40,87,2
+2020-04-14,7,Castilla y León,47,Valladolid,2672,180,216,6
+2020-04-14,7,Castilla y León,49,Zamora,459,5,54,1
+2020-04-14,7,Castilla y León,5,Ávila,966,14,100,4
+2020-04-14,9,Cataluña,8,Barcelona,32675,933,0,0
+2020-04-14,18,Ceuta,51,Ceuta,96,1,4,0
+2020-04-14,10,Comunitat Valenciana,3,Alicante,3325,111,347,5
+2020-04-14,10,Comunitat Valenciana,12,Castellón,1126,17,113,4
+2020-04-14,10,Comunitat Valenciana,46,Valencia,4738,25,447,0
+2020-04-14,5,Extremadura,6,Badajoz,887,5,60,2
+2020-04-14,5,Extremadura,10,Cáceres,1797,21,274,11
+2020-04-14,12,Galicia,15,"Coruña, A",2616,25,164,7
+2020-04-14,12,Galicia,27,Lugo,590,0,19,0
+2020-04-14,12,Galicia,32,Ourense,1187,21,66,3
+2020-04-14,12,Galicia,36,Pontevedra,1582,3,81,4
+2020-04-14,17,"Rioja, La",26,"Rioja, La",3420,62,234,11
+2020-04-14,13,"Madrid, Comunidad de",28,Madrid,48048,902,6568,145
+2020-04-14,19,Melilla,52,Melilla,101,0,2,0
+2020-04-14,14,"Murcia, Región de",30,Murcia,1487,24,106,5
+2020-04-14,15,"Navarra, Comunidad Foral de",31,Navarra,4150,58,249,10
+2020-04-14,16,País Vasco,1,Araba,3075,20,275,1
+2020-04-14,16,País Vasco,48,Bizkaia,6236,163,275,1
+2020-04-14,16,País Vasco,20,Gipuzkoa,2156,70,275,1
+2020-04-15,1,Andalucía,4,Almería,418,2,39,0
+2020-04-15,1,Andalucía,11,Cádiz,1046,43,62,2
+2020-04-15,1,Andalucía,14,Córdoba,1211,21,59,1
+2020-04-15,1,Andalucía,18,Granada,1911,47,181,1
+2020-04-15,1,Andalucía,21,Huelva,345,7,27,0
+2020-04-15,1,Andalucía,23,Jaén,1196,12,115,4
+2020-04-15,1,Andalucía,29,Málaga,2351,81,201,17
+2020-04-15,1,Andalucía,41,Sevilla,2164,76,182,4
+2020-04-15,2,Aragón,22,Huesca,529,21,76,7
+2020-04-15,2,Aragón,44,Teruel,508,6,54,2
+2020-04-15,2,Aragón,50,Zaragoza,3249,63,383,13
+2020-04-15,3,"Asturias, Principado de",33,Asturias,2096,45,166,10
+2020-04-15,4,"Balears, Illes",7,"Balears, Illes",1606,35,125,7
+2020-04-15,5,Canarias,35,"Palmas, Las",611,4,33,1
+2020-04-15,5,Canarias,38,Santa Cruz de Tenerife,1362,14,71,2
+2020-04-15,6,Cantabria,39,Cantabria,1823,27,132,12
+2020-04-15,8,Castila-La Mancha,2,Albacete,3575,32,337,6
+2020-04-15,8,Castila-La Mancha,13,Ciudad Real,5700,137,659,12
+2020-04-15,8,Castila-La Mancha,16,Cuenca,965,35,143,3
+2020-04-15,8,Castila-La Mancha,19,Guadalajara,1220,25,150,10
+2020-04-15,8,Castila-La Mancha,45,Toledo,3150,52,450,8
+2020-04-15,7,Castilla y León,9,Burgos,1320,63,149,1
+2020-04-15,7,Castilla y León,24,León,1935,70,273,9
+2020-04-15,7,Castilla y León,34,Palencia,648,3,53,1
+2020-04-15,7,Castilla y León,37,Salamanca,2291,22,267,6
+2020-04-15,7,Castilla y León,40,Segovia,2103,109,158,3
+2020-04-15,7,Castilla y León,42,Soria,1095,42,90,3
+2020-04-15,7,Castilla y León,47,Valladolid,2836,164,223,7
+2020-04-15,7,Castilla y León,49,Zamora,482,23,55,1
+2020-04-15,7,Castilla y León,5,Ávila,987,21,104,4
+2020-04-15,9,Cataluña,8,Barcelona,33585,910,0,0
+2020-04-15,18,Ceuta,51,Ceuta,98,2,4,0
+2020-04-15,10,Comunitat Valenciana,3,Alicante,3380,55,357,10
+2020-04-15,10,Comunitat Valenciana,12,Castellón,1185,59,124,11
+2020-04-15,10,Comunitat Valenciana,46,Valencia,4835,97,464,17
+2020-04-15,5,Extremadura,6,Badajoz,902,15,62,2
+2020-04-15,5,Extremadura,10,Cáceres,1860,63,280,6
+2020-04-15,12,Galicia,15,"Coruña, A",2643,27,167,3
+2020-04-15,12,Galicia,27,Lugo,590,0,20,1
+2020-04-15,12,Galicia,32,Ourense,1193,6,67,1
+2020-04-15,12,Galicia,36,Pontevedra,1590,8,83,2
+2020-04-15,17,"Rioja, La",26,"Rioja, La",3457,37,246,12
+2020-04-15,13,"Madrid, Comunidad de",28,Madrid,49526,1478,6724,156
+2020-04-15,19,Melilla,52,Melilla,102,1,2,0
+2020-04-15,14,"Murcia, Región de",30,Murcia,1520,33,109,3
+2020-04-15,15,"Navarra, Comunidad Foral de",31,Navarra,4246,96,252,3
+2020-04-15,16,País Vasco,1,Araba,3118,43,291,16
+2020-04-15,16,País Vasco,48,Bizkaia,6446,210,291,16
+2020-04-15,16,País Vasco,20,Gipuzkoa,2218,62,291,16
+2020-04-16,1,Andalucía,4,Almería,430,12,39,0
+2020-04-16,1,Andalucía,11,Cádiz,1074,28,68,6
+2020-04-16,1,Andalucía,14,Córdoba,1247,36,63,4
+2020-04-16,1,Andalucía,18,Granada,1926,15,187,6
+2020-04-16,1,Andalucía,21,Huelva,348,3,28,1
+2020-04-16,1,Andalucía,23,Jaén,1208,12,128,13
+2020-04-16,1,Andalucía,29,Málaga,2393,42,211,10
+2020-04-16,1,Andalucía,41,Sevilla,2228,64,189,7
+2020-04-16,2,Aragón,22,Huesca,538,9,76,0
+2020-04-16,2,Aragón,44,Teruel,518,10,56,2
+2020-04-16,2,Aragón,50,Zaragoza,3301,52,410,27
+2020-04-16,3,"Asturias, Principado de",33,Asturias,2170,74,168,2
+2020-04-16,4,"Balears, Illes",7,"Balears, Illes",1637,31,131,6
+2020-04-16,5,Canarias,35,"Palmas, Las",617,6,33,0
+2020-04-16,5,Canarias,38,Santa Cruz de Tenerife,1371,9,76,5
+2020-04-16,6,Cantabria,39,Cantabria,1845,22,137,5
+2020-04-16,8,Castila-La Mancha,2,Albacete,3600,25,344,7
+2020-04-16,8,Castila-La Mancha,13,Ciudad Real,5962,262,674,15
+2020-04-16,8,Castila-La Mancha,16,Cuenca,1009,44,147,4
+2020-04-16,8,Castila-La Mancha,19,Guadalajara,1245,25,168,18
+2020-04-16,8,Castila-La Mancha,45,Toledo,3335,185,463,13
+2020-04-16,7,Castilla y León,9,Burgos,1406,86,152,3
+2020-04-16,7,Castilla y León,24,León,2119,184,283,10
+2020-04-16,7,Castilla y León,34,Palencia,654,6,54,1
+2020-04-16,7,Castilla y León,37,Salamanca,2379,88,269,2
+2020-04-16,7,Castilla y León,40,Segovia,2191,88,159,1
+2020-04-16,7,Castilla y León,42,Soria,1132,37,91,1
+2020-04-16,7,Castilla y León,47,Valladolid,2946,110,229,6
+2020-04-16,7,Castilla y León,49,Zamora,530,48,57,2
+2020-04-16,7,Castilla y León,5,Ávila,1023,36,107,3
+2020-04-16,9,Cataluña,8,Barcelona,34554,969,0,0
+2020-04-16,18,Ceuta,51,Ceuta,100,2,4,0
+2020-04-16,10,Comunitat Valenciana,3,Alicante,3403,23,369,12
+2020-04-16,10,Comunitat Valenciana,12,Castellón,1211,26,128,4
+2020-04-16,10,Comunitat Valenciana,46,Valencia,4977,142,475,11
+2020-04-16,5,Extremadura,6,Badajoz,931,29,64,2
+2020-04-16,5,Extremadura,10,Cáceres,1950,90,295,15
+2020-04-16,12,Galicia,15,"Coruña, A",2704,61,173,6
+2020-04-16,12,Galicia,27,Lugo,590,0,21,1
+2020-04-16,12,Galicia,32,Ourense,1200,7,68,1
+2020-04-16,12,Galicia,36,Pontevedra,1594,4,83,0
+2020-04-16,17,"Rioja, La",26,"Rioja, La",3916,459,257,11
+2020-04-16,13,"Madrid, Comunidad de",28,Madrid,50694,1168,6877,153
+2020-04-16,19,Melilla,52,Melilla,103,1,2,0
+2020-04-16,14,"Murcia, Región de",30,Murcia,1598,78,111,2
+2020-04-16,15,"Navarra, Comunidad Foral de",31,Navarra,4348,102,261,9
+2020-04-16,16,País Vasco,1,Araba,3157,39,305,14
+2020-04-16,16,País Vasco,48,Bizkaia,6670,224,305,14
+2020-04-16,16,País Vasco,20,Gipuzkoa,2263,45,305,14
+2020-04-17,1,Andalucía,4,Almería,438,8,40,1
+2020-04-17,1,Andalucía,11,Cádiz,1112,38,71,3
+2020-04-17,1,Andalucía,14,Córdoba,1259,12,70,7
+2020-04-17,1,Andalucía,18,Granada,1956,30,191,4
+2020-04-17,1,Andalucía,21,Huelva,353,5,29,1
+2020-04-17,1,Andalucía,23,Jaén,1240,32,129,1
+2020-04-17,1,Andalucía,29,Málaga,2459,66,214,3
+2020-04-17,1,Andalucía,41,Sevilla,2283,55,197,8
+2020-04-17,2,Aragón,22,Huesca,544,6,76,0
+2020-04-17,2,Aragón,44,Teruel,527,9,59,3
+2020-04-17,2,Aragón,50,Zaragoza,3360,59,426,16
+2020-04-17,3,"Asturias, Principado de",33,Asturias,2230,60,174,6
+2020-04-17,4,"Balears, Illes",7,"Balears, Illes",1668,31,134,3
+2020-04-17,5,Canarias,35,"Palmas, Las",624,7,37,4
+2020-04-17,5,Canarias,38,Santa Cruz de Tenerife,1383,12,78,2
+2020-04-17,6,Cantabria,39,Cantabria,1884,39,144,7
+2020-04-17,8,Castila-La Mancha,2,Albacete,3673,73,347,3
+2020-04-17,8,Castila-La Mancha,13,Ciudad Real,6116,154,708,34
+2020-04-17,8,Castila-La Mancha,16,Cuenca,1145,136,149,2
+2020-04-17,8,Castila-La Mancha,19,Guadalajara,1312,67,176,8
+2020-04-17,8,Castila-La Mancha,45,Toledo,3751,416,472,9
+2020-04-17,7,Castilla y León,9,Burgos,1450,44,159,7
+2020-04-17,7,Castilla y León,24,León,2212,93,287,4
+2020-04-17,7,Castilla y León,34,Palencia,659,5,54,0
+2020-04-17,7,Castilla y León,37,Salamanca,2437,58,273,4
+2020-04-17,7,Castilla y León,40,Segovia,2252,61,161,2
+2020-04-17,7,Castilla y León,42,Soria,1179,47,92,1
+2020-04-17,7,Castilla y León,47,Valladolid,3067,121,235,6
+2020-04-17,7,Castilla y León,49,Zamora,572,42,61,4
+2020-04-17,7,Castilla y León,5,Ávila,1075,52,107,0
+2020-04-17,9,Cataluña,8,Barcelona,35879,1325,0,0
+2020-04-17,18,Ceuta,51,Ceuta,101,1,4,0
+2020-04-17,10,Comunitat Valenciana,3,Alicante,3478,75,380,11
+2020-04-17,10,Comunitat Valenciana,12,Castellón,1250,39,129,1
+2020-04-17,10,Comunitat Valenciana,46,Valencia,5117,140,490,15
+2020-04-17,5,Extremadura,6,Badajoz,952,21,68,4
+2020-04-17,5,Extremadura,10,Cáceres,2067,117,303,8
+2020-04-17,12,Galicia,15,"Coruña, A",2744,40,181,8
+2020-04-17,12,Galicia,27,Lugo,591,1,21,0
+2020-04-17,12,Galicia,32,Ourense,1200,0,69,1
+2020-04-17,12,Galicia,36,Pontevedra,1594,0,84,1
+2020-04-17,17,"Rioja, La",26,"Rioja, La",4098,182,262,5
+2020-04-17,13,"Madrid, Comunidad de",28,Madrid,51993,1299,7007,130
+2020-04-17,19,Melilla,52,Melilla,104,1,2,0
+2020-04-17,14,"Murcia, Región de",30,Murcia,1625,27,112,1
+2020-04-17,15,"Navarra, Comunidad Foral de",31,Navarra,4433,85,338,77
+2020-04-17,16,País Vasco,1,Araba,3194,37,309,4
+2020-04-17,16,País Vasco,48,Bizkaia,6868,198,309,4
+2020-04-17,16,País Vasco,20,Gipuzkoa,2293,30,309,4
+2020-04-18,1,Andalucía,4,Almería,446,8,42,2
+2020-04-18,1,Andalucía,11,Cádiz,1124,12,74,3
+2020-04-18,1,Andalucía,14,Córdoba,1266,7,72,2
+2020-04-18,1,Andalucía,18,Granada,1969,13,193,2
+2020-04-18,1,Andalucía,21,Huelva,359,6,32,3
+2020-04-18,1,Andalucía,23,Jaén,1281,41,131,2
+2020-04-18,1,Andalucía,29,Málaga,2502,43,217,3
+2020-04-18,1,Andalucía,41,Sevilla,2304,21,207,10
+2020-04-18,2,Aragón,22,Huesca,577,33,78,2
+2020-04-18,2,Aragón,44,Teruel,537,10,64,5
+2020-04-18,2,Aragón,50,Zaragoza,3585,225,458,32
+2020-04-18,3,"Asturias, Principado de",33,Asturias,2272,42,187,13
+2020-04-18,4,"Balears, Illes",7,"Balears, Illes",1748,80,148,14
+2020-04-18,5,Canarias,35,"Palmas, Las",624,0,37,0
+2020-04-18,5,Canarias,38,Santa Cruz de Tenerife,1389,6,79,1
+2020-04-18,6,Cantabria,39,Cantabria,1990,106,149,5
+2020-04-18,8,Castila-La Mancha,2,Albacete,3709,36,354,7
+2020-04-18,8,Castila-La Mancha,13,Ciudad Real,6112,0,743,35
+2020-04-18,8,Castila-La Mancha,16,Cuenca,1252,107,152,3
+2020-04-18,8,Castila-La Mancha,19,Guadalajara,1345,33,180,4
+2020-04-18,8,Castila-La Mancha,45,Toledo,3831,80,484,12
+2020-04-18,7,Castilla y León,9,Burgos,1522,72,160,1
+2020-04-18,7,Castilla y León,24,León,2285,73,290,3
+2020-04-18,7,Castilla y León,34,Palencia,673,14,58,4
+2020-04-18,7,Castilla y León,37,Salamanca,2514,77,276,3
+2020-04-18,7,Castilla y León,40,Segovia,2285,33,167,6
+2020-04-18,7,Castilla y León,42,Soria,1231,52,94,2
+2020-04-18,7,Castilla y León,47,Valladolid,3098,31,243,8
+2020-04-18,7,Castilla y León,49,Zamora,595,23,63,2
+2020-04-18,7,Castilla y León,5,Ávila,1090,15,107,0
+2020-04-18,9,Cataluña,8,Barcelona,36534,655,0,0
+2020-04-18,18,Ceuta,51,Ceuta,108,7,4,0
+2020-04-18,10,Comunitat Valenciana,3,Alicante,3510,32,388,8
+2020-04-18,10,Comunitat Valenciana,12,Castellón,1306,56,139,10
+2020-04-18,10,Comunitat Valenciana,46,Valencia,5277,160,515,25
+2020-04-18,5,Extremadura,6,Badajoz,972,20,70,2
+2020-04-18,5,Extremadura,10,Cáceres,2159,92,310,7
+2020-04-18,12,Galicia,15,"Coruña, A",2757,13,189,8
+2020-04-18,12,Galicia,27,Lugo,594,3,22,1
+2020-04-18,12,Galicia,32,Ourense,1200,0,71,2
+2020-04-18,12,Galicia,36,Pontevedra,1596,2,88,4
+2020-04-18,17,"Rioja, La",26,"Rioja, La",3648,0,272,10
+2020-04-18,13,"Madrid, Comunidad de",28,Madrid,52946,953,7132,125
+2020-04-18,19,Melilla,52,Melilla,104,0,2,0
+2020-04-18,14,"Murcia, Región de",30,Murcia,1638,13,115,3
+2020-04-18,15,"Navarra, Comunidad Foral de",31,Navarra,4556,123,354,16
+2020-04-18,16,País Vasco,1,Araba,0,0,316,7
+2020-04-18,16,País Vasco,48,Bizkaia,0,0,316,7
+2020-04-18,16,País Vasco,20,Gipuzkoa,0,0,316,7
