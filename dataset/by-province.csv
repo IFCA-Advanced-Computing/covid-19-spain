@@ -24,9 +24,6 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-02-27,19,Melilla,52,Melilla,0,0,0.0,0.0
 2020-02-27,14,"Murcia, Región de",30,Murcia,0,0,0.0,0.0
 2020-02-27,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0.0,0.0
-2020-02-27,16,País Vasco,1,Araba,0,0,0.0,0.0
-2020-02-27,16,País Vasco,48,Bizkaia,0,0,0.0,0.0
-2020-02-27,16,País Vasco,20,Gipuzkoa,0,0,0.0,0.0
 2020-02-28,1,Andalucía,4,Almería,0,0,0.0,0.0
 2020-02-28,1,Andalucía,11,Cádiz,0,0,0.0,0.0
 2020-02-28,1,Andalucía,14,Córdoba,0,0,0.0,0.0
@@ -53,9 +50,6 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-02-28,19,Melilla,52,Melilla,0,0,0.0,0.0
 2020-02-28,14,"Murcia, Región de",30,Murcia,0,0,0.0,0.0
 2020-02-28,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0.0,0.0
-2020-02-28,16,País Vasco,1,Araba,0,0,0.0,0.0
-2020-02-28,16,País Vasco,48,Bizkaia,0,0,0.0,0.0
-2020-02-28,16,País Vasco,20,Gipuzkoa,0,0,0.0,0.0
 2020-02-29,1,Andalucía,4,Almería,0,0,0.0,0.0
 2020-02-29,1,Andalucía,11,Cádiz,0,0,0.0,0.0
 2020-02-29,1,Andalucía,14,Córdoba,0,0,0.0,0.0
@@ -81,9 +75,6 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-02-29,19,Melilla,52,Melilla,0,0,0.0,0.0
 2020-02-29,14,"Murcia, Región de",30,Murcia,0,0,0.0,0.0
 2020-02-29,15,"Navarra, Comunidad Foral de",31,Navarra,0,0,0.0,0.0
-2020-02-29,16,País Vasco,1,Araba,0,0,0.0,0.0
-2020-02-29,16,País Vasco,48,Bizkaia,0,0,0.0,0.0
-2020-02-29,16,País Vasco,20,Gipuzkoa,0,0,0.0,0.0
 2020-03-01,1,Andalucía,4,Almería,0,0,0.0,0.0
 2020-03-01,1,Andalucía,11,Cádiz,0,0,0.0,0.0
 2020-03-01,1,Andalucía,14,Córdoba,0,0,0.0,0.0
@@ -156,9 +147,6 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-02,19,Melilla,52,Melilla,0,0,0.0,0.0
 2020-03-02,14,"Murcia, Región de",30,Murcia,0,0,0.0,0.0
 2020-03-02,15,"Navarra, Comunidad Foral de",31,Navarra,1,0,0.0,0.0
-2020-03-02,16,País Vasco,1,Araba,1,0,0.0,0.0
-2020-03-02,16,País Vasco,48,Bizkaia,0,0,0.0,0.0
-2020-03-02,16,País Vasco,20,Gipuzkoa,0,0,0.0,0.0
 2020-03-03,1,Andalucía,4,Almería,0,0,0.0,0.0
 2020-03-03,1,Andalucía,11,Cádiz,0,0,0.0,0.0
 2020-03-03,1,Andalucía,14,Córdoba,0,0,0.0,0.0
@@ -798,7 +786,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-17,7,Castilla y León,47,Valladolid,74,18,0.0,0.0
 2020-03-17,7,Castilla y León,49,Zamora,16,4,0.0,0.0
 2020-03-17,7,Castilla y León,5,Ávila,18,1,0.0,0.0
-2020-03-17,9,Cataluña,8,Barcelona,2612,657,,
+2020-03-17,9,Cataluña,8,Barcelona,2611,656,,
 2020-03-17,9,Cataluña,17,Girona,166,38,,
 2020-03-17,9,Cataluña,25,Lleida,82,29,,
 2020-03-17,9,Cataluña,43,Tarragona,62,22,,
@@ -850,7 +838,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-18,7,Castilla y León,47,Valladolid,82,8,0.0,0.0
 2020-03-18,7,Castilla y León,49,Zamora,26,10,1.0,1.0
 2020-03-18,7,Castilla y León,5,Ávila,42,24,1.0,1.0
-2020-03-18,9,Cataluña,8,Barcelona,3408,796,,
+2020-03-18,9,Cataluña,8,Barcelona,3407,796,,
 2020-03-18,9,Cataluña,17,Girona,229,63,,
 2020-03-18,9,Cataluña,25,Lleida,116,34,,
 2020-03-18,9,Cataluña,43,Tarragona,83,21,,
@@ -902,10 +890,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-19,7,Castilla y León,47,Valladolid,115,33,3.0,3.0
 2020-03-19,7,Castilla y León,49,Zamora,31,5,1.0,0.0
 2020-03-19,7,Castilla y León,5,Ávila,59,17,2.0,1.0
-2020-03-19,9,Cataluña,8,Barcelona,4430,1022,,
+2020-03-19,9,Cataluña,8,Barcelona,4429,1022,,
 2020-03-19,9,Cataluña,17,Girona,308,79,,
 2020-03-19,9,Cataluña,25,Lleida,157,41,,
-2020-03-19,9,Cataluña,43,Tarragona,123,40,,
+2020-03-19,9,Cataluña,43,Tarragona,124,41,,
 2020-03-19,18,Ceuta,51,Ceuta,1,0,0.0,0.0
 2020-03-19,10,Comunitat Valenciana,3,Alicante,341,45,12.0,2.0
 2020-03-19,10,Comunitat Valenciana,12,Castellón,54,5,1.0,0.0
@@ -954,10 +942,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-20,7,Castilla y León,47,Valladolid,201,86,5.0,2.0
 2020-03-20,7,Castilla y León,49,Zamora,46,15,1.0,0.0
 2020-03-20,7,Castilla y León,5,Ávila,63,4,4.0,2.0
-2020-03-20,9,Cataluña,8,Barcelona,5582,1152,,
+2020-03-20,9,Cataluña,8,Barcelona,5580,1151,,
 2020-03-20,9,Cataluña,17,Girona,458,150,,
 2020-03-20,9,Cataluña,25,Lleida,207,50,,
-2020-03-20,9,Cataluña,43,Tarragona,162,39,,
+2020-03-20,9,Cataluña,43,Tarragona,163,39,,
 2020-03-20,18,Ceuta,51,Ceuta,5,4,0.0,0.0
 2020-03-20,10,Comunitat Valenciana,3,Alicante,375,34,15.0,3.0
 2020-03-20,10,Comunitat Valenciana,12,Castellón,99,45,1.0,0.0
@@ -974,7 +962,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-20,14,"Murcia, Región de",30,Murcia,204,37,0.0,0.0
 2020-03-20,15,"Navarra, Comunidad Foral de",31,Navarra,554,72,5.0,1.0
 2020-03-20,16,País Vasco,1,Araba,797,95,55.0,7.0
-2020-03-20,16,País Vasco,48,Bizkaia,648,131,55.0,7.0
+2020-03-20,16,País Vasco,48,Bizkaia,646,129,55.0,7.0
 2020-03-20,16,País Vasco,20,Gipuzkoa,265,56,55.0,7.0
 2020-03-21,1,Andalucía,4,Almería,55,7,0.0,0.0
 2020-03-21,1,Andalucía,11,Cádiz,128,23,0.0,0.0
@@ -1006,10 +994,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-21,7,Castilla y León,47,Valladolid,241,40,10.0,5.0
 2020-03-21,7,Castilla y León,49,Zamora,59,13,2.0,1.0
 2020-03-21,7,Castilla y León,5,Ávila,114,51,7.0,3.0
-2020-03-21,9,Cataluña,8,Barcelona,6603,1021,,
-2020-03-21,9,Cataluña,17,Girona,532,74,,
+2020-03-21,9,Cataluña,8,Barcelona,6602,1022,,
+2020-03-21,9,Cataluña,17,Girona,531,73,,
 2020-03-21,9,Cataluña,25,Lleida,244,37,,
-2020-03-21,9,Cataluña,43,Tarragona,192,30,,
+2020-03-21,9,Cataluña,43,Tarragona,193,30,,
 2020-03-21,18,Ceuta,51,Ceuta,5,0,0.0,0.0
 2020-03-21,10,Comunitat Valenciana,3,Alicante,482,107,18.0,3.0
 2020-03-21,10,Comunitat Valenciana,12,Castellón,119,20,2.0,1.0
@@ -1026,7 +1014,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-21,14,"Murcia, Región de",30,Murcia,240,36,1.0,1.0
 2020-03-21,15,"Navarra, Comunidad Foral de",31,Navarra,664,110,9.0,4.0
 2020-03-21,16,País Vasco,1,Araba,910,113,60.0,5.0
-2020-03-21,16,País Vasco,48,Bizkaia,864,216,60.0,5.0
+2020-03-21,16,País Vasco,48,Bizkaia,862,216,60.0,5.0
 2020-03-21,16,País Vasco,20,Gipuzkoa,319,54,60.0,5.0
 2020-03-22,1,Andalucía,4,Almería,60,5,1.0,1.0
 2020-03-22,1,Andalucía,11,Cádiz,136,8,2.0,2.0
@@ -1058,10 +1046,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-22,7,Castilla y León,47,Valladolid,302,61,11.0,1.0
 2020-03-22,7,Castilla y León,49,Zamora,70,11,3.0,1.0
 2020-03-22,7,Castilla y León,5,Ávila,143,29,9.0,2.0
-2020-03-22,9,Cataluña,8,Barcelona,7438,835,,
-2020-03-22,9,Cataluña,17,Girona,605,73,,
+2020-03-22,9,Cataluña,8,Barcelona,7436,834,,
+2020-03-22,9,Cataluña,17,Girona,603,72,,
 2020-03-22,9,Cataluña,25,Lleida,267,23,,
-2020-03-22,9,Cataluña,43,Tarragona,217,25,,
+2020-03-22,9,Cataluña,43,Tarragona,218,25,,
 2020-03-22,18,Ceuta,51,Ceuta,5,0,0.0,0.0
 2020-03-22,10,Comunitat Valenciana,3,Alicante,540,58,25.0,7.0
 2020-03-22,10,Comunitat Valenciana,12,Castellón,149,30,4.0,2.0
@@ -1078,7 +1066,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-22,14,"Murcia, Región de",30,Murcia,296,56,1.0,0.0
 2020-03-22,15,"Navarra, Comunidad Foral de",31,Navarra,794,130,14.0,5.0
 2020-03-22,16,País Vasco,1,Araba,1003,93,70.0,10.0
-2020-03-22,16,País Vasco,48,Bizkaia,1029,165,70.0,10.0
+2020-03-22,16,País Vasco,48,Bizkaia,1027,165,70.0,10.0
 2020-03-22,16,País Vasco,20,Gipuzkoa,382,63,70.0,10.0
 2020-03-23,1,Andalucía,4,Almería,76,16,2.0,1.0
 2020-03-23,1,Andalucía,11,Cádiz,180,44,3.0,1.0
@@ -1110,10 +1098,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-23,7,Castilla y León,47,Valladolid,349,47,14.0,3.0
 2020-03-23,7,Castilla y León,49,Zamora,90,20,4.0,1.0
 2020-03-23,7,Castilla y León,5,Ávila,159,16,10.0,1.0
-2020-03-23,9,Cataluña,8,Barcelona,8746,1308,,
-2020-03-23,9,Cataluña,17,Girona,704,99,,
+2020-03-23,9,Cataluña,8,Barcelona,8743,1307,,
+2020-03-23,9,Cataluña,17,Girona,702,99,,
 2020-03-23,9,Cataluña,25,Lleida,324,57,,
-2020-03-23,9,Cataluña,43,Tarragona,273,56,,
+2020-03-23,9,Cataluña,43,Tarragona,274,56,,
 2020-03-23,18,Ceuta,51,Ceuta,6,1,0.0,0.0
 2020-03-23,10,Comunitat Valenciana,3,Alicante,606,66,37.0,12.0
 2020-03-23,10,Comunitat Valenciana,12,Castellón,206,57,7.0,3.0
@@ -1130,7 +1118,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-23,14,"Murcia, Región de",30,Murcia,345,49,2.0,1.0
 2020-03-23,15,"Navarra, Comunidad Foral de",31,Navarra,886,92,24.0,10.0
 2020-03-23,16,País Vasco,1,Araba,1084,81,73.0,3.0
-2020-03-23,16,País Vasco,48,Bizkaia,1186,157,73.0,3.0
+2020-03-23,16,País Vasco,48,Bizkaia,1183,156,73.0,3.0
 2020-03-23,16,País Vasco,20,Gipuzkoa,450,68,73.0,3.0
 2020-03-24,1,Andalucía,4,Almería,93,17,5.0,3.0
 2020-03-24,1,Andalucía,11,Cádiz,247,67,3.0,0.0
@@ -1162,10 +1150,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-24,7,Castilla y León,47,Valladolid,410,61,17.0,3.0
 2020-03-24,7,Castilla y León,49,Zamora,100,10,7.0,3.0
 2020-03-24,7,Castilla y León,5,Ávila,201,42,15.0,5.0
-2020-03-24,9,Cataluña,8,Barcelona,10318,1572,,
-2020-03-24,9,Cataluña,17,Girona,824,120,,
+2020-03-24,9,Cataluña,8,Barcelona,10315,1572,,
+2020-03-24,9,Cataluña,17,Girona,822,120,,
 2020-03-24,9,Cataluña,25,Lleida,415,91,,
-2020-03-24,9,Cataluña,43,Tarragona,336,63,,
+2020-03-24,9,Cataluña,43,Tarragona,337,63,,
 2020-03-24,18,Ceuta,51,Ceuta,6,0,0.0,0.0
 2020-03-24,10,Comunitat Valenciana,3,Alicante,631,25,46.0,9.0
 2020-03-24,10,Comunitat Valenciana,12,Castellón,224,18,8.0,1.0
@@ -1182,7 +1170,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-24,14,"Murcia, Región de",30,Murcia,385,40,3.0,1.0
 2020-03-24,15,"Navarra, Comunidad Foral de",31,Navarra,1014,128,31.0,7.0
 2020-03-24,16,País Vasco,1,Araba,1212,128,81.0,8.0
-2020-03-24,16,País Vasco,48,Bizkaia,1478,292,81.0,8.0
+2020-03-24,16,País Vasco,48,Bizkaia,1475,292,81.0,8.0
 2020-03-24,16,País Vasco,20,Gipuzkoa,560,110,81.0,8.0
 2020-03-25,1,Andalucía,4,Almería,117,24,5.0,0.0
 2020-03-25,1,Andalucía,11,Cádiz,280,33,4.0,1.0
@@ -1214,10 +1202,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-25,7,Castilla y León,47,Valladolid,501,91,21.0,4.0
 2020-03-25,7,Castilla y León,49,Zamora,103,3,8.0,1.0
 2020-03-25,7,Castilla y León,5,Ávila,226,25,21.0,6.0
-2020-03-25,9,Cataluña,8,Barcelona,11874,1556,,
-2020-03-25,9,Cataluña,17,Girona,925,101,,
+2020-03-25,9,Cataluña,8,Barcelona,11871,1556,,
+2020-03-25,9,Cataluña,17,Girona,923,101,,
 2020-03-25,9,Cataluña,25,Lleida,519,104,,
-2020-03-25,9,Cataluña,43,Tarragona,389,53,,
+2020-03-25,9,Cataluña,43,Tarragona,390,53,,
 2020-03-25,18,Ceuta,51,Ceuta,9,3,0.0,0.0
 2020-03-25,10,Comunitat Valenciana,3,Alicante,860,229,61.0,15.0
 2020-03-25,10,Comunitat Valenciana,12,Castellón,264,40,11.0,3.0
@@ -1234,7 +1222,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-25,14,"Murcia, Región de",30,Murcia,477,92,5.0,2.0
 2020-03-25,15,"Navarra, Comunidad Foral de",31,Navarra,1197,183,33.0,2.0
 2020-03-25,16,País Vasco,1,Araba,1440,228,94.0,13.0
-2020-03-25,16,País Vasco,48,Bizkaia,1825,347,94.0,13.0
+2020-03-25,16,País Vasco,48,Bizkaia,1822,347,94.0,13.0
 2020-03-25,16,País Vasco,20,Gipuzkoa,662,102,94.0,13.0
 2020-03-26,1,Andalucía,4,Almería,136,19,7.0,2.0
 2020-03-26,1,Andalucía,11,Cádiz,301,21,5.0,1.0
@@ -1266,10 +1254,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-26,7,Castilla y León,47,Valladolid,598,97,27.0,6.0
 2020-03-26,7,Castilla y León,49,Zamora,106,3,9.0,1.0
 2020-03-26,7,Castilla y León,5,Ávila,270,44,27.0,6.0
-2020-03-26,9,Cataluña,8,Barcelona,13754,1880,,
-2020-03-26,9,Cataluña,17,Girona,1057,132,,
+2020-03-26,9,Cataluña,8,Barcelona,13751,1880,,
+2020-03-26,9,Cataluña,17,Girona,1054,131,,
 2020-03-26,9,Cataluña,25,Lleida,584,65,,
-2020-03-26,9,Cataluña,43,Tarragona,451,62,,
+2020-03-26,9,Cataluña,43,Tarragona,452,62,,
 2020-03-26,18,Ceuta,51,Ceuta,10,1,0.0,0.0
 2020-03-26,10,Comunitat Valenciana,3,Alicante,1041,181,72.0,11.0
 2020-03-26,10,Comunitat Valenciana,12,Castellón,366,102,14.0,3.0
@@ -1286,7 +1274,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-26,14,"Murcia, Región de",30,Murcia,596,119,8.0,3.0
 2020-03-26,15,"Navarra, Comunidad Foral de",31,Navarra,1411,214,49.0,16.0
 2020-03-26,16,País Vasco,1,Araba,1607,167,103.0,9.0
-2020-03-26,16,País Vasco,48,Bizkaia,2174,349,103.0,9.0
+2020-03-26,16,País Vasco,48,Bizkaia,2170,348,103.0,9.0
 2020-03-26,16,País Vasco,20,Gipuzkoa,805,143,103.0,9.0
 2020-03-27,1,Andalucía,4,Almería,144,8,8.0,1.0
 2020-03-27,1,Andalucía,11,Cádiz,350,49,6.0,1.0
@@ -1318,10 +1306,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-27,7,Castilla y León,47,Valladolid,692,94,39.0,12.0
 2020-03-27,7,Castilla y León,49,Zamora,124,18,12.0,3.0
 2020-03-27,7,Castilla y León,5,Ávila,342,72,33.0,6.0
-2020-03-27,9,Cataluña,8,Barcelona,15132,1378,,
-2020-03-27,9,Cataluña,17,Girona,1190,133,,
+2020-03-27,9,Cataluña,8,Barcelona,15130,1379,,
+2020-03-27,9,Cataluña,17,Girona,1187,133,,
 2020-03-27,9,Cataluña,25,Lleida,671,87,,
-2020-03-27,9,Cataluña,43,Tarragona,525,74,,
+2020-03-27,9,Cataluña,43,Tarragona,526,74,,
 2020-03-27,18,Ceuta,51,Ceuta,17,7,0.0,0.0
 2020-03-27,10,Comunitat Valenciana,3,Alicante,1095,54,88.0,16.0
 2020-03-27,10,Comunitat Valenciana,12,Castellón,405,39,19.0,5.0
@@ -1338,7 +1326,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-27,14,"Murcia, Región de",30,Murcia,714,118,15.0,7.0
 2020-03-27,15,"Navarra, Comunidad Foral de",31,Navarra,1641,230,58.0,9.0
 2020-03-27,16,País Vasco,1,Araba,1779,172,109.0,6.0
-2020-03-27,16,País Vasco,48,Bizkaia,2437,263,109.0,6.0
+2020-03-27,16,País Vasco,48,Bizkaia,2431,261,109.0,6.0
 2020-03-27,16,País Vasco,20,Gipuzkoa,897,92,109.0,6.0
 2020-03-28,1,Andalucía,4,Almería,175,31,10.0,2.0
 2020-03-28,1,Andalucía,11,Cádiz,408,58,7.0,1.0
@@ -1370,10 +1358,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-28,7,Castilla y León,47,Valladolid,807,115,45.0,6.0
 2020-03-28,7,Castilla y León,49,Zamora,168,44,16.0,4.0
 2020-03-28,7,Castilla y León,5,Ávila,381,39,38.0,5.0
-2020-03-28,9,Cataluña,8,Barcelona,16245,1113,,
-2020-03-28,9,Cataluña,17,Girona,1259,69,,
+2020-03-28,9,Cataluña,8,Barcelona,16245,1115,,
+2020-03-28,9,Cataluña,17,Girona,1255,68,,
 2020-03-28,9,Cataluña,25,Lleida,714,43,,
-2020-03-28,9,Cataluña,43,Tarragona,580,55,,
+2020-03-28,9,Cataluña,43,Tarragona,581,55,,
 2020-03-28,18,Ceuta,51,Ceuta,17,0,1.0,1.0
 2020-03-28,10,Comunitat Valenciana,3,Alicante,1324,229,104.0,16.0
 2020-03-28,10,Comunitat Valenciana,12,Castellón,442,37,21.0,2.0
@@ -1390,7 +1378,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-28,14,"Murcia, Región de",30,Murcia,802,88,17.0,2.0
 2020-03-28,15,"Navarra, Comunidad Foral de",31,Navarra,1829,188,70.0,12.0
 2020-03-28,16,País Vasco,1,Araba,1951,172,117.0,8.0
-2020-03-28,16,País Vasco,48,Bizkaia,2752,315,117.0,8.0
+2020-03-28,16,País Vasco,48,Bizkaia,2745,314,117.0,8.0
 2020-03-28,16,País Vasco,20,Gipuzkoa,1018,121,117.0,8.0
 2020-03-29,1,Andalucía,4,Almería,202,27,12.0,2.0
 2020-03-29,1,Andalucía,11,Cádiz,449,41,9.0,2.0
@@ -1422,10 +1410,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-29,7,Castilla y León,47,Valladolid,886,79,57.0,12.0
 2020-03-29,7,Castilla y León,49,Zamora,192,24,18.0,2.0
 2020-03-29,7,Castilla y León,5,Ávila,414,33,41.0,3.0
-2020-03-29,9,Cataluña,8,Barcelona,17075,830,,
-2020-03-29,9,Cataluña,17,Girona,1327,68,,
+2020-03-29,9,Cataluña,8,Barcelona,17077,832,,
+2020-03-29,9,Cataluña,17,Girona,1323,68,,
 2020-03-29,9,Cataluña,25,Lleida,777,63,,
-2020-03-29,9,Cataluña,43,Tarragona,630,50,,
+2020-03-29,9,Cataluña,43,Tarragona,631,50,,
 2020-03-29,18,Ceuta,51,Ceuta,21,4,1.0,0.0
 2020-03-29,10,Comunitat Valenciana,3,Alicante,1736,412,115.0,11.0
 2020-03-29,10,Comunitat Valenciana,12,Castellón,535,93,25.0,4.0
@@ -1442,7 +1430,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-29,14,"Murcia, Región de",30,Murcia,872,70,20.0,3.0
 2020-03-29,15,"Navarra, Comunidad Foral de",31,Navarra,2011,182,84.0,14.0
 2020-03-29,16,País Vasco,1,Araba,2046,95,127.0,10.0
-2020-03-29,16,País Vasco,48,Bizkaia,2911,159,127.0,10.0
+2020-03-29,16,País Vasco,48,Bizkaia,2902,157,127.0,10.0
 2020-03-29,16,País Vasco,20,Gipuzkoa,1072,54,127.0,10.0
 2020-03-30,1,Andalucía,4,Almería,225,23,14.0,2.0
 2020-03-30,1,Andalucía,11,Cádiz,509,60,13.0,4.0
@@ -1474,10 +1462,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-30,7,Castilla y León,47,Valladolid,929,43,66.0,9.0
 2020-03-30,7,Castilla y León,49,Zamora,209,17,20.0,2.0
 2020-03-30,7,Castilla y León,5,Ávila,446,32,46.0,5.0
-2020-03-30,9,Cataluña,8,Barcelona,18595,1520,,
-2020-03-30,9,Cataluña,17,Girona,1444,117,,
+2020-03-30,9,Cataluña,8,Barcelona,18596,1519,,
+2020-03-30,9,Cataluña,17,Girona,1439,116,,
 2020-03-30,9,Cataluña,25,Lleida,840,63,,
-2020-03-30,9,Cataluña,43,Tarragona,735,105,,
+2020-03-30,9,Cataluña,43,Tarragona,736,105,,
 2020-03-30,18,Ceuta,51,Ceuta,25,4,1.0,0.0
 2020-03-30,10,Comunitat Valenciana,3,Alicante,1841,105,135.0,20.0
 2020-03-30,10,Comunitat Valenciana,12,Castellón,579,44,32.0,7.0
@@ -1494,7 +1482,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-30,14,"Murcia, Región de",30,Murcia,939,67,25.0,5.0
 2020-03-30,15,"Navarra, Comunidad Foral de",31,Navarra,2146,135,102.0,18.0
 2020-03-30,16,País Vasco,1,Araba,2102,56,143.0,16.0
-2020-03-30,16,País Vasco,48,Bizkaia,3081,170,143.0,16.0
+2020-03-30,16,País Vasco,48,Bizkaia,3072,170,143.0,16.0
 2020-03-30,16,País Vasco,20,Gipuzkoa,1113,41,143.0,16.0
 2020-03-31,1,Andalucía,4,Almería,253,28,16.0,2.0
 2020-03-31,1,Andalucía,11,Cádiz,541,32,14.0,1.0
@@ -1526,10 +1514,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-31,7,Castilla y León,47,Valladolid,988,59,77.0,11.0
 2020-03-31,7,Castilla y León,49,Zamora,217,8,23.0,3.0
 2020-03-31,7,Castilla y León,5,Ávila,467,21,54.0,8.0
-2020-03-31,9,Cataluña,8,Barcelona,20192,1597,,
-2020-03-31,9,Cataluña,17,Girona,1548,104,,
+2020-03-31,9,Cataluña,8,Barcelona,20191,1595,,
+2020-03-31,9,Cataluña,17,Girona,1543,104,,
 2020-03-31,9,Cataluña,25,Lleida,938,98,,
-2020-03-31,9,Cataluña,43,Tarragona,800,65,,
+2020-03-31,9,Cataluña,43,Tarragona,801,65,,
 2020-03-31,18,Ceuta,51,Ceuta,34,9,1.0,0.0
 2020-03-31,10,Comunitat Valenciana,3,Alicante,2023,182,147.0,12.0
 2020-03-31,10,Comunitat Valenciana,12,Castellón,606,27,34.0,2.0
@@ -1546,7 +1534,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-03-31,14,"Murcia, Región de",30,Murcia,974,35,34.0,9.0
 2020-03-31,15,"Navarra, Comunidad Foral de",31,Navarra,2305,159,113.0,11.0
 2020-03-31,16,País Vasco,1,Araba,2247,145,161.0,18.0
-2020-03-31,16,País Vasco,48,Bizkaia,3357,276,161.0,18.0
+2020-03-31,16,País Vasco,48,Bizkaia,3345,273,161.0,18.0
 2020-03-31,16,País Vasco,20,Gipuzkoa,1206,93,161.0,18.0
 2020-04-01,1,Andalucía,4,Almería,264,11,17.0,1.0
 2020-04-01,1,Andalucía,11,Cádiz,647,106,17.0,3.0
@@ -1578,10 +1566,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-01,7,Castilla y León,47,Valladolid,1109,121,89.0,12.0
 2020-04-01,7,Castilla y León,49,Zamora,226,9,25.0,2.0
 2020-04-01,7,Castilla y León,5,Ávila,512,45,59.0,5.0
-2020-04-01,9,Cataluña,8,Barcelona,21719,1527,,
-2020-04-01,9,Cataluña,17,Girona,1676,128,,
+2020-04-01,9,Cataluña,8,Barcelona,21719,1528,,
+2020-04-01,9,Cataluña,17,Girona,1671,128,,
 2020-04-01,9,Cataluña,25,Lleida,997,59,,
-2020-04-01,9,Cataluña,43,Tarragona,853,53,,
+2020-04-01,9,Cataluña,43,Tarragona,854,53,,
 2020-04-01,18,Ceuta,51,Ceuta,51,17,1.0,0.0
 2020-04-01,10,Comunitat Valenciana,3,Alicante,2175,152,167.0,20.0
 2020-04-01,10,Comunitat Valenciana,12,Castellón,653,47,42.0,8.0
@@ -1598,7 +1586,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-01,14,"Murcia, Región de",30,Murcia,1041,67,37.0,3.0
 2020-04-01,15,"Navarra, Comunidad Foral de",31,Navarra,2497,192,130.0,17.0
 2020-04-01,16,País Vasco,1,Araba,2356,109,170.0,9.0
-2020-04-01,16,País Vasco,48,Bizkaia,3641,284,170.0,9.0
+2020-04-01,16,País Vasco,48,Bizkaia,3629,284,170.0,9.0
 2020-04-01,16,País Vasco,20,Gipuzkoa,1287,81,170.0,9.0
 2020-04-02,1,Andalucía,4,Almería,292,28,18.0,1.0
 2020-04-02,1,Andalucía,11,Cádiz,699,52,19.0,2.0
@@ -1631,9 +1619,9 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-02,7,Castilla y León,49,Zamora,278,52,28.0,3.0
 2020-04-02,7,Castilla y León,5,Ávila,560,48,64.0,5.0
 2020-04-02,9,Cataluña,8,Barcelona,22819,1100,,
-2020-04-02,9,Cataluña,17,Girona,1799,123,,
+2020-04-02,9,Cataluña,17,Girona,1791,120,,
 2020-04-02,9,Cataluña,25,Lleida,1056,59,,
-2020-04-02,9,Cataluña,43,Tarragona,922,69,,
+2020-04-02,9,Cataluña,43,Tarragona,922,68,,
 2020-04-02,18,Ceuta,51,Ceuta,55,4,1.0,0.0
 2020-04-02,10,Comunitat Valenciana,3,Alicante,2322,147,188.0,21.0
 2020-04-02,10,Comunitat Valenciana,12,Castellón,690,37,45.0,3.0
@@ -1650,7 +1638,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-02,14,"Murcia, Región de",30,Murcia,1084,43,42.0,5.0
 2020-04-02,15,"Navarra, Comunidad Foral de",31,Navarra,2682,185,141.0,11.0
 2020-04-02,16,País Vasco,1,Araba,2446,90,178.0,8.0
-2020-04-02,16,País Vasco,48,Bizkaia,3992,351,178.0,8.0
+2020-04-02,16,País Vasco,48,Bizkaia,3980,351,178.0,8.0
 2020-04-02,16,País Vasco,20,Gipuzkoa,1355,68,178.0,8.0
 2020-04-03,1,Andalucía,4,Almería,303,11,20.0,2.0
 2020-04-03,1,Andalucía,11,Cádiz,756,57,22.0,3.0
@@ -1683,9 +1671,9 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-03,7,Castilla y León,49,Zamora,296,18,30.0,2.0
 2020-04-03,7,Castilla y León,5,Ávila,590,30,66.0,2.0
 2020-04-03,9,Cataluña,8,Barcelona,23938,1119,,
-2020-04-03,9,Cataluña,17,Girona,1910,111,,
+2020-04-03,9,Cataluña,17,Girona,1901,110,,
 2020-04-03,9,Cataluña,25,Lleida,1116,60,,
-2020-04-03,9,Cataluña,43,Tarragona,1025,103,,
+2020-04-03,9,Cataluña,43,Tarragona,1026,104,,
 2020-04-03,18,Ceuta,51,Ceuta,62,7,1.0,0.0
 2020-04-03,10,Comunitat Valenciana,3,Alicante,2447,125,219.0,31.0
 2020-04-03,10,Comunitat Valenciana,12,Castellón,733,43,50.0,5.0
@@ -1702,7 +1690,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-03,14,"Murcia, Región de",30,Murcia,1145,61,46.0,4.0
 2020-04-03,15,"Navarra, Comunidad Foral de",31,Navarra,2836,154,151.0,10.0
 2020-04-03,16,País Vasco,1,Araba,2537,91,188.0,10.0
-2020-04-03,16,País Vasco,48,Bizkaia,4197,205,188.0,10.0
+2020-04-03,16,País Vasco,48,Bizkaia,4184,204,188.0,10.0
 2020-04-03,16,País Vasco,20,Gipuzkoa,1427,72,188.0,10.0
 2020-04-04,1,Andalucía,4,Almería,321,18,22.0,2.0
 2020-04-04,1,Andalucía,11,Cádiz,798,42,27.0,5.0
@@ -1734,10 +1722,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-04,7,Castilla y León,47,Valladolid,1352,62,125.0,11.0
 2020-04-04,7,Castilla y León,49,Zamora,323,27,35.0,5.0
 2020-04-04,7,Castilla y León,5,Ávila,638,48,69.0,3.0
-2020-04-04,9,Cataluña,8,Barcelona,24752,814,,
-2020-04-04,9,Cataluña,17,Girona,1976,66,,
+2020-04-04,9,Cataluña,8,Barcelona,24751,813,,
+2020-04-04,9,Cataluña,17,Girona,1967,66,,
 2020-04-04,9,Cataluña,25,Lleida,1144,28,,
-2020-04-04,9,Cataluña,43,Tarragona,1088,63,,
+2020-04-04,9,Cataluña,43,Tarragona,1089,63,,
 2020-04-04,18,Ceuta,51,Ceuta,73,11,1.0,0.0
 2020-04-04,10,Comunitat Valenciana,3,Alicante,2561,114,245.0,26.0
 2020-04-04,10,Comunitat Valenciana,12,Castellón,780,47,56.0,6.0
@@ -1754,7 +1742,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-04,14,"Murcia, Región de",30,Murcia,1188,43,51.0,5.0
 2020-04-04,15,"Navarra, Comunidad Foral de",31,Navarra,2972,136,171.0,20.0
 2020-04-04,16,País Vasco,1,Araba,2637,100,195.0,7.0
-2020-04-04,16,País Vasco,48,Bizkaia,4454,257,195.0,7.0
+2020-04-04,16,País Vasco,48,Bizkaia,4440,256,195.0,7.0
 2020-04-04,16,País Vasco,20,Gipuzkoa,1499,72,195.0,7.0
 2020-04-05,1,Andalucía,4,Almería,348,27,22.0,0.0
 2020-04-05,1,Andalucía,11,Cádiz,848,50,31.0,4.0
@@ -1786,10 +1774,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-05,7,Castilla y León,47,Valladolid,1403,51,133.0,8.0
 2020-04-05,7,Castilla y León,49,Zamora,339,16,37.0,2.0
 2020-04-05,7,Castilla y León,5,Ávila,679,41,73.0,4.0
-2020-04-05,9,Cataluña,8,Barcelona,25311,559,,
-2020-04-05,9,Cataluña,17,Girona,2026,50,,
+2020-04-05,9,Cataluña,8,Barcelona,25310,559,,
+2020-04-05,9,Cataluña,17,Girona,2017,50,,
 2020-04-05,9,Cataluña,25,Lleida,1166,22,,
-2020-04-05,9,Cataluña,43,Tarragona,1131,43,,
+2020-04-05,9,Cataluña,43,Tarragona,1132,43,,
 2020-04-05,18,Ceuta,51,Ceuta,83,10,2.0,1.0
 2020-04-05,10,Comunitat Valenciana,3,Alicante,2629,68,263.0,18.0
 2020-04-05,10,Comunitat Valenciana,12,Castellón,845,65,64.0,8.0
@@ -1806,7 +1794,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-05,14,"Murcia, Región de",30,Murcia,1235,47,59.0,8.0
 2020-04-05,15,"Navarra, Comunidad Foral de",31,Navarra,3073,101,178.0,7.0
 2020-04-05,16,País Vasco,1,Araba,2677,40,202.0,7.0
-2020-04-05,16,País Vasco,48,Bizkaia,4570,116,202.0,7.0
+2020-04-05,16,País Vasco,48,Bizkaia,4556,116,202.0,7.0
 2020-04-05,16,País Vasco,20,Gipuzkoa,1528,29,202.0,7.0
 2020-04-06,1,Andalucía,4,Almería,373,25,23.0,1.0
 2020-04-06,1,Andalucía,11,Cádiz,864,16,31.0,0.0
@@ -1838,10 +1826,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-06,7,Castilla y León,47,Valladolid,1445,42,145.0,12.0
 2020-04-06,7,Castilla y León,49,Zamora,340,1,38.0,1.0
 2020-04-06,7,Castilla y León,5,Ávila,732,53,79.0,6.0
-2020-04-06,9,Cataluña,8,Barcelona,26275,964,,
-2020-04-06,9,Cataluña,17,Girona,2217,191,,
+2020-04-06,9,Cataluña,8,Barcelona,26275,965,,
+2020-04-06,9,Cataluña,17,Girona,2209,192,,
 2020-04-06,9,Cataluña,25,Lleida,1204,38,,
-2020-04-06,9,Cataluña,43,Tarragona,1201,70,,
+2020-04-06,9,Cataluña,43,Tarragona,1202,70,,
 2020-04-06,18,Ceuta,51,Ceuta,83,0,3.0,1.0
 2020-04-06,10,Comunitat Valenciana,3,Alicante,2675,46,269.0,6.0
 2020-04-06,10,Comunitat Valenciana,12,Castellón,862,17,70.0,6.0
@@ -1858,7 +1846,7 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-06,14,"Murcia, Región de",30,Murcia,1259,24,68.0,9.0
 2020-04-06,15,"Navarra, Comunidad Foral de",31,Navarra,3231,158,187.0,9.0
 2020-04-06,16,País Vasco,1,Araba,2746,69,213.0,11.0
-2020-04-06,16,País Vasco,48,Bizkaia,4683,113,213.0,11.0
+2020-04-06,16,País Vasco,48,Bizkaia,4668,112,213.0,11.0
 2020-04-06,16,País Vasco,20,Gipuzkoa,1558,30,213.0,11.0
 2020-04-07,1,Andalucía,4,Almería,373,0,23.0,0.0
 2020-04-07,1,Andalucía,11,Cádiz,883,19,32.0,1.0
@@ -1890,10 +1878,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-07,7,Castilla y León,47,Valladolid,1602,157,153.0,8.0
 2020-04-07,7,Castilla y León,49,Zamora,342,2,39.0,1.0
 2020-04-07,7,Castilla y León,5,Ávila,766,34,83.0,4.0
-2020-04-07,9,Cataluña,8,Barcelona,27238,963,,
-2020-04-07,9,Cataluña,17,Girona,2403,186,,
+2020-04-07,9,Cataluña,8,Barcelona,27237,962,,
+2020-04-07,9,Cataluña,17,Girona,2394,185,,
 2020-04-07,9,Cataluña,25,Lleida,1290,86,,
-2020-04-07,9,Cataluña,43,Tarragona,1258,57,,
+2020-04-07,9,Cataluña,43,Tarragona,1259,57,,
 2020-04-07,18,Ceuta,51,Ceuta,83,0,4.0,1.0
 2020-04-07,10,Comunitat Valenciana,3,Alicante,2716,41,283.0,14.0
 2020-04-07,10,Comunitat Valenciana,12,Castellón,869,7,78.0,8.0
@@ -1910,8 +1898,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-07,14,"Murcia, Región de",30,Murcia,1283,24,78.0,10.0
 2020-04-07,15,"Navarra, Comunidad Foral de",31,Navarra,3355,124,202.0,15.0
 2020-04-07,16,País Vasco,1,Araba,2809,63,230.0,17.0
-2020-04-07,16,País Vasco,48,Bizkaia,4945,262,230.0,17.0
-2020-04-07,16,País Vasco,20,Gipuzkoa,1674,116,230.0,17.0
+2020-04-07,16,País Vasco,48,Bizkaia,4930,262,230.0,17.0
+2020-04-07,16,País Vasco,20,Gipuzkoa,1673,115,230.0,17.0
 2020-04-08,1,Andalucía,4,Almería,380,7,26.0,3.0
 2020-04-08,1,Andalucía,11,Cádiz,903,20,36.0,4.0
 2020-04-08,1,Andalucía,14,Córdoba,1069,14,42.0,3.0
@@ -1942,10 +1930,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-08,7,Castilla y León,47,Valladolid,1686,84,162.0,9.0
 2020-04-08,7,Castilla y León,49,Zamora,360,18,43.0,4.0
 2020-04-08,7,Castilla y León,5,Ávila,793,27,85.0,2.0
-2020-04-08,9,Cataluña,8,Barcelona,28172,934,,
-2020-04-08,9,Cataluña,17,Girona,2494,91,,
+2020-04-08,9,Cataluña,8,Barcelona,28169,932,,
+2020-04-08,9,Cataluña,17,Girona,2483,89,,
 2020-04-08,9,Cataluña,25,Lleida,1363,73,,
-2020-04-08,9,Cataluña,43,Tarragona,1326,68,,
+2020-04-08,9,Cataluña,43,Tarragona,1327,68,,
 2020-04-08,18,Ceuta,51,Ceuta,84,1,4.0,0.0
 2020-04-08,10,Comunitat Valenciana,3,Alicante,2805,89,292.0,9.0
 2020-04-08,10,Comunitat Valenciana,12,Castellón,892,23,89.0,11.0
@@ -1962,8 +1950,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-08,14,"Murcia, Región de",30,Murcia,1326,43,85.0,7.0
 2020-04-08,15,"Navarra, Comunidad Foral de",31,Navarra,3467,112,206.0,4.0
 2020-04-08,16,País Vasco,1,Araba,2886,77,238.0,8.0
-2020-04-08,16,País Vasco,48,Bizkaia,5178,233,238.0,8.0
-2020-04-08,16,País Vasco,20,Gipuzkoa,1760,86,238.0,8.0
+2020-04-08,16,País Vasco,48,Bizkaia,5163,233,238.0,8.0
+2020-04-08,16,País Vasco,20,Gipuzkoa,1759,86,238.0,8.0
 2020-04-09,1,Andalucía,4,Almería,397,17,27.0,1.0
 2020-04-09,1,Andalucía,11,Cádiz,917,14,45.0,9.0
 2020-04-09,1,Andalucía,14,Córdoba,1084,15,45.0,3.0
@@ -1994,10 +1982,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-09,7,Castilla y León,47,Valladolid,1846,160,173.0,11.0
 2020-04-09,7,Castilla y León,49,Zamora,368,8,48.0,5.0
 2020-04-09,7,Castilla y León,5,Ávila,825,32,90.0,5.0
-2020-04-09,9,Cataluña,8,Barcelona,29138,966,,
-2020-04-09,9,Cataluña,17,Girona,2599,105,,
-2020-04-09,9,Cataluña,25,Lleida,1455,92,,
-2020-04-09,9,Cataluña,43,Tarragona,1410,84,,
+2020-04-09,9,Cataluña,8,Barcelona,29136,967,,
+2020-04-09,9,Cataluña,17,Girona,2587,104,,
+2020-04-09,9,Cataluña,25,Lleida,1456,93,,
+2020-04-09,9,Cataluña,43,Tarragona,1411,84,,
 2020-04-09,18,Ceuta,51,Ceuta,84,0,4.0,0.0
 2020-04-09,10,Comunitat Valenciana,3,Alicante,2852,47,310.0,18.0
 2020-04-09,10,Comunitat Valenciana,12,Castellón,914,22,96.0,7.0
@@ -2014,8 +2002,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-09,14,"Murcia, Región de",30,Murcia,1356,30,88.0,3.0
 2020-04-09,15,"Navarra, Comunidad Foral de",31,Navarra,3575,108,214.0,8.0
 2020-04-09,16,País Vasco,1,Araba,2932,46,246.0,8.0
-2020-04-09,16,País Vasco,48,Bizkaia,5395,217,246.0,8.0
-2020-04-09,16,País Vasco,20,Gipuzkoa,1818,58,246.0,8.0
+2020-04-09,16,País Vasco,48,Bizkaia,5380,217,246.0,8.0
+2020-04-09,16,País Vasco,20,Gipuzkoa,1817,58,246.0,8.0
 2020-04-10,1,Andalucía,4,Almería,402,5,29.0,2.0
 2020-04-10,1,Andalucía,11,Cádiz,931,14,49.0,4.0
 2020-04-10,1,Andalucía,14,Córdoba,1116,32,48.0,3.0
@@ -2046,10 +2034,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-10,7,Castilla y León,47,Valladolid,1985,139,184.0,11.0
 2020-04-10,7,Castilla y León,49,Zamora,406,38,49.0,1.0
 2020-04-10,7,Castilla y León,5,Ávila,859,34,93.0,3.0
-2020-04-10,9,Cataluña,8,Barcelona,29967,829,,
-2020-04-10,9,Cataluña,17,Girona,2660,61,,
-2020-04-10,9,Cataluña,25,Lleida,1508,53,,
-2020-04-10,9,Cataluña,43,Tarragona,1430,20,,
+2020-04-10,9,Cataluña,8,Barcelona,29964,828,,
+2020-04-10,9,Cataluña,17,Girona,2648,61,,
+2020-04-10,9,Cataluña,25,Lleida,1509,53,,
+2020-04-10,9,Cataluña,43,Tarragona,1431,20,,
 2020-04-10,18,Ceuta,51,Ceuta,91,7,4.0,0.0
 2020-04-10,10,Comunitat Valenciana,3,Alicante,2964,112,318.0,8.0
 2020-04-10,10,Comunitat Valenciana,12,Castellón,990,76,99.0,3.0
@@ -2066,8 +2054,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-10,14,"Murcia, Región de",30,Murcia,1383,27,90.0,2.0
 2020-04-10,15,"Navarra, Comunidad Foral de",31,Navarra,3748,173,218.0,4.0
 2020-04-10,16,País Vasco,1,Araba,2990,58,255.0,9.0
-2020-04-10,16,País Vasco,48,Bizkaia,5640,245,255.0,9.0
-2020-04-10,16,País Vasco,20,Gipuzkoa,1881,63,255.0,9.0
+2020-04-10,16,País Vasco,48,Bizkaia,5625,245,255.0,9.0
+2020-04-10,16,País Vasco,20,Gipuzkoa,1880,63,255.0,9.0
 2020-04-11,1,Andalucía,4,Almería,405,3,32.0,3.0
 2020-04-11,1,Andalucía,11,Cádiz,945,14,52.0,3.0
 2020-04-11,1,Andalucía,14,Córdoba,1136,20,49.0,1.0
@@ -2098,10 +2086,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-11,7,Castilla y León,47,Valladolid,2123,138,195.0,11.0
 2020-04-11,7,Castilla y León,49,Zamora,408,2,51.0,2.0
 2020-04-11,7,Castilla y León,5,Ávila,897,38,94.0,1.0
-2020-04-11,9,Cataluña,8,Barcelona,30603,636,,
-2020-04-11,9,Cataluña,17,Girona,2727,67,,
-2020-04-11,9,Cataluña,25,Lleida,1535,27,,
-2020-04-11,9,Cataluña,43,Tarragona,1469,39,,
+2020-04-11,9,Cataluña,8,Barcelona,30601,637,,
+2020-04-11,9,Cataluña,17,Girona,2715,67,,
+2020-04-11,9,Cataluña,25,Lleida,1536,27,,
+2020-04-11,9,Cataluña,43,Tarragona,1470,39,,
 2020-04-11,18,Ceuta,51,Ceuta,93,2,4.0,0.0
 2020-04-11,10,Comunitat Valenciana,3,Alicante,2995,31,327.0,9.0
 2020-04-11,10,Comunitat Valenciana,12,Castellón,1047,57,99.0,0.0
@@ -2118,8 +2106,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-11,14,"Murcia, Región de",30,Murcia,1413,30,94.0,4.0
 2020-04-11,15,"Navarra, Comunidad Foral de",31,Navarra,3817,69,227.0,9.0
 2020-04-11,16,País Vasco,1,Araba,3017,27,261.0,6.0
-2020-04-11,16,País Vasco,48,Bizkaia,5790,150,261.0,6.0
-2020-04-11,16,País Vasco,20,Gipuzkoa,1949,68,261.0,6.0
+2020-04-11,16,País Vasco,48,Bizkaia,5774,149,261.0,6.0
+2020-04-11,16,País Vasco,20,Gipuzkoa,1948,68,261.0,6.0
 2020-04-12,1,Andalucía,4,Almería,411,6,36.0,4.0
 2020-04-12,1,Andalucía,11,Cádiz,973,28,59.0,7.0
 2020-04-12,1,Andalucía,14,Córdoba,1153,17,56.0,7.0
@@ -2150,10 +2138,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-12,7,Castilla y León,47,Valladolid,2357,234,204.0,9.0
 2020-04-12,7,Castilla y León,49,Zamora,414,6,51.0,0.0
 2020-04-12,7,Castilla y León,5,Ávila,917,20,94.0,0.0
-2020-04-12,9,Cataluña,8,Barcelona,31185,582,,
-2020-04-12,9,Cataluña,17,Girona,2766,39,,
-2020-04-12,9,Cataluña,25,Lleida,1562,27,,
-2020-04-12,9,Cataluña,43,Tarragona,1505,36,,
+2020-04-12,9,Cataluña,8,Barcelona,31192,591,,
+2020-04-12,9,Cataluña,17,Girona,2754,39,,
+2020-04-12,9,Cataluña,25,Lleida,1563,27,,
+2020-04-12,9,Cataluña,43,Tarragona,1506,36,,
 2020-04-12,18,Ceuta,51,Ceuta,93,0,4.0,0.0
 2020-04-12,10,Comunitat Valenciana,3,Alicante,3135,140,331.0,4.0
 2020-04-12,10,Comunitat Valenciana,12,Castellón,1082,35,103.0,4.0
@@ -2170,8 +2158,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-12,14,"Murcia, Región de",30,Murcia,1449,36,97.0,3.0
 2020-04-12,15,"Navarra, Comunidad Foral de",31,Navarra,3969,152,232.0,5.0
 2020-04-12,16,País Vasco,1,Araba,3033,16,267.0,6.0
-2020-04-12,16,País Vasco,48,Bizkaia,5957,167,267.0,6.0
-2020-04-12,16,País Vasco,20,Gipuzkoa,2016,67,267.0,6.0
+2020-04-12,16,País Vasco,48,Bizkaia,5940,166,267.0,6.0
+2020-04-12,16,País Vasco,20,Gipuzkoa,2015,67,267.0,6.0
 2020-04-13,1,Andalucía,4,Almería,415,4,36.0,0.0
 2020-04-13,1,Andalucía,11,Cádiz,992,19,60.0,1.0
 2020-04-13,1,Andalucía,14,Córdoba,1169,16,56.0,0.0
@@ -2202,10 +2190,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-13,7,Castilla y León,47,Valladolid,2492,135,210.0,6.0
 2020-04-13,7,Castilla y León,49,Zamora,454,40,53.0,2.0
 2020-04-13,7,Castilla y León,5,Ávila,952,35,96.0,2.0
-2020-04-13,9,Cataluña,8,Barcelona,31770,585,,
-2020-04-13,9,Cataluña,17,Girona,2809,43,,
-2020-04-13,9,Cataluña,25,Lleida,1598,36,,
-2020-04-13,9,Cataluña,43,Tarragona,1521,16,,
+2020-04-13,9,Cataluña,8,Barcelona,31780,588,,
+2020-04-13,9,Cataluña,17,Girona,2797,43,,
+2020-04-13,9,Cataluña,25,Lleida,1599,36,,
+2020-04-13,9,Cataluña,43,Tarragona,1522,16,,
 2020-04-13,18,Ceuta,51,Ceuta,95,2,4.0,0.0
 2020-04-13,10,Comunitat Valenciana,3,Alicante,3214,79,342.0,11.0
 2020-04-13,10,Comunitat Valenciana,12,Castellón,1109,27,109.0,6.0
@@ -2222,8 +2210,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-13,14,"Murcia, Región de",30,Murcia,1463,14,101.0,4.0
 2020-04-13,15,"Navarra, Comunidad Foral de",31,Navarra,4092,123,239.0,7.0
 2020-04-13,16,País Vasco,1,Araba,3055,22,274.0,7.0
-2020-04-13,16,País Vasco,48,Bizkaia,6073,116,274.0,7.0
-2020-04-13,16,País Vasco,20,Gipuzkoa,2086,70,274.0,7.0
+2020-04-13,16,País Vasco,48,Bizkaia,6056,116,274.0,7.0
+2020-04-13,16,País Vasco,20,Gipuzkoa,2085,70,274.0,7.0
 2020-04-14,1,Andalucía,4,Almería,416,1,39.0,3.0
 2020-04-14,1,Andalucía,11,Cádiz,1003,11,60.0,0.0
 2020-04-14,1,Andalucía,14,Córdoba,1190,21,58.0,2.0
@@ -2254,10 +2242,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-14,7,Castilla y León,47,Valladolid,2672,180,216.0,6.0
 2020-04-14,7,Castilla y León,49,Zamora,459,5,54.0,1.0
 2020-04-14,7,Castilla y León,5,Ávila,966,14,100.0,4.0
-2020-04-14,9,Cataluña,8,Barcelona,32704,934,,
-2020-04-14,9,Cataluña,17,Girona,2921,112,,
-2020-04-14,9,Cataluña,25,Lleida,1646,48,,
-2020-04-14,9,Cataluña,43,Tarragona,1572,51,,
+2020-04-14,9,Cataluña,8,Barcelona,32713,933,,
+2020-04-14,9,Cataluña,17,Girona,2909,112,,
+2020-04-14,9,Cataluña,25,Lleida,1647,48,,
+2020-04-14,9,Cataluña,43,Tarragona,1573,51,,
 2020-04-14,18,Ceuta,51,Ceuta,96,1,4.0,0.0
 2020-04-14,10,Comunitat Valenciana,3,Alicante,3325,111,347.0,5.0
 2020-04-14,10,Comunitat Valenciana,12,Castellón,1126,17,113.0,4.0
@@ -2274,8 +2262,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-14,14,"Murcia, Región de",30,Murcia,1487,24,106.0,5.0
 2020-04-14,15,"Navarra, Comunidad Foral de",31,Navarra,4150,58,249.0,10.0
 2020-04-14,16,País Vasco,1,Araba,3075,20,275.0,1.0
-2020-04-14,16,País Vasco,48,Bizkaia,6236,163,275.0,1.0
-2020-04-14,16,País Vasco,20,Gipuzkoa,2156,70,275.0,1.0
+2020-04-14,16,País Vasco,48,Bizkaia,6218,162,275.0,1.0
+2020-04-14,16,País Vasco,20,Gipuzkoa,2155,70,275.0,1.0
 2020-04-15,1,Andalucía,4,Almería,418,2,39.0,0.0
 2020-04-15,1,Andalucía,11,Cádiz,1046,43,62.0,2.0
 2020-04-15,1,Andalucía,14,Córdoba,1211,21,59.0,1.0
@@ -2306,10 +2294,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-15,7,Castilla y León,47,Valladolid,2836,164,223.0,7.0
 2020-04-15,7,Castilla y León,49,Zamora,482,23,55.0,1.0
 2020-04-15,7,Castilla y León,5,Ávila,987,21,104.0,4.0
-2020-04-15,9,Cataluña,8,Barcelona,33615,911,,
-2020-04-15,9,Cataluña,17,Girona,3020,99,,
-2020-04-15,9,Cataluña,25,Lleida,1703,57,,
-2020-04-15,9,Cataluña,43,Tarragona,1664,92,,
+2020-04-15,9,Cataluña,8,Barcelona,33624,911,,
+2020-04-15,9,Cataluña,17,Girona,3009,100,,
+2020-04-15,9,Cataluña,25,Lleida,1704,57,,
+2020-04-15,9,Cataluña,43,Tarragona,1665,92,,
 2020-04-15,18,Ceuta,51,Ceuta,98,2,4.0,0.0
 2020-04-15,10,Comunitat Valenciana,3,Alicante,3380,55,357.0,10.0
 2020-04-15,10,Comunitat Valenciana,12,Castellón,1185,59,124.0,11.0
@@ -2326,8 +2314,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-15,14,"Murcia, Región de",30,Murcia,1520,33,109.0,3.0
 2020-04-15,15,"Navarra, Comunidad Foral de",31,Navarra,4246,96,252.0,3.0
 2020-04-15,16,País Vasco,1,Araba,3118,43,291.0,16.0
-2020-04-15,16,País Vasco,48,Bizkaia,6446,210,291.0,16.0
-2020-04-15,16,País Vasco,20,Gipuzkoa,2218,62,291.0,16.0
+2020-04-15,16,País Vasco,48,Bizkaia,6425,207,291.0,16.0
+2020-04-15,16,País Vasco,20,Gipuzkoa,2217,62,291.0,16.0
 2020-04-16,1,Andalucía,4,Almería,430,12,39.0,0.0
 2020-04-16,1,Andalucía,11,Cádiz,1074,28,68.0,6.0
 2020-04-16,1,Andalucía,14,Córdoba,1247,36,63.0,4.0
@@ -2358,10 +2346,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-16,7,Castilla y León,47,Valladolid,2946,110,229.0,6.0
 2020-04-16,7,Castilla y León,49,Zamora,530,48,57.0,2.0
 2020-04-16,7,Castilla y León,5,Ávila,1023,36,107.0,3.0
-2020-04-16,9,Cataluña,8,Barcelona,34587,972,,
-2020-04-16,9,Cataluña,17,Girona,3134,114,,
-2020-04-16,9,Cataluña,25,Lleida,1753,50,,
-2020-04-16,9,Cataluña,43,Tarragona,1716,52,,
+2020-04-16,9,Cataluña,8,Barcelona,34599,975,,
+2020-04-16,9,Cataluña,17,Girona,3122,113,,
+2020-04-16,9,Cataluña,25,Lleida,1754,50,,
+2020-04-16,9,Cataluña,43,Tarragona,1717,52,,
 2020-04-16,18,Ceuta,51,Ceuta,100,2,4.0,0.0
 2020-04-16,10,Comunitat Valenciana,3,Alicante,3403,23,369.0,12.0
 2020-04-16,10,Comunitat Valenciana,12,Castellón,1211,26,128.0,4.0
@@ -2378,8 +2366,8 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-16,14,"Murcia, Región de",30,Murcia,1598,78,111.0,2.0
 2020-04-16,15,"Navarra, Comunidad Foral de",31,Navarra,4348,102,261.0,9.0
 2020-04-16,16,País Vasco,1,Araba,3157,39,305.0,14.0
-2020-04-16,16,País Vasco,48,Bizkaia,6670,224,305.0,14.0
-2020-04-16,16,País Vasco,20,Gipuzkoa,2263,45,305.0,14.0
+2020-04-16,16,País Vasco,48,Bizkaia,6649,224,305.0,14.0
+2020-04-16,16,País Vasco,20,Gipuzkoa,2262,45,305.0,14.0
 2020-04-17,1,Andalucía,4,Almería,438,8,40.0,1.0
 2020-04-17,1,Andalucía,11,Cádiz,1112,38,71.0,3.0
 2020-04-17,1,Andalucía,14,Córdoba,1259,12,70.0,7.0
@@ -2410,10 +2398,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-17,7,Castilla y León,47,Valladolid,3067,121,235.0,6.0
 2020-04-17,7,Castilla y León,49,Zamora,572,42,61.0,4.0
 2020-04-17,7,Castilla y León,5,Ávila,1075,52,107.0,0.0
-2020-04-17,9,Cataluña,8,Barcelona,35920,1333,,
-2020-04-17,9,Cataluña,17,Girona,3269,135,,
-2020-04-17,9,Cataluña,25,Lleida,1795,42,,
-2020-04-17,9,Cataluña,43,Tarragona,1758,42,,
+2020-04-17,9,Cataluña,8,Barcelona,35926,1327,,
+2020-04-17,9,Cataluña,17,Girona,3257,135,,
+2020-04-17,9,Cataluña,25,Lleida,1796,42,,
+2020-04-17,9,Cataluña,43,Tarragona,1759,42,,
 2020-04-17,18,Ceuta,51,Ceuta,101,1,4.0,0.0
 2020-04-17,10,Comunitat Valenciana,3,Alicante,3478,75,380.0,11.0
 2020-04-17,10,Comunitat Valenciana,12,Castellón,1250,39,129.0,1.0
@@ -2429,9 +2417,9 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-17,19,Melilla,52,Melilla,104,1,2.0,0.0
 2020-04-17,14,"Murcia, Región de",30,Murcia,1625,27,112.0,1.0
 2020-04-17,15,"Navarra, Comunidad Foral de",31,Navarra,4433,85,338.0,77.0
-2020-04-17,16,País Vasco,1,Araba,3194,37,309.0,4.0
-2020-04-17,16,País Vasco,48,Bizkaia,6868,198,309.0,4.0
-2020-04-17,16,País Vasco,20,Gipuzkoa,2293,30,309.0,4.0
+2020-04-17,16,País Vasco,1,Araba,3195,38,309.0,4.0
+2020-04-17,16,País Vasco,48,Bizkaia,6845,196,309.0,4.0
+2020-04-17,16,País Vasco,20,Gipuzkoa,2293,31,309.0,4.0
 2020-04-18,1,Andalucía,4,Almería,446,8,42.0,2.0
 2020-04-18,1,Andalucía,11,Cádiz,1124,12,74.0,3.0
 2020-04-18,1,Andalucía,14,Córdoba,1266,7,72.0,2.0
@@ -2462,10 +2450,10 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-18,7,Castilla y León,47,Valladolid,3098,31,243.0,8.0
 2020-04-18,7,Castilla y León,49,Zamora,595,23,63.0,2.0
 2020-04-18,7,Castilla y León,5,Ávila,1090,15,107.0,0.0
-2020-04-18,9,Cataluña,8,Barcelona,36576,656,,
-2020-04-18,9,Cataluña,17,Girona,3362,93,,
-2020-04-18,9,Cataluña,25,Lleida,1833,38,,
-2020-04-18,9,Cataluña,43,Tarragona,1781,23,,
+2020-04-18,9,Cataluña,8,Barcelona,36581,655,,
+2020-04-18,9,Cataluña,17,Girona,3350,93,,
+2020-04-18,9,Cataluña,25,Lleida,1834,38,,
+2020-04-18,9,Cataluña,43,Tarragona,1782,23,,
 2020-04-18,18,Ceuta,51,Ceuta,108,7,4.0,0.0
 2020-04-18,10,Comunitat Valenciana,3,Alicante,3510,32,388.0,8.0
 2020-04-18,10,Comunitat Valenciana,12,Castellón,1306,56,139.0,10.0
@@ -2481,6 +2469,6 @@ date,id,region,pid,province,cases acc,cases new,deaths acc,deaths new
 2020-04-18,19,Melilla,52,Melilla,104,0,2.0,0.0
 2020-04-18,14,"Murcia, Región de",30,Murcia,1638,13,115.0,3.0
 2020-04-18,15,"Navarra, Comunidad Foral de",31,Navarra,4556,123,354.0,16.0
-2020-04-18,16,País Vasco,1,Araba,0,0,316.0,7.0
-2020-04-18,16,País Vasco,48,Bizkaia,0,0,316.0,7.0
-2020-04-18,16,País Vasco,20,Gipuzkoa,0,0,316.0,7.0
+2020-04-18,16,País Vasco,1,Araba,3233,38,316.0,7.0
+2020-04-18,16,País Vasco,48,Bizkaia,6992,147,316.0,7.0
+2020-04-18,16,País Vasco,20,Gipuzkoa,2328,35,316.0,7.0
